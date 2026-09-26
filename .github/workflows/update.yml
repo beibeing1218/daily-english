@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 23 * * *"     # UTC 23:00 = 台灣時間每天早上 7 點（GitHub 排程可能延遲數分鐘到半小時）
   workflow_dispatch:          # 可在 GitHub 網頁上手動按「Run workflow」
+    inputs:
+      force:
+        description: "重做今天的內容"
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths: ["build.py", "index.html", ".github/workflows/update.yml"]
@@ -31,7 +36,7 @@ jobs:
           python-version: "3.12"
 
       - name: 抓今天的文章、挑字、查字典
-        run: python build.py
+        run: python build.py ${{ inputs.force && '--force' || '' }}
 
       # 每日內容一定要存回 repo，存檔頁和「避免重複挑字」都靠它；每日提交也讓排程不會因 60 天無活動被停用
       - name: 存回每日內容
