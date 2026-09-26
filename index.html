@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>每日英文</title>
+<meta name="description" content="每天一篇英文新聞摘要與難字解析，附生字簿與間隔複習">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%23b4532a'/><text x='50' y='70' font-size='58' text-anchor='middle' fill='white' font-family='Georgia,serif' font-weight='700'>E</text></svg>">
+<style>
+:root {
+  --bg: #f7f4ee; --surface: #fffdf9; --surface-2: #f1ece3; --ink: #1f1c18; --ink-2: #5b554c; --ink-3: #8a8378;
+  --line: #e3dcd0; --accent: #b4532a; --accent-soft: #f6e3d8; --accent-ink: #8f3d1b;
+  --good: #2f7d4f; --good-soft: #dff0e5; --warn: #a86b00; --warn-soft: #f8ecd2; --bad: #b3372f; --bad-soft: #f7dedb;
+  --hl: #fbe7a8; --shadow: 0 1px 2px rgba(40,30,20,.06), 0 4px 16px rgba(40,30,20,.06);
+  --serif: "Charter", "Iowan Old Style", "Georgia", "Noto Serif", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", "Microsoft JhengHei", "PingFang TC", "Noto Sans TC", sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #171513; --surface: #201d1a; --surface-2: #2a2622; --ink: #eee8df; --ink-2: #b9b1a5; --ink-3: #857d72;
+    --line: #37322c; --accent: #e07a4f; --accent-soft: #3b271d; --accent-ink: #f0a07c;
+    --good: #5cb883; --good-soft: #1d3325; --warn: #e0a940; --warn-soft: #382c14; --bad: #e0685f; --bad-soft: #3a1f1c;
+    --hl: #5a4a1a; --shadow: 0 1px 2px rgba(0,0,0,.3), 0 4px 16px rgba(0,0,0,.25);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #171513; --surface: #201d1a; --surface-2: #2a2622; --ink: #eee8df; --ink-2: #b9b1a5; --ink-3: #857d72;
+  --line: #37322c; --accent: #e07a4f; --accent-soft: #3b271d; --accent-ink: #f0a07c;
+  --good: #5cb883; --good-soft: #1d3325; --warn: #e0a940; --warn-soft: #382c14; --bad: #e0685f; --bad-soft: #3a1f1c;
+  --hl: #5a4a1a; --shadow: 0 1px 2px rgba(0,0,0,.3), 0 4px 16px rgba(0,0,0,.25);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6 var(--sans); }
+a { color: var(--accent-ink); }
+button { font: inherit; color: inherit; cursor: pointer; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 0 16px; }
+
+/* 頂部 */
+header { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
+.bar { display: flex; align-items: center; gap: 12px; height: 56px; }
+.brand { font-weight: 700; font-size: 18px; letter-spacing: .02em; text-decoration: none; color: var(--ink); white-space: nowrap; }
+.brand b { color: var(--accent); font-family: var(--serif); }
+nav { display: flex; gap: 2px; margin-left: auto; overflow-x: auto; scrollbar-width: none; }
+nav::-webkit-scrollbar { display: none; }
+nav a { position: relative; padding: 7px 11px; border-radius: 8px; text-decoration: none; color: var(--ink-2); font-size: 15px; white-space: nowrap; }
+nav a:hover { background: var(--surface-2); }
+nav a.on { color: var(--ink); background: var(--surface-2); font-weight: 600; }
+.badge { display: inline-block; min-width: 18px; padding: 0 5px; margin-left: 4px; border-radius: 9px; background: var(--accent); color: #fff;
+  font-size: 11px; line-height: 18px; text-align: center; font-weight: 600; vertical-align: 1px; }
+.badge.muted { background: var(--line); color: var(--ink-2); }
+
+main { padding: 24px 0 80px; }
+.muted { color: var(--ink-3); }
+.small { font-size: 13px; }
+.chip { display: inline-block; padding: 1px 9px; border-radius: 999px; background: var(--accent-soft); color: var(--accent-ink); font-size: 12.5px; font-weight: 600; white-space: nowrap; }
+.chip.plain { background: var(--surface-2); color: var(--ink-2); font-weight: 500; }
+.btn { display: inline-flex; align-items: center; gap: 6px; padding: 7px 14px; border-radius: 9px; border: 1px solid var(--line);
+  background: var(--surface); font-size: 14px; text-decoration: none; color: var(--ink); line-height: 1.3; }
+.btn:hover { border-color: var(--ink-3); }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+.btn.primary:hover { filter: brightness(1.06); }
+.btn.done { background: var(--good-soft); border-color: transparent; color: var(--good); }
+.btn.ghost { border-color: transparent; background: transparent; color: var(--ink-2); }
+.btn.ghost:hover { background: var(--surface-2); }
+.btn:disabled { opacity: .5; cursor: default; }
+.icon-btn { border: 0; background: var(--surface-2); width: 30px; height: 30px; border-radius: 50%; display: inline-grid; place-items: center; font-size: 14px; flex: none; }
+.icon-btn:hover { background: var(--line); }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); }
+.empty { text-align: center; padding: 48px 16px; color: var(--ink-3); }
+h2.sec { font-size: 15px; letter-spacing: .06em; color: var(--ink-2); margin: 36px 0 12px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+h2.sec::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+
+/* 今日文章 */
+.meta { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; color: var(--ink-3); font-size: 14px; }
+.daynav { display: flex; justify-content: space-between; gap: 8px; margin-bottom: 18px; }
+.art-title { font-family: var(--serif); font-size: clamp(24px, 4.6vw, 32px); line-height: 1.25; margin: 12px 0 18px; letter-spacing: -.005em; }
+.summary { font-family: var(--serif); font-size: 19px; line-height: 1.75; }
+.summary p { margin: 0 0 1em; }
+.summary p.stand { font-size: 20.5px; color: var(--ink-2); font-style: italic; }
+.w { cursor: pointer; border-radius: 3px; }
+.w:hover { background: var(--surface-2); }
+.w.key { background: var(--hl); box-shadow: 0 1.5px 0 var(--accent); padding: 0 1px; }
+.w.key:hover { filter: brightness(.96); }
+.zh { font-family: var(--sans); font-size: 16px; line-height: 1.8; color: var(--ink-2); background: var(--surface-2); border-radius: 10px; padding: 14px 16px; margin-top: 4px; }
+.zh p { margin: 0 0 .6em; } .zh p:last-child { margin: 0; }
+.tools { margin: 6px 0 4px; }
+
+/* 單字卡 */
+.words { display: grid; gap: 14px; }
+.wc { padding: 18px 18px 16px; }
+.wc-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.wc-word { font-family: var(--serif); font-size: 26px; font-weight: 700; letter-spacing: .005em; }
+.ipa { color: var(--ink-3); font-size: 15px; font-family: "Lucida Sans Unicode", "Segoe UI", var(--sans); }
+.wc-form { color: var(--ink-3); font-size: 13px; }
+.wc-add { margin-left: auto; }
+.zh-line { margin: 8px 0 2px; font-size: 16.5px; }
+.zh-line .pos { color: var(--ink-3); font-size: 13px; margin-right: 4px; }
+.zh-line .t + .t::before { content: "；"; color: var(--ink-3); }
+.defs { margin: 10px 0 0; padding: 0; list-style: none; }
+.defs li { margin: 4px 0; font-size: 15px; color: var(--ink); }
+.defs .pos { display: inline-block; min-width: 44px; margin-right: 6px; font-size: 12px; color: var(--accent-ink); font-weight: 600; }
+.defs ol { margin: 2px 0 6px; padding-left: 22px; color: var(--ink-2); }
+.defs ol li { font-size: 14.5px; margin: 2px 0; }
+.eg { margin: 12px 0 0; padding: 10px 14px; border-left: 3px solid var(--accent); background: var(--surface-2); border-radius: 0 8px 8px 0;
+  font-family: var(--serif); font-size: 16px; line-height: 1.6; color: var(--ink-2); }
+.eg mark { background: var(--hl); color: var(--ink); padding: 0 2px; border-radius: 2px; font-weight: 600; }
+.syn { margin-top: 10px; font-size: 14px; color: var(--ink-3); }
+.syn b { font-weight: 500; color: var(--ink-2); }
+
+/* 彈出查詢 */
+.scrim { position: fixed; inset: 0; background: rgba(20,15,10,.35); z-index: 40; display: none; }
+.sheet { position: fixed; z-index: 41; left: 50%; bottom: 0; transform: translate(-50%, 105%); width: min(640px, 100%); max-height: 78vh; overflow: auto;
+  background: var(--surface); border-radius: 18px 18px 0 0; box-shadow: 0 -8px 30px rgba(0,0,0,.18); transition: transform .22s ease; padding: 6px 0 18px; }
+.sheet.open { transform: translate(-50%, 0); }
+.sheet .grip { width: 40px; height: 4px; border-radius: 2px; background: var(--line); margin: 6px auto 4px; }
+.sheet .wc { border: 0; box-shadow: none; background: transparent; }
+.sheet-close { position: absolute; right: 12px; top: 12px; }
+
+/* 存檔 */
+.month { margin: 26px 0 8px; font-size: 14px; color: var(--ink-3); font-weight: 600; letter-spacing: .04em; }
+.arch { display: grid; gap: 8px; }
+.arch a { display: grid; grid-template-columns: 64px 1fr auto; gap: 12px; align-items: center; padding: 12px 14px; text-decoration: none; color: var(--ink); }
+.arch a:hover { border-color: var(--ink-3); }
+.arch .d { font-size: 13px; color: var(--ink-3); line-height: 1.3; }
+.arch .d b { display: block; font-size: 20px; color: var(--ink); font-family: var(--serif); }
+.arch .t { font-family: var(--serif); font-size: 16px; line-height: 1.4; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.arch .n { font-size: 12.5px; color: var(--ink-3); white-space: nowrap; }
+
+/* 生字簿 */
+.note { padding: 12px 14px; border-radius: 10px; background: var(--warn-soft); color: var(--ink); font-size: 14px; line-height: 1.6; }
+.note b { color: var(--warn); }
+.filters { display: grid; grid-template-columns: 1fr auto auto; gap: 8px; margin: 16px 0 12px; }
+input[type=search], select { font: inherit; font-size: 15px; padding: 8px 12px; border-radius: 9px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); min-width: 0; }
+input[type=search]:focus, select:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+.blist { display: grid; gap: 8px; }
+.bi { padding: 0; overflow: hidden; }
+.bi summary { list-style: none; display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; padding: 12px 14px; cursor: pointer; }
+.bi summary::-webkit-details-marker { display: none; }
+.bi .bw { font-family: var(--serif); font-size: 19px; font-weight: 700; }
+.bi .bz { color: var(--ink-2); font-size: 14.5px; grid-column: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bi .bs { grid-row: 1 / span 2; grid-column: 2; text-align: right; font-size: 12.5px; color: var(--ink-3); line-height: 1.7; }
+.bi[open] summary { border-bottom: 1px solid var(--line); }
+.bi .wc { border: 0; box-shadow: none; }
+.due-now { color: var(--accent-ink); font-weight: 600; }
+
+/* 複習 */
+.rv-top { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 14px; }
+.progress { flex: 1; height: 6px; border-radius: 3px; background: var(--line); overflow: hidden; }
+.progress i { display: block; height: 100%; background: var(--accent); transition: width .3s; }
+.flash { padding: 28px 22px 22px; min-height: 280px; }
+.flash .front { text-align: center; }
+.flash .big { font-family: var(--serif); font-size: clamp(34px, 8vw, 46px); font-weight: 700; margin: 6px 0 2px; }
+.flash .eg { text-align: left; margin-top: 20px; }
+.flash .src { font-size: 12.5px; color: var(--ink-3); margin-top: 6px; text-align: left; }
+.reveal { display: block; width: 100%; margin-top: 22px; padding: 12px; font-size: 16px; justify-content: center; }
+.grades { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 18px; }
+.grades button { border: 0; border-radius: 12px; padding: 12px 6px 10px; font-size: 16px; font-weight: 600; line-height: 1.3; }
+.grades button small { display: block; font-weight: 400; font-size: 12px; opacity: .8; margin-top: 2px; }
+.g-again { background: var(--bad-soft); color: var(--bad); }
+.g-hard { background: var(--warn-soft); color: var(--warn); }
+.g-good { background: var(--good-soft); color: var(--good); }
+.grades button:hover { filter: brightness(.97); }
+.kbd { display: inline-block; border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 5px; padding: 0 5px; font-size: 11px; color: var(--ink-3); margin-left: 4px; font-family: var(--sans); }
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 18px 0; }
+.stat { padding: 14px; text-align: center; }
+.stat b { display: block; font-size: 26px; font-family: var(--serif); }
+.stat span { font-size: 13px; color: var(--ink-3); }
+
+.toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%) translateY(20px); opacity: 0; background: var(--ink); color: var(--bg);
+  padding: 10px 18px; border-radius: 10px; font-size: 14px; transition: .2s; z-index: 60; pointer-events: none; max-width: calc(100% - 32px); }
+.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+footer { padding: 24px 0 40px; font-size: 12.5px; color: var(--ink-3); text-align: center; }
+footer a { color: var(--ink-3); }
+
+@media (max-width: 560px) {
+  .bar { gap: 6px; }
+  .brand { font-size: 16px; }
+  nav a { padding: 6px 8px; font-size: 14px; }
+  .summary { font-size: 18px; }
+  .summary p.stand { font-size: 19px; }
+  .filters { grid-template-columns: 1fr 1fr; }
+  .filters input { grid-column: 1 / -1; }
+  .arch a { grid-template-columns: 52px 1fr; }
+  .arch .n { display: none; }
+  .wc-word { font-size: 23px; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap bar">
+    <a class="brand" href="#/">每日<b>English</b></a>
+    <nav>
+      <a href="#/" data-nav="day">今日</a>
+      <a href="#/archive" data-nav="archive">存檔</a>
+      <a href="#/book" data-nav="book">生字簿<span class="badge muted" id="nBook" hidden></span></a>
+      <a href="#/review" data-nav="review">複習<span class="badge" id="nDue" hidden></span></a>
+    </nav>
+  </div>
+</header>
+<main class="wrap" id="app"><div class="empty">載入中…</div></main>
+<footer class="wrap">文章摘錄自原出處，版權屬原媒體所有 · 字典：<a href="https://www.datamuse.com/api/" target="_blank" rel="noopener">Datamuse</a>（Wiktionary 釋義）· 中文：Google 翻譯</footer>
+
+<div class="scrim" id="scrim"></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true"><div class="grip"></div><button class="icon-btn sheet-close" id="sheetClose" aria-label="關閉">✕</button><div id="sheetBody"></div></div>
+<div class="toast" id="toast"></div>
+
+<script>
+"use strict";
+// ============ 儲存（只存在這個瀏覽器） ============
+const KEY = "dailyEnglish.v1";
+const DAILY_LIMIT = 30;
+let storageOK = true;
+let db = load();
+function load() {
+  try {
+    const raw = localStorage.getItem(KEY);
+    const d = raw ? JSON.parse(raw) : {};
+    return { vocab: d.vocab || {}, log: d.log || {}, created: d.created || null, lastBackup: d.lastBackup || null };
+  } catch (e) { storageOK = false; return { vocab: {}, log: {}, created: null, lastBackup: null }; }
+}
+function save() {
+  try { localStorage.setItem(KEY, JSON.stringify(db)); storageOK = true; }
+  catch (e) { storageOK = false; toast("無法寫入瀏覽器儲存空間（可能是無痕模式），生字不會被保存"); }
+  updateBadges();
+}
+try { navigator.storage && navigator.storage.persist && navigator.storage.persist(); } catch (e) {}
+
+// ============ 小工具 ============
+const $ = (s, el = document) => el.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const app = $("#app");
+function today() { return ymd(new Date()); }
+function ymd(d) { return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); }
+function addDays(s, n) { const d = new Date(s + "T12:00:00"); d.setDate(d.getDate() + n); return ymd(d); }
+function daysBetween(a, b) { return Math.round((new Date(b + "T12:00:00") - new Date(a + "T12:00:00")) / 864e5); }
+let toastTimer;
+function toast(msg) { const t = $("#toast"); t.textContent = msg; t.classList.add("show"); clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.remove("show"), 2200); }
+async function getJSON(url) { const r = await fetch(url, { cache: "no-cache" }); if (!r.ok) throw new Error(r.status); return r.json(); }
+const CATS = { world: "政治／國際", business: "商業／經濟", tech: "科技", science: "科學／健康", environment: "環境／氣候", culture: "文化／藝術", opinion: "評論", lookup: "自己查的" };
+
+// 發音：優先英式（來源多為英國媒體）
+let voice = null;
+function pickVoice() {
+  const vs = speechSynthesis.getVoices();
+  voice = vs.find(v => /en-GB/i.test(v.lang) && /natural|online/i.test(v.name)) || vs.find(v => /en-GB/i.test(v.lang))
+       || vs.find(v => /^en/i.test(v.lang)) || null;
+}
+if ("speechSynthesis" in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
+function speak(text, rate = 0.9) {
+  if (!("speechSynthesis" in window)) return toast("這個瀏覽器不支援朗讀");
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  if (voice) u.voice = voice; u.lang = voice ? voice.lang : "en-GB"; u.rate = rate;
+  speechSynthesis.speak(u);
+}
+
+// ============ 資料 ============
+let index = null;
+const dayCache = {};
+async function getIndex() { if (!index) index = await getJSON("data/index.json?t=" + Date.now()); return index; }
+async function getDay(date) { if (!dayCache[date]) dayCache[date] = await getJSON(`data/days/${date}.json`); return dayCache[date]; }
+
+// ============ 單字卡（今日、查詢、生字簿、複習共用） ============
+function markWord(sentence, form) {
+  const re = new RegExp("\\b(" + form.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")\\b", "i");
+  return esc(sentence).replace(re, "<mark>$1</mark>");
+}
+function zhHTML(c) {
+  if (c.zh && c.zh.length) return c.zh.map(z => `<div class="zh-line"><span class="pos">${esc(z.pos_zh)}</span>${z.terms.map(t => `<span class="t">${esc(t)}</span>`).join("")}</div>`).join("");
+  return c.zh_main ? `<div class="zh-line">${esc(c.zh_main)}</div>` : "";
+}
+function cardBody(c, { withSentence = true } = {}) {
+  const defs = (c.meanings || []).map(m => `<li><span class="pos">${esc(m.pos_zh)}</span>${m.defs.length === 1 ? esc(m.defs[0]) : `<ol>${m.defs.map(d => `<li>${esc(d)}</li>`).join("")}</ol>`}</li>`).join("");
+  return `${zhHTML(c)}
+    ${defs ? `<ul class="defs">${defs}</ul>` : ""}
+    ${withSentence && c.sentence ? `<div class="eg">${markWord(c.sentence, c.form || c.word)}</div>` : ""}
+    ${c.synonyms && c.synonyms.length ? `<div class="syn">同義字　${c.synonyms.map(s => `<b>${esc(s)}</b>`).join("、")}</div>` : ""}`;
+}
+function wordCard(c, ctx) {
+  const inBook = !!db.vocab[c.word];
+  return `<article class="card wc" data-word="${esc(c.word)}">
+    <div class="wc-head">
+      <span class="wc-word">${esc(c.word)}</span>
+      ${c.ipa ? `<span class="ipa">/${esc(c.ipa)}/</span>` : ""}
+      <button class="icon-btn" data-say="${esc(c.word)}" aria-label="發音">🔊</button>
+      ${c.form && c.form.toLowerCase() !== c.word ? `<span class="wc-form">文中：${esc(c.form)}</span>` : ""}
+      ${ctx ? `<button class="btn wc-add ${inBook ? "done" : ""}" data-add="${esc(c.word)}">${inBook ? "✓ 已在生字簿" : "＋ 加入生字簿"}</button>` : ""}
+    </div>
+    ${cardBody(c)}
+  </article>`;
+}
+// 加入／移除時需要的來源資訊
+let cardCtx = {};   // word -> {card, date, cat, title, url}
+function toggleBook(word) {
+  const ctx = cardCtx[word];
+  if (db.vocab[word]) {
+    if (!confirm(`要把「${word}」從生字簿移除嗎？複習紀錄也會一起刪掉。`)) return false;
+    delete db.vocab[word]; save(); toast(`已移除 ${word}`); return true;
+  }
+  if (!ctx) return false;
+  const t = today();
+  db.vocab[word] = { ...ctx.card, date: ctx.date, cat: ctx.cat, title: ctx.title, url: ctx.url, added: t,
+    srs: { due: t, interval: 0, ease: 2.5, reps: 0, lapses: 0, last: null } };
+  if (!db.created) db.created = t;
+  save(); toast(`已加入 ${word}，今天就可以複習`); return true;
+}
+function refreshAddButtons(word) {
+  document.querySelectorAll(`[data-add="${CSS.escape(word)}"]`).forEach(b => {
+    const on = !!db.vocab[word]; b.classList.toggle("done", on); b.textContent = on ? "✓ 已在生字簿" : "＋ 加入生字簿";
+  });
+}
+
+// ============ 點任何字即時查詢 ============
+const lookupCache = {};
+async function datamuse(w) {
+  const r = await getJSON(`https://api.datamuse.com/words?sp=${encodeURIComponent(w)}&md=dpfr&ipa=1&max=1`);
+  return r[0] && r[0].word.toLowerCase() === w && r[0].defs ? r[0] : null;
+}
+async function lookupWord(raw) {
+  const w = raw.toLowerCase();
+  if (lookupCache[w]) return lookupCache[w];
+  let dm = await datamuse(w);
+  if (!dm) { for (const f of stems(w)) { dm = await datamuse(f); if (dm) break; } }
+  if (!dm) return null;
+  const head = (dm.defHeadword || dm.word).toLowerCase();
+  if (head !== dm.word) dm = (await datamuse(head)) || dm;
+  const POS = { n: "名詞", v: "動詞", adj: "形容詞", adv: "副詞", u: "其他" };
+  const by = {};
+  for (const d of dm.defs) { const [p, t] = d.split("\t"); (by[p] = by[p] || []).length < 3 && by[p].push(t.trim()); }
+  const meanings = Object.keys(by).slice(0, 3).map(p => ({ pos: p, pos_zh: POS[p] || p, defs: by[p] }));
+  const ipa = ((dm.tags || []).find(t => t.startsWith("ipa_pron:")) || "").slice(9);
+  const card = { word: head, form: raw, ipa, meanings, zh: [], zh_main: "", synonyms: [] };
+  const GP = { noun: "n", verb: "v", adjective: "adj", adverb: "adv" };
+  await Promise.all([
+    getJSON(`https://clients5.google.com/translate_a/single?client=dict-chrome-ex&sl=en&tl=zh-TW&hl=en&dt=t&dt=bd&q=${encodeURIComponent(head)}`).then(g => {
+      card.zh_main = (g[0] || []).map(s => s && s[0]).join("");
+      card.zh = (g[1] || []).slice(0, 3).map(e => ({ pos: GP[e[0]] || "u", pos_zh: POS[GP[e[0]]] || "其他", terms: zhTerms(e[1], card.zh_main) }));
+    }).catch(() => {}),
+    getJSON(`https://api.datamuse.com/words?rel_syn=${encodeURIComponent(head)}&max=8`).then(s => {
+      card.synonyms = s.map(x => x.word).filter(x => !x.includes(" ")).slice(0, 5);
+    }).catch(() => {}),
+  ]);
+  return (lookupCache[w] = card);
+}
+// Google 字典模式的中文詞沒有排序依據，常把罕用單字（灝、泂）排前面：主翻譯優先，其次多字詞
+function zhTerms(terms, main) {
+  const m = main.replace(/的$/, "");
+  const multi = terms.filter(t => t.length >= 2);
+  const list = [...terms.filter(t => t === main || t === m), ...(multi.length ? multi : terms)];
+  return [...new Set(list)].slice(0, 5);
+}
+function stems(w) {
+  const out = [];
+  if (w.endsWith("ies")) out.push(w.slice(0, -3) + "y");
+  if (w.endsWith("es")) out.push(w.slice(0, -2));
+  if (w.endsWith("s")) out.push(w.slice(0, -1));
+  if (w.endsWith("ied")) out.push(w.slice(0, -3) + "y");
+  if (w.endsWith("ed")) out.push(w.slice(0, -2), w.slice(0, -1));
+  if (w.endsWith("ing")) out.push(w.slice(0, -3), w.slice(0, -3) + "e");
+  if (w.endsWith("ly")) out.push(w.slice(0, -2));
+  return out.filter(x => x.length >= 3);
+}
+let sheetFor = null;   // 目前彈出視窗查的是哪個字（關掉後才回來的查詢結果就不顯示）
+function openSheet(html) {
+  $("#sheetBody").innerHTML = html;
+  $("#scrim").style.display = "block";
+  requestAnimationFrame(() => $("#sheet").classList.add("open"));
+}
+function closeSheet() { sheetFor = null; $("#sheet").classList.remove("open"); $("#scrim").style.display = "none"; }
+$("#scrim").onclick = closeSheet; $("#sheetClose").onclick = closeSheet;
+
+async function showLookup(raw, day, sentence) {
+  const key = day.words.find(c => c.form.toLowerCase() === raw.toLowerCase() || c.word === raw.toLowerCase());
+  if (key) { openSheet(wordCard(key, true)); return; }
+  openSheet(`<div class="wc"><div class="wc-head"><span class="wc-word">${esc(raw)}</span></div><p class="muted">查詢中…</p></div>`);
+  const token = sheetFor = {};
+  try {
+    const c = await lookupWord(raw);
+    if (sheetFor !== token) return;
+    if (!c) { openSheet(`<div class="wc"><div class="wc-head"><span class="wc-word">${esc(raw)}</span></div><p class="muted">字典裡查不到這個字（可能是專有名詞）。</p></div>`); return; }
+    c.sentence = sentence;
+    cardCtx[c.word] = cardCtx[c.word] || { card: c, date: day.date, cat: "lookup", title: day.title, url: day.url };
+    openSheet(wordCard(c, true));
+  } catch (e) {
+    if (sheetFor !== token) return;
+    openSheet(`<div class="wc"><div class="wc-head"><span class="wc-word">${esc(raw)}</span></div><p class="muted">查詢失敗，請檢查網路後再試一次。</p></div>`);
+  }
+}
+
+// ============ 今日／某一天 ============
+function tokenize(text, keyForms) {
+  // 把每個英文字包成可點的 span；今日生字加上底色
+  return esc(text).replace(/[A-Za-z][A-Za-z’'-]*[A-Za-z]|[A-Za-z]/g, m => {
+    const bare = m.replace(/[’']s$/, "");
+    const k = keyForms.has(bare.toLowerCase());
+    return `<span class="w${k ? " key" : ""}" data-w="${esc(bare)}">${esc(m)}</span>`;
+  });
+}
+async function viewDay(date) {
+  const idx = await getIndex();
+  if (!idx.length) { app.innerHTML = `<div class="empty">還沒有任何內容，明天早上 7 點會自動產生第一篇。</div>`; return; }
+  date = date || idx[0].date;
+  let day;
+  try { day = await getDay(date); } catch (e) { app.innerHTML = `<div class="empty">找不到 ${esc(date)} 的內容。<br><a href="#/archive">看存檔</a></div>`; return; }
+  const pos = idx.findIndex(d => d.date === date);
+  const newer = idx[pos - 1], older = idx[pos + 1];
+  // 已經在生字簿（且不是從這天加入）的字就不再列出；取最罕見的 7 個，依文中順序排列
+  const avail = day.words.filter(c => !db.vocab[c.word] || db.vocab[c.word].date === day.date);
+  const rarest = new Set([...avail].sort((a, b) => (a.freq ?? 0) - (b.freq ?? 0)).slice(0, 7));
+  const words = avail.filter(c => rarest.has(c));
+  cardCtx = {};
+  words.forEach(c => cardCtx[c.word] = { card: c, date: day.date, cat: day.cat, title: day.title, url: day.url });
+  const keyForms = new Set(words.map(c => c.form.toLowerCase()));
+  const isLatest = pos === 0;
+  app.innerHTML = `
+    <div class="daynav">
+      ${older ? `<a class="btn ghost" href="#/day/${older.date}">← ${older.date.slice(5).replace("-", "/")}</a>` : "<span></span>"}
+      ${newer ? `<a class="btn ghost" href="#/day/${newer.date}">${newer.date.slice(5).replace("-", "/")} →</a>` : "<span></span>"}
+    </div>
+    <div class="meta"><span class="chip">${esc(day.cat_zh)}</span><span>${esc(day.date)}（${esc(day.weekday_zh)}）${isLatest ? "· 今日" : ""}</span><span>· ${esc(day.source)}</span></div>
+    <h1 class="art-title">${esc(day.title)}</h1>
+    <div class="summary" id="summary">
+      ${day.summary.map((p, i) => `<p class="${i === 0 ? "stand" : ""}">${tokenize(p, keyForms)}</p>`).join("")}
+    </div>
+    <div class="row tools">
+      <button class="btn" id="btnZh">顯示中文翻譯</button>
+      <button class="btn" id="btnRead">🔊 朗讀</button>
+      <a class="btn" href="${esc(day.url)}" target="_blank" rel="noopener">閱讀全文 ↗</a>
+    </div>
+    <div class="zh" id="zh" hidden>${(day.summary_zh || []).map(p => `<p>${esc(p)}</p>`).join("") || "（這天沒有翻譯）"}</div>
+    <p class="muted small">點文章裡任何一個字都能查字典、加入生字簿。</p>
+    <h2 class="sec">今日生字 ${words.length}</h2>
+    <div class="words">${words.map(c => wordCard(c, true)).join("") || `<div class="empty">這篇摘要沒有挑到新的難字，可以點文章裡的字自己查。</div>`}</div>`;
+  $("#btnZh").onclick = e => { const z = $("#zh"); z.hidden = !z.hidden; e.target.textContent = z.hidden ? "顯示中文翻譯" : "隱藏中文翻譯"; };
+  $("#btnRead").onclick = () => speak(day.summary.join(" "), 0.92);
+  $("#summary").onclick = e => {
+    const s = e.target.closest(".w"); if (!s) return;
+    const para = s.closest("p").textContent;
+    const sent = (para.match(/[^.!?]+[.!?’”"]*/g) || [para]).find(x => new RegExp("\\b" + s.dataset.w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\b").test(x)) || para;
+    showLookup(s.dataset.w, day, sent.trim());
+  };
+}
+
+// ============ 存檔 ============
+async function viewArchive() {
+  const idx = await getIndex();
+  if (!idx.length) { app.innerHTML = `<div class="empty">還沒有存檔。</div>`; return; }
+  let html = "", month = "";
+  for (const d of idx) {
+    const m = d.date.slice(0, 7);
+    if (m !== month) { if (month) html += "</div>"; month = m; html += `<div class="month">${m.replace("-", " 年 ")} 月</div><div class="arch">`; }
+    html += `<a class="card" href="#/day/${d.date}">
+      <div class="d"><b>${+d.date.slice(8)}</b>星期${esc(d.weekday_zh)}</div>
+      <div><span class="chip">${esc(d.cat_zh)}</span> <span class="muted small">${esc(d.source)}</span><div class="t">${esc(d.title)}</div></div>
+      <div class="n">${Math.min(d.n_words, 7)} 字</div></a>`;
+  }
+  app.innerHTML = `<h1 class="art-title" style="margin-top:0">存檔</h1><p class="muted">共 ${idx.length} 天</p>${html}</div>`;
+}
+
+// ============ 生字簿 ============
+let bookState = { q: "", cat: "", sort: "added" };
+function dueLabel(s) {
+  const n = daysBetween(today(), s.srs.due);
+  return n <= 0 ? `<span class="due-now">今天複習</span>` : n === 1 ? "明天複習" : `${n} 天後複習`;
+}
+function viewBook() {
+  const all = Object.values(db.vocab);
+  const note = !storageOK
+    ? `<div class="note"><b>無法使用瀏覽器儲存空間</b>（可能是無痕模式），加入的生字不會被保存。</div>`
+    : `<div class="note">生字簿<b>只存在這個瀏覽器</b>${db.created ? `（${esc(db.created)} 開始）` : ""}。換電腦、換瀏覽器看不到；清除瀏覽器資料會不見。
+       ${all.length ? `上次備份：${db.lastBackup ? esc(db.lastBackup) : "<b>從未備份</b>"}。` : ""}</div>`;
+  app.innerHTML = `
+    <h1 class="art-title" style="margin-top:0">生字簿</h1>
+    ${note}
+    <div class="row" style="margin-top:12px">
+      <button class="btn" id="btnExport" ${all.length ? "" : "disabled"}>⬇ 匯出備份</button>
+      <button class="btn" id="btnImport">⬆ 匯入備份</button>
+      <input type="file" id="fileImport" accept=".json,application/json" hidden>
+      <span class="muted small" style="margin-left:auto">${all.length} 個字</span>
+    </div>
+    <div class="filters">
+      <input type="search" id="q" placeholder="搜尋單字、中文、釋義…" value="${esc(bookState.q)}">
+      <select id="cat"><option value="">全部類別</option>${Object.entries(CATS).map(([k, v]) => `<option value="${k}" ${bookState.cat === k ? "selected" : ""}>${v}</option>`).join("")}</select>
+      <select id="sort">
+        <option value="added" ${bookState.sort === "added" ? "selected" : ""}>最新加入</option>
+        <option value="alpha" ${bookState.sort === "alpha" ? "selected" : ""}>字母順序</option>
+        <option value="due" ${bookState.sort === "due" ? "selected" : ""}>待複習優先</option>
+        <option value="hard" ${bookState.sort === "hard" ? "selected" : ""}>最常忘記</option>
+      </select>
+    </div>
+    <div class="blist" id="blist"></div>`;
+  const render = () => {
+    const q = bookState.q.trim().toLowerCase();
+    let list = all.filter(v => (!bookState.cat || v.cat === bookState.cat) &&
+      (!q || [v.word, v.form, v.zh_main, ...(v.zh || []).flatMap(z => z.terms), ...(v.meanings || []).flatMap(m => m.defs)].join(" ").toLowerCase().includes(q)));
+    const sorters = {
+      added: (a, b) => (b.added + b.word).localeCompare(a.added + a.word) || 0,
+      alpha: (a, b) => a.word.localeCompare(b.word),
+      due: (a, b) => a.srs.due.localeCompare(b.srs.due),
+      hard: (a, b) => b.srs.lapses - a.srs.lapses || a.srs.ease - b.srs.ease,
+    };
+    list.sort(sorters[bookState.sort]);
+    $("#blist").innerHTML = list.length ? list.map(v => `
+      <details class="card bi" data-word="${esc(v.word)}">
+        <summary>
+          <span class="bw">${esc(v.word)} <span class="ipa">${v.ipa ? "/" + esc(v.ipa) + "/" : ""}</span></span>
+          <span class="bz">${esc(v.zh && v.zh[0] ? v.zh[0].terms.slice(0, 3).join("、") : v.zh_main || (v.meanings[0] && v.meanings[0].defs[0]) || "")}</span>
+          <span class="bs"><span class="chip plain">${esc(CATS[v.cat] || "")}</span><br>${dueLabel(v)}</span>
+        </summary>
+        <div class="wc">
+          <div class="row"><button class="icon-btn" data-say="${esc(v.word)}" aria-label="發音">🔊</button>
+            <span class="muted small">${esc(v.added)} 加入 · 複習 ${v.srs.reps} 次${v.srs.lapses ? ` · 忘記 ${v.srs.lapses} 次` : ""}</span></div>
+          ${cardBody(v)}
+          <div class="row" style="margin-top:12px">
+            ${v.url ? `<a class="btn ghost small" href="${v.cat === "lookup" || !v.date ? esc(v.url) : "#/day/" + esc(v.date)}" ${v.cat === "lookup" || !v.date ? 'target="_blank" rel="noopener"' : ""}>出處：${esc((v.title || "").slice(0, 40))}${(v.title || "").length > 40 ? "…" : ""}</a>` : ""}
+            <button class="btn ghost small" data-del="${esc(v.word)}" style="margin-left:auto;color:var(--bad)">移除</button>
+          </div>
+        </div>
+      </details>`).join("")
+      : `<div class="empty">${all.length ? "沒有符合的字" : "生字簿還是空的。<br>在「今日」頁按「＋ 加入生字簿」，或點文章裡的字查詢後加入。"}</div>`;
+  };
+  render();
+  $("#q").oninput = e => { bookState.q = e.target.value; render(); };
+  $("#cat").onchange = e => { bookState.cat = e.target.value; render(); };
+  $("#sort").onchange = e => { bookState.sort = e.target.value; render(); };
+  $("#blist").onclick = e => {
+    const d = e.target.closest("[data-del]"); if (!d) return;
+    const w = d.dataset.del;
+    if (confirm(`要把「${w}」從生字簿移除嗎？複習紀錄也會一起刪掉。`)) { delete db.vocab[w]; save(); viewBook(); toast(`已移除 ${w}`); }
+  };
+  $("#btnExport").onclick = exportBook;
+  $("#btnImport").onclick = () => $("#fileImport").click();
+  $("#fileImport").onchange = importBook;
+}
+function exportBook() {
+  const t = today();
+  const blob = new Blob([JSON.stringify({ app: "daily-english", version: 1, exported: t, vocab: db.vocab, log: db.log, created: db.created }, null, 1)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob); a.download = `每日英文-生字簿-${t}.json`;
+  document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  db.lastBackup = t; save(); viewBook(); toast(`已匯出 ${Object.keys(db.vocab).length} 個字`);
+}
+function importBook(e) {
+  const f = e.target.files[0]; if (!f) return;
+  const r = new FileReader();
+  r.onload = () => {
+    try {
+      const d = JSON.parse(r.result);
+      if (!d.vocab || typeof d.vocab !== "object") throw new Error("格式不對");
+      let added = 0, updated = 0;
+      for (const [w, v] of Object.entries(d.vocab)) {
+        if (!v || !v.srs) continue;
+        const cur = db.vocab[w];
+        if (!cur) { db.vocab[w] = v; added++; }
+        else if ((v.srs.last || "") > (cur.srs.last || "")) { db.vocab[w] = v; updated++; }   // 保留比較新的複習進度
+      }
+      for (const [k, n] of Object.entries(d.log || {})) db.log[k] = Math.max(db.log[k] || 0, n);
+      if (d.created && (!db.created || d.created < db.created)) db.created = d.created;
+      save(); viewBook(); toast(`匯入完成：新增 ${added} 個、更新 ${updated} 個`);
+    } catch (err) { toast("匯入失敗：檔案不是生字簿備份"); }
+  };
+  r.readAsText(f);
+}
+
+// ============ 複習（SM-2 簡化版） ============
+function dueList() {
+  const t = today();
+  return Object.values(db.vocab).filter(v => v.srs.due <= t).sort((a, b) => a.srs.due.localeCompare(b.srs.due) || a.added.localeCompare(b.added));
+}
+function doneToday() { return db.log[today()] || 0; }
+function preview(s, grade) {
+  // 回傳複習後的新狀態（不修改原物件）
+  let { interval, ease, reps, lapses } = s;
+  if (grade === 0) { reps = 0; lapses++; ease = Math.max(1.3, ease - 0.2); interval = 1; }
+  else if (grade === 1) { interval = reps === 0 ? 1 : Math.max(interval + 1, Math.round(interval * 1.2)); ease = Math.max(1.3, ease - 0.15); reps++; }
+  else { interval = reps === 0 ? 1 : reps === 1 ? 3 : Math.round(interval * ease); reps++; }
+  return { interval, ease: Math.round(ease * 100) / 100, reps, lapses, due: addDays(today(), interval), last: today() };
+}
+const ivLabel = n => n === 1 ? "明天" : n < 30 ? `${n} 天後` : n < 365 ? `${Math.round(n / 30)} 個月後` : `${(n / 365).toFixed(1)} 年後`;
+let reviewState = { revealed: false };
+function viewReview() {
+  const due = dueList();
+  const done = doneToday();
+  const left = Math.max(0, DAILY_LIMIT - done);
+  const queue = due.slice(0, left);
+  const total = Object.keys(db.vocab).length;
+  if (!total) { app.innerHTML = `<h1 class="art-title" style="margin-top:0">複習</h1><div class="empty">生字簿還是空的，先到「今日」加幾個字吧。</div>`; return; }
+  if (!queue.length) {
+    const t = today();
+    const soon = [1, 2, 3, 4, 5, 6, 7].map(n => Object.values(db.vocab).filter(v => v.srs.due === addDays(t, n)).length);
+    const over = due.length;
+    app.innerHTML = `<h1 class="art-title" style="margin-top:0">複習</h1>
+      <div class="card flash" style="text-align:center;min-height:auto">
+        <div style="font-size:40px">${over ? "⏸" : "🎉"}</div>
+        <h2 style="margin:.3em 0">${over ? `今天已複習 ${done} 張，達到上限` : done ? `今天的 ${done} 張都複習完了` : "今天沒有要複習的字"}</h2>
+        <p class="muted">${over ? `還有 ${over} 張延到明天。` : "明天再來。"}</p>
+      </div>
+      <div class="stats">
+        <div class="card stat"><b>${total}</b><span>生字總數</span></div>
+        <div class="card stat"><b>${Object.values(db.vocab).filter(v => v.srs.interval >= 21).length}</b><span>已熟記（間隔 ≥ 3 週）</span></div>
+        <div class="card stat"><b>${soon.reduce((a, b) => a + b, 0)}</b><span>未來 7 天要複習</span></div>
+      </div>
+      ${over ? `<button class="btn" id="btnMore">再多複習 10 張</button>` : ""}`;
+    const m = $("#btnMore"); if (m) m.onclick = () => { db.log[today()] = Math.max(0, done - 10); save(); viewReview(); };
+    return;
+  }
+  const v = queue[0];
+  const r = reviewState.revealed && reviewState.word === v.word;
+  const pct = Math.round(done / (done + queue.length) * 100);
+  const p = [0, 1, 2].map(g => preview(v.srs, g).interval);
+  app.innerHTML = `
+    <div class="rv-top"><h1 class="art-title" style="margin:0">複習</h1><span class="muted small">今天剩 ${queue.length} 張${due.length > queue.length ? `（另有 ${due.length - queue.length} 張延後）` : ""}</span></div>
+    <div class="progress" style="margin-bottom:16px"><i style="width:${pct}%"></i></div>
+    <div class="card flash">
+      <div class="front">
+        <div class="row" style="justify-content:center"><span class="chip plain">${esc(CATS[v.cat] || "")}</span>${v.srs.lapses ? `<span class="chip plain">忘過 ${v.srs.lapses} 次</span>` : ""}</div>
+        <div class="big">${esc(v.word)}</div>
+        <div class="row" style="justify-content:center">${v.ipa ? `<span class="ipa">/${esc(v.ipa)}/</span>` : ""}<button class="icon-btn" data-say="${esc(v.word)}" aria-label="發音">🔊</button></div>
+      </div>
+      ${v.sentence ? `<div class="eg">${markWord(v.sentence, v.form || v.word)}</div><div class="src">— ${esc(v.title || "")}</div>` : ""}
+      ${r ? `<div style="margin-top:14px">${cardBody(v, { withSentence: false })}</div>
+        <div class="grades">
+          <button class="g-again" data-grade="0">忘了<small>${ivLabel(p[0])}<span class="kbd">1</span></small></button>
+          <button class="g-hard" data-grade="1">模糊<small>${ivLabel(p[1])}<span class="kbd">2</span></small></button>
+          <button class="g-good" data-grade="2">記得<small>${ivLabel(p[2])}<span class="kbd">3</span></small></button>
+        </div>`
+      : `<button class="btn primary reveal" id="btnReveal">顯示答案 <span class="kbd" style="color:inherit;border-color:rgba(255,255,255,.5)">空白鍵</span></button>`}
+    </div>`;
+  if (!r) { $("#btnReveal").onclick = reveal; }
+  else app.querySelectorAll("[data-grade]").forEach(b => b.onclick = () => grade(v.word, +b.dataset.grade));
+  if (!r) speak(v.word);
+}
+function reveal() { const v = dueList()[0]; reviewState = { revealed: true, word: v && v.word }; viewReview(); }
+function grade(word, g) {
+  const v = db.vocab[word]; if (!v) return;
+  v.srs = preview(v.srs, g);
+  db.log[today()] = doneToday() + 1;
+  // 只保留最近 60 天的紀錄
+  const cut = addDays(today(), -60); for (const k of Object.keys(db.log)) if (k < cut) delete db.log[k];
+  reviewState = { revealed: false };
+  save(); viewReview();
+}
+document.addEventListener("keydown", e => {
+  if (route().name !== "review" || (e.target.closest && e.target.closest("input,select,textarea"))) return;
+  if (e.code === "Space" && $("#btnReveal")) { e.preventDefault(); reveal(); }
+  else if (["1", "2", "3"].includes(e.key) && $("[data-grade]")) { const b = $(`[data-grade="${+e.key - 1}"]`); b && b.click(); }
+  if (e.key === "Escape") closeSheet();
+});
+
+// ============ 共用點擊、路由 ============
+document.addEventListener("click", e => {
+  const say = e.target.closest("[data-say]"); if (say) { e.preventDefault(); e.stopPropagation(); speak(say.dataset.say, 0.85); return; }
+  const add = e.target.closest("[data-add]"); if (add) { const w = add.dataset.add; if (toggleBook(w)) refreshAddButtons(w); }
+});
+function updateBadges() {
+  const n = Object.keys(db.vocab).length, b = $("#nBook"), d = $("#nDue");
+  b.hidden = !n; b.textContent = n;
+  const due = Math.min(dueList().length, Math.max(0, DAILY_LIMIT - doneToday()));
+  d.hidden = !due; d.textContent = due;
+}
+function route() {
+  const h = location.hash.replace(/^#\/?/, "");
+  const [name, arg] = h.split("/");
+  if (name === "day") return { name: "day", arg };
+  if (["archive", "book", "review"].includes(name)) return { name };
+  return { name: "day", arg: null };
+}
+async function go() {
+  closeSheet();
+  const r = route();
+  document.querySelectorAll("[data-nav]").forEach(a => a.classList.toggle("on", a.dataset.nav === r.name && !(r.name === "day" && r.arg)));
+  try {
+    if (r.name === "day") await viewDay(r.arg);
+    else if (r.name === "archive") await viewArchive();
+    else if (r.name === "book") viewBook();
+    else if (r.name === "review") { reviewState = { revealed: false }; viewReview(); }
+  } catch (e) {
+    console.error(e);
+    app.innerHTML = `<div class="empty">載入失敗，請重新整理。<br><span class="small">${esc(e.message)}</span></div>`;
+  }
+  window.scrollTo(0, 0);
+}
+window.addEventListener("hashchange", go);
+// 跨分頁同步（同一瀏覽器開兩個分頁時）
+window.addEventListener("storage", e => { if (e.key === KEY) { db = load(); updateBadges(); } });
+updateBadges();
+go();
+</script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+name: 每日英文更新
+
+on:
+  schedule:
+    - cron: "0 23 * * *"     # UTC 23:00 = 台灣時間每天早上 7 點（GitHub 排程可能延遲數分鐘到半小時）
+  workflow_dispatch:          # 可在 GitHub 網頁上手動按「Run workflow」
+  push:
+    branches: [main]
+    paths: ["build.py", "index.html", ".github/workflows/update.yml"]
+
+permissions:
+  contents: write             # 把每日內容存回 repo（存檔要靠它）
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 抓今天的文章、挑字、查字典
+        run: python build.py
+
+      # 每日內容一定要存回 repo，存檔頁和「避免重複挑字」都靠它；每日提交也讓排程不會因 60 天無活動被停用
+      - name: 存回每日內容
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet && exit 0
+          git commit -q -m "每日內容 $(TZ=Asia/Taipei date +%F)"
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep 5; done
+          exit 1
+
+      - name: 準備網站檔案
+        run: |
+          mkdir -p site
+          cp index.html site/
+          cp -r data site/data
+          rm -f site/data/seen.json
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

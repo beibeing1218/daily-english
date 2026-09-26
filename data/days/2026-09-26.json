@@ -1,0 +1,286 @@
+{
+ "date": "2026-09-26",
+ "weekday": 5,
+ "weekday_zh": "六",
+ "cat": "culture",
+ "cat_zh": "文化／藝術",
+ "source": "The Guardian",
+ "title": "Taylor Swift: The Life of a Showgirl: The Encore review – flashes of humanity and bafflingly vindictive love songs",
+ "url": "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
+ "summary": [
+  "This four-track addition to a critically maligned album works hard to remind fans what they love about Swift, with some sweet highs and galling lows",
+  "One downside of turning your release strategies into scavenger hunts and layering clues within your work is that it invites enormous amounts of scrutiny about your potential motive. When Taylor Swift announced an expanded edition of last year’s critically maligned The Life of a Showgirl this week, subtitled The Encore, many fans instantly suspected one of two things: that it was designed to remind Grammy members of Showgirl’s existence during their voting period to determine next year’s nominees, or to oust country ingenue Ella Langley from her record-breaking US No 1 run."
+ ],
+ "summary_zh": [
+  "這張廣受批評的專輯中新增的四首曲目努力提醒歌迷他們對斯威夫特的熱愛，其中有一些甜蜜的高點和令人難堪的低點",
+  "將你的發布策略轉變為尋寶遊戲並在你的作品中分層線索的一個缺點是，它會引發對你潛在動機的大量審查。當泰勒絲本周宣布了去年飽受詬病的《歌舞女郎的一生》的擴展版，副標題為《安可》時，許多歌迷立即懷疑了兩件事之一：它的目的是提醒格萊美成員在投票期間確定歌舞女郎的存在，以確定明年的提名人，或者將鄉村天真的艾拉·蘭利從她破紀錄的美國第一名的競選中驅逐出去。"
+ ],
+ "words": [
+  {
+   "word": "maligned",
+   "form": "maligned",
+   "ipa": "mʌɫˈaɪnd",
+   "freq": 0.402,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Assailed with contemptuous language"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To make defamatory statements about; to slander or traduce.",
+      "(transitive, archaic) To treat with malice; to show hatred toward; to abuse; to wrong."
+     ]
+    }
+   ],
+   "zh_main": "被誹謗的",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "誹謗",
+      "毀謗"
+     ]
+    }
+   ],
+   "synonyms": [
+    "reviled",
+    "abused"
+   ],
+   "sentence": "This four-track addition to a critically maligned album works hard to remind fans what they love about Swift, with some sweet highs and galling lows"
+  },
+  {
+   "word": "galling",
+   "form": "galling",
+   "ipa": "gˈɔɫɪŋ",
+   "freq": 0.444,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Vexing, humiliating; eliciting indignation or bitterness."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Material transfer caused by adhesion between sliding surfaces, potentially resulting in wear or binding."
+     ]
+    }
+   ],
+   "zh_main": "磨損",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "煩惱",
+      "惱怒"
+     ]
+    }
+   ],
+   "synonyms": [
+    "vexatious",
+    "vexing",
+    "teasing",
+    "nettlesome",
+    "pesky"
+   ],
+   "sentence": "This four-track addition to a critically maligned album works hard to remind fans what they love about Swift, with some sweet highs and galling lows"
+  },
+  {
+   "word": "downside",
+   "form": "downside",
+   "ipa": "dˈaʊnsaɪd",
+   "freq": 0.81,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A disadvantageous aspect of something that is normally advantageous.",
+      "A downward tendency, especially in the price of shares etc.",
+      "The side of something that is at the bottom, or that is intended to face downward."
+     ]
+    }
+   ],
+   "zh_main": "缺點",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "One downside of turning your release strategies into scavenger hunts and layering clues within your work is that it invites enormous amounts of scrutiny about your potential motive."
+  },
+  {
+   "word": "scavenger",
+   "form": "scavenger",
+   "ipa": "skˈævʌndʒɝ",
+   "freq": 0.494,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Someone who scavenges, especially one who searches through rubbish for food or useful things.",
+      "An animal that feeds on decaying matter such as carrion.",
+      "(chemistry) A substance used to remove impurities from the air or from a solution."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(archaic) To scavenge.",
+      "(archaic) To clean the rubbish from a street, etc."
+     ]
+    }
+   ],
+   "zh_main": "清道夫",
+   "zh": [],
+   "synonyms": [
+    "magpie"
+   ],
+   "sentence": "One downside of turning your release strategies into scavenger hunts and layering clues within your work is that it invites enormous amounts of scrutiny about your potential motive."
+  },
+  {
+   "word": "scrutiny",
+   "form": "scrutiny",
+   "ipa": "skrˈutʌni",
+   "freq": 5.56,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Intense study of someone or something.",
+      "Thorough inspection of a situation or a case.",
+      "A ticket, or little paper billet, on which a vote is written."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(obsolete, rare) To scrutinize."
+     ]
+    }
+   ],
+   "zh_main": "審查",
+   "zh": [],
+   "synonyms": [
+    "examination",
+    "inspection"
+   ],
+   "sentence": "One downside of turning your release strategies into scavenger hunts and layering clues within your work is that it invites enormous amounts of scrutiny about your potential motive."
+  },
+  {
+   "word": "subtitled",
+   "form": "subtitled",
+   "ipa": "sˈʌbtaɪtʌɫd",
+   "freq": 0.306,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(of a film) in which the dialogue is translated into another language, and displayed, in text, at the bottom of the screen."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To create subtitles for the dialogue in a film."
+     ]
+    }
+   ],
+   "zh_main": "有副標題的",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "When Taylor Swift announced an expanded edition of last year’s critically maligned The Life of a Showgirl this week, subtitled The Encore, many fans instantly suspected one of two things: that it was designed to remind Grammy members of Showgirl’s existence during their voting period to determine next year’s nominees, or to oust country ingenue Ella Langley from her record-breaking US No 1 run."
+  },
+  {
+   "word": "nominee",
+   "form": "nominees",
+   "ipa": "nɑmʌnˈi",
+   "freq": 1.176,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A person named, or designated, by another, to any office, duty, or position; one nominated, or proposed, by others for office or for election to office.",
+      "A person or organisation in whose name a security is registered though true ownership is held by another party, called nominator, especially for the purpose of concealing the identity of the nominator.",
+      "A person to whom the holder of a copyhold estate surrenders their interest."
+     ]
+    }
+   ],
+   "zh_main": "被提名人",
+   "zh": [],
+   "synonyms": [
+    "candidate",
+    "campaigner"
+   ],
+   "sentence": "When Taylor Swift announced an expanded edition of last year’s critically maligned The Life of a Showgirl this week, subtitled The Encore, many fans instantly suspected one of two things: that it was designed to remind Grammy members of Showgirl’s existence during their voting period to determine next year’s nominees, or to oust country ingenue Ella Langley from her record-breaking US No 1 run."
+  },
+  {
+   "word": "oust",
+   "form": "oust",
+   "ipa": "ˈaʊst",
+   "freq": 0.559,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To expel; to remove."
+     ]
+    }
+   ],
+   "zh_main": "驅逐",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "奪取",
+      "赶出",
+      "逐出"
+     ]
+    }
+   ],
+   "synonyms": [
+    "expel"
+   ],
+   "sentence": "When Taylor Swift announced an expanded edition of last year’s critically maligned The Life of a Showgirl this week, subtitled The Encore, many fans instantly suspected one of two things: that it was designed to remind Grammy members of Showgirl’s existence during their voting period to determine next year’s nominees, or to oust country ingenue Ella Langley from her record-breaking US No 1 run."
+  },
+  {
+   "word": "ingenue",
+   "form": "ingenue",
+   "ipa": "ɪndʒˈɛnju",
+   "freq": 0.104,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An innocent, unsophisticated, naïve, wholesome girl or young woman.",
+      "(theater, film) A dramatic role of such a woman; an actress playing such a role.",
+      "(rare) Misspelling of ingenu. [(rare) An innocent, unsophisticated, naive, wholesome boy or young man.]"
+     ]
+    }
+   ],
+   "zh_main": "天真無邪",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "When Taylor Swift announced an expanded edition of last year’s critically maligned The Life of a Showgirl this week, subtitled The Encore, many fans instantly suspected one of two things: that it was designed to remind Grammy members of Showgirl’s existence during their voting period to determine next year’s nominees, or to oust country ingenue Ella Langley from her record-breaking US No 1 run."
+  }
+ ],
+ "built": "2026-09-26T14:13+08:00"
+}
