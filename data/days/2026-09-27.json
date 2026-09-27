@@ -1,0 +1,184 @@
+{
+ "date": "2026-09-27",
+ "weekday": 6,
+ "weekday_zh": "日",
+ "cat": "opinion",
+ "cat_zh": "評論",
+ "source": "The Guardian",
+ "title": "Of course you can be English if you’re not white. So why can’t the right leave the question alone? | Jason Okundaye",
+ "url": "https://www.theguardian.com/commentisfree/2026/sep/26/sunak-definition-britishness-englishness-ethnonationalism",
+ "summary": [
+  "Even Jacob Rees-Mogg pushes back on defining Englishness in exclusively ethnic terms. But the endurance of this discourse is still deeply troubling, says assistant Opinion editor Jason Okundaye",
+  "Can you be English and non-white? It’s a question that keeps stubbornly resurfacing in our political discourse.",
+  "Last weekend, the former prime minister Rishi Sunak gave his view in a column in the Times, arguing that national identity should not be turned into a DNA test. After leaving office, Sunak, the UK’s first prime minister of colour, was subject to claims by a prominent podcaster that he was not English because he was a “brown-skinned Hindu”. Reflecting on this, Sunak described it as a “reverse Tebbit test”: the sociological concept measuring the loyalty of immigrants – and their children – in the UK depending on which cricket team they supported in international matches. “Once we say that this or that person isn’t really English or British because they are not white,” he wrote, “then we are on a very slippery slope. Some people will argue that English is an ethnic identity and British a civic identity. Though if you think those nuances are heard by most people, I fear you are being rather – perhaps even wilfully – naive.”"
+ ],
+ "summary_zh": [
+  "就連雅各·里斯-莫格也反對僅用種族術語來定義英國性。但《意見》助理編輯賈森‧奧昆達耶表示，這種言論的持久性仍然令人深感不安。",
+  "你可以是英國人而且不是白人嗎？這是一個在我們的政治話語中頑固地重新出現的問題。",
+  "上週末，前總理里希·蘇納克在《泰晤士報》專欄中發表了自己的觀點，認為國家認同不應該變成DNA測試。英國首位有色人種首相蘇納克卸任後，一位著名播客聲稱他不是英國人，因為他是「棕色皮膚的印度教徒」。反思這一點，蘇納克將其描述為「反向泰比特測試」：社會學概念衡量英國移民及其子女的忠誠度，具體取決於他們在國際比賽中支持的板球隊。 「一旦我們說這個或那個人不是真正的英國人或英國人，因為他們不是白人，」他寫道，「那麼我們就走上了一條非常滑坡的道路。有些人會認為英語是一種種族身份，而英國人是一種公民身份。不過，如果你認為大多數人都能聽到這些細微差別，我擔心你就相當天真了，甚至可能是故意的。」"
+ ],
+ "words": [
+  {
+   "word": "endurance",
+   "form": "endurance",
+   "ipa": "ˈɛndɝʌns",
+   "freq": 4.188,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The measure of a person's stamina or persistence.",
+      "An ability to endure hardship.",
+      "(nautical) The length of time that a ship's rations will supply."
+     ]
+    }
+   ],
+   "zh_main": "耐力",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "耐力",
+      "耐久力",
+      "耐性",
+      "續航力"
+     ]
+    }
+   ],
+   "synonyms": [
+    "survival"
+   ],
+   "sentence": "But the endurance of this discourse is still deeply troubling, says assistant Opinion editor Jason Okundaye"
+  },
+  {
+   "word": "resurfacing",
+   "form": "resurfacing",
+   "ipa": "risˈɝfʌsɪŋ",
+   "freq": 0.285,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To provide a new surface, to replace or remodel the surface of something, or to restore a surface. To put a new coating or finish on a surface.",
+      "(intransitive) To come once again to the surface.",
+      "(intransitive) To surface again; to reappear or re-occur."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The application of a new surface.",
+      "The act of coming above the surface again.",
+      "(figurative) A reappearance or reoccurrence."
+     ]
+    }
+   ],
+   "zh_main": "重鋪",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "翻修路面"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "It’s a question that keeps stubbornly resurfacing in our political discourse."
+  },
+  {
+   "word": "podcaster",
+   "form": "podcaster",
+   "ipa": "pˈɔdkæstɝ",
+   "freq": 0.004,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "One who podcasts."
+     ]
+    }
+   ],
+   "zh_main": "podcast",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "After leaving office, Sunak, the UK’s first prime minister of colour, was subject to claims by a prominent podcaster that he was not English because he was a “brown-skinned Hindu”."
+  },
+  {
+   "word": "nuance",
+   "form": "nuances",
+   "ipa": "nˈuɑns",
+   "freq": 0.678,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Subtlety or fine detail.",
+      "(countable) A minor distinction."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To apply a nuance to; to change or redefine in a subtle way."
+     ]
+    }
+   ],
+   "zh_main": "細微差別",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "意義"
+     ]
+    }
+   ],
+   "synonyms": [
+    "subtlety",
+    "refinement",
+    "nicety",
+    "shade"
+   ],
+   "sentence": "Though if you think those nuances are heard by most people, I fear you are being rather – perhaps even wilfully – naive.”"
+  },
+  {
+   "word": "wilfully",
+   "form": "wilfully",
+   "ipa": "wˈɪɫfʌɫi",
+   "freq": 0.401,
+   "meanings": [
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "defs": [
+      "Deliberately, on purpose.",
+      "(obsolete) Willingly, of one's own free will."
+     ]
+    }
+   ],
+   "zh_main": "任性地",
+   "zh": [
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "terms": [
+      "任性頑固地"
+     ]
+    }
+   ],
+   "synonyms": [
+    "willfully"
+   ],
+   "sentence": "Though if you think those nuances are heard by most people, I fear you are being rather – perhaps even wilfully – naive.”"
+  }
+ ],
+ "built": "2026-09-27T09:04+08:00"
+}
