@@ -1,0 +1,221 @@
+{
+ "date": "2026-09-28",
+ "weekday": 0,
+ "weekday_zh": "一",
+ "cat": "world",
+ "cat_zh": "政治／國際",
+ "source": "The Guardian",
+ "title": "At least 27 dead after two mass shootings in South Africa, police say",
+ "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+ "summary": [
+  "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town",
+  "Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, as the country grapples with one of the world’s highest murder rates amid investigations into corruption and criminality within the police.",
+  "The South African police service said on Sunday that 17 people were killed on Saturday night when eight suspects armed with AK-47 assault rifles and pistols opened fire at a bar in Wedela township, about 50 miles south-west of central Johannesburg. At least 15 other people sustained gunshot injuries in that attack, police said."
+ ],
+ "summary_zh": [
+  "約翰內斯堡附近涉嫌“非法金礦地盤爭奪戰”，造成 17 人死亡，開普敦附近燒烤場發生的另一起事件也造成 10 人死亡",
+  "南非兩個最大的城市附近發生了兩起大規模槍擊事件，造成至少 27 人死亡，南非是世界上謀殺率最高的國家之一，正在調查警察內部的腐敗和犯罪行為。",
+  "南非警方週日表示，週六晚上，8 名攜帶 AK-47 突擊步槍和手槍的嫌疑人向約翰內斯堡市中心西南約 50 英里處韋德拉鎮的一家酒吧開槍，造成 17 人死亡。警方稱，在那次襲擊中至少還有 15 人中槍受傷。"
+ ],
+ "words": [
+  {
+   "word": "goldmine",
+   "form": "goldmining",
+   "ipa": "gˈoʊɫdmaɪn",
+   "freq": 0.105,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Alternative form of gold mine [A mine for gold ore or metal.]"
+     ]
+    }
+   ],
+   "zh_main": "金礦",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "金礦"
+     ]
+    }
+   ],
+   "synonyms": [
+    "boom",
+    "bonanza"
+   ],
+   "sentence": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town"
+  },
+  {
+   "word": "venue",
+   "form": "venue",
+   "ipa": "vˈɛnju",
+   "freq": 1.693,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A theater, auditorium, arena, or other area designated for sporting or entertainment events.",
+      "(sports) A stadium or similar building in which a sporting competition is held.",
+      "(by extension) The place where something happens."
+     ]
+    }
+   ],
+   "zh_main": "場地",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "管轄地"
+     ]
+    }
+   ],
+   "synonyms": [
+    "locus",
+    "locale"
+   ],
+   "sentence": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town"
+  },
+  {
+   "word": "grapple",
+   "form": "grapples",
+   "ipa": "grˈæpʌɫ",
+   "freq": 0.883,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A close hand-to-hand struggle.",
+      "The act of grappling. (uncountable)",
+      "A tool with claws or hooks which is used to catch or hold something."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(figuratively, with with) To ponder and intensely evaluate a problem; to struggle to deal with.",
+      "(transitive) To seize something and hold it firmly.",
+      "(intransitive) To wrestle or tussle."
+     ]
+    }
+   ],
+   "zh_main": "抓鉤",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "抓鉤",
+      "格鬥"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "扭打"
+     ]
+    }
+   ],
+   "synonyms": [
+    "contend",
+    "manage",
+    "grip",
+    "deal",
+    "wrestle"
+   ],
+   "sentence": "Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, as the country grapples with one of the world’s highest murder rates amid investigations into corruption and criminality within the police."
+  },
+  {
+   "word": "amid",
+   "form": "amid",
+   "ipa": "ʌmˈɪd",
+   "freq": 5.82,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Archaic form of amide. [(organic chemistry) Any derivative of an oxoacid in which the hydroxyl group has been replaced with an amino or substituted amino group; especially such derivatives of a carboxylic acid, the carboxamides or acid amides]"
+     ]
+    }
+   ],
+   "zh_main": "之中",
+   "zh": [
+    {
+     "pos": "u",
+     "pos_zh": "其他",
+     "terms": [
+      "在 ... 之中",
+      "在其間"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, as the country grapples with one of the world’s highest murder rates amid investigations into corruption and criminality within the police."
+  },
+  {
+   "word": "criminality",
+   "form": "criminality",
+   "ipa": "krɪmʌnˈæɫɪti",
+   "freq": 1.207,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(uncountable) Criminal activity.",
+      "(uncountable) The state of being criminal.",
+      "(countable) A criminal act."
+     ]
+    }
+   ],
+   "zh_main": "犯罪行為",
+   "zh": [],
+   "synonyms": [
+    "criminalness",
+    "criminalism"
+   ],
+   "sentence": "Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, as the country grapples with one of the world’s highest murder rates amid investigations into corruption and criminality within the police."
+  },
+  {
+   "word": "township",
+   "form": "township",
+   "ipa": "tˈaʊnʃɪp",
+   "freq": 4.153,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(US, Canada) A subdivision of a county.",
+      "The territory of a town.",
+      "(Australia, New Zealand) A small town."
+     ]
+    }
+   ],
+   "zh_main": "鄉",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "鄉",
+      "區"
+     ]
+    }
+   ],
+   "synonyms": [
+    "town"
+   ],
+   "sentence": "The South African police service said on Sunday that 17 people were killed on Saturday night when eight suspects armed with AK-47 assault rifles and pistols opened fire at a bar in Wedela township, about 50 miles south-west of central Johannesburg."
+  }
+ ],
+ "built": "2026-09-28T09:22+08:00"
+}

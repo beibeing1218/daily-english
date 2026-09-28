@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-09-28",
+  "weekday_zh": "一",
+  "cat": "world",
+  "cat_zh": "政治／國際",
+  "source": "The Guardian",
+  "title": "At least 27 dead after two mass shootings in South Africa, police say",
+  "n_words": 6
+ },
+ {
   "date": "2026-09-27",
   "weekday_zh": "日",
   "cat": "opinion",
