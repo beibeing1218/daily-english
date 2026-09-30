@@ -1,0 +1,182 @@
+{
+ "date": "2026-09-30",
+ "weekday": 2,
+ "weekday_zh": "三",
+ "cat": "tech",
+ "cat_zh": "科技",
+ "source": "Ars Technica",
+ "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+ "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+ "summary": [
+  "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+  "Researchers published late-stage clinical trial data today for the latest obesity drug, retatrutide—expected to be the most powerful formula yet—and the results appear in line with high expectations. Patients with obesity on the highest retatrutide dose lost an average of 25 percent of their body weight after 80 weeks, and an average of 30 percent after an extension period to 104 weeks. Overall, more than a third of participants taking retatrutide lost 30 percent or more of their weight."
+ ],
+ "summary_zh": [
+  "Retatrutide 是一種模擬 GLP-1、GIP 和升糖素的三激素肥胖藥物。",
+  "研究人員今天發布了最新的肥胖藥物瑞他魯肽的後期臨床試驗數據，預計將成為迄今為止最有效的配方，結果似乎符合很高的預期。服用最高瑞他魯肽劑量的肥胖患者在 80 週後體重平均減輕了 25%，延長至 104 週後體重平均減輕了 30%。總體而言，超過三分之一的服用瑞他魯肽的參與者體重減輕了 30% 或更多。"
+ ],
+ "words": [
+  {
+   "word": "obesity",
+   "form": "obesity",
+   "ipa": "oʊbˈisʌti",
+   "freq": 4.701,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(pathology) The state of being obese."
+     ]
+    }
+   ],
+   "zh_main": "肥胖",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "肥胖"
+     ]
+    }
+   ],
+   "synonyms": [
+    "fleshiness"
+   ],
+   "sentence": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon."
+  },
+  {
+   "word": "simulate",
+   "form": "simulating",
+   "ipa": "sˈɪmjʌɫʌt",
+   "freq": 3.106,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To model, replicate, duplicate the behavior, appearance or properties of."
+     ]
+    },
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(obsolete) Feigned; pretended."
+     ]
+    }
+   ],
+   "zh_main": "模擬",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "模擬",
+      "倣真",
+      "假裝",
+      "模倣"
+     ]
+    }
+   ],
+   "synonyms": [
+    "model",
+    "sham",
+    "feign",
+    "assume",
+    "imitate"
+   ],
+   "sentence": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon."
+  },
+  {
+   "word": "glucagon",
+   "form": "glucagon",
+   "ipa": "gɫˈukʌgɑn",
+   "freq": 1.287,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(biochemistry) A peptide hormone, produced by the pancreas, that opposes the action of insulin by stimulating the production of sugar"
+     ]
+    }
+   ],
+   "zh_main": "胰高血糖素",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon."
+  },
+  {
+   "word": "researcher",
+   "form": "Researchers",
+   "ipa": "rˈisɝtʃɝ",
+   "freq": 7.778,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "One who researches."
+     ]
+    }
+   ],
+   "zh_main": "研究員",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "研究員",
+      "科研人員",
+      "學家",
+      "學者",
+      "研究者"
+     ]
+    }
+   ],
+   "synonyms": [
+    "investigator"
+   ],
+   "sentence": "Researchers published late-stage clinical trial data today for the latest obesity drug, retatrutide—expected to be the most powerful formula yet—and the results appear in line with high expectations."
+  },
+  {
+   "word": "participant",
+   "form": "participants",
+   "ipa": "pɑrtˈɪsʌpʌnt",
+   "freq": 6.796,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Sharing; participating; having a share of part."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "One who participates.",
+      "(sciences, medicine) A human subject in a scientific experiment, such as a clinical trial"
+     ]
+    }
+   ],
+   "zh_main": "參與者",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "參加者"
+     ]
+    }
+   ],
+   "synonyms": [
+    "player"
+   ],
+   "sentence": "Overall, more than a third of participants taking retatrutide lost 30 percent or more of their weight."
+  }
+ ],
+ "built": "2026-09-30T09:48+08:00"
+}
