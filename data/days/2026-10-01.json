@@ -1,0 +1,251 @@
+{
+ "date": "2026-10-01",
+ "weekday": 3,
+ "weekday_zh": "四",
+ "cat": "science",
+ "cat_zh": "科學／健康",
+ "source": "The Conversation",
+ "title": "Cities across the world are sinking because of groundwater depletion. But the process can be reversed",
+ "url": "https://theconversation.com/cities-across-the-world-are-sinking-because-of-groundwater-depletion-but-the-process-can-be-reversed-292669",
+ "summary": [
+  "When groundwater reservoirs are replenished, the ground above rises. But the uplift is patchy because earthquake faults act like underground dams, channelling water.",
+  "Many cities around the world are sinking because too much water is extracted from the groundwater reservoirs beneath them.",
+  "This sinking makes these coastal cities more exposed to rising seas as the climate warms."
+ ],
+ "summary_zh": [
+  "當地下水庫補充時，上方的地面就會上升。但隆起是不連續的，因為地震斷層就像地下水壩一樣，會引導水流。",
+  "世界上許多城市正在下沉，因為從它們下面的地下水庫中抽取了太多的水。",
+  "隨著氣候變暖，這種下沉使得這些沿海城市更容易受到海平面上升的影響。"
+ ],
+ "words": [
+  {
+   "word": "groundwater",
+   "form": "groundwater",
+   "ipa": "grˈaʊndwɑtɝ",
+   "freq": 4.144,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Water that exists beneath the earth's surface in underground streams and aquifers."
+     ]
+    }
+   ],
+   "zh_main": "地下水",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "地下水"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "When groundwater reservoirs are replenished, the ground above rises."
+  },
+  {
+   "word": "reservoir",
+   "form": "reservoirs",
+   "ipa": "rˈɛzʌvwɑr",
+   "freq": 7.503,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A large natural or artificial lake used as a source of water supply.",
+      "A place where anything is kept in store.",
+      "A supply or source of something."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To store or keep (something) in or as in a reservoir."
+     ]
+    }
+   ],
+   "zh_main": "水庫",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "池",
+      "陂"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "When groundwater reservoirs are replenished, the ground above rises."
+  },
+  {
+   "word": "replenished",
+   "form": "replenished",
+   "ipa": "ripɫˈɛnɪʃt",
+   "freq": 0.639,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "That has been refilled; restored to capacity or fullness, full.",
+      "(now rare) Imbued, fully infused (with) some quality.",
+      "(obsolete) Full, fully stocked (with), containing an abundance (of)."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To refill; to renew; to supply again or to add a fresh quantity to.",
+      "(transitive, archaic) To fill up; to complete; to supply fully.",
+      "(transitive, obsolete) To finish; to complete; to perfect."
+     ]
+    }
+   ],
+   "zh_main": "補充了",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "補充",
+      "添補",
+      "續訂"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "When groundwater reservoirs are replenished, the ground above rises."
+  },
+  {
+   "word": "uplift",
+   "form": "uplift",
+   "ipa": "ˈʌpɫɪft",
+   "freq": 1.867,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act or result of uplifting (in various senses).",
+      "(law) An increase in a fine or penalty due to aggravating circumstances.",
+      "(transport) The picking up and loading of goods to be transported by a mover."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To raise something or someone to a higher physical, social, moral, intellectual, spiritual or emotional level.",
+      "(science fiction) To raise (a nonsentient species) into sentience.",
+      "(New Zealand) To remove (a child) from a damaging home environment by a social welfare organization."
+     ]
+    }
+   ],
+   "zh_main": "提升",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "抬起"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "隮",
+      "抬"
+     ]
+    }
+   ],
+   "synonyms": [
+    "upheaval",
+    "elate",
+    "upthrust",
+    "upthrow",
+    "intoxicate"
+   ],
+   "sentence": "But the uplift is patchy because earthquake faults act like underground dams, channelling water."
+  },
+  {
+   "word": "patchy",
+   "form": "patchy",
+   "ipa": "pˈætʃi",
+   "freq": 0.928,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Not constant or continuous; intermittent or uneven.",
+      "Full of, or covered with, patches; abounding in patches."
+     ]
+    }
+   ],
+   "zh_main": "斑駁的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "不調和的",
+      "拼湊的"
+     ]
+    }
+   ],
+   "synonyms": [
+    "uneven"
+   ],
+   "sentence": "But the uplift is patchy because earthquake faults act like underground dams, channelling water."
+  },
+  {
+   "word": "channelling",
+   "form": "channelling",
+   "ipa": "ʃʌnˈɛɫɪŋ",
+   "freq": 0.254,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To make or cut a channel or groove in.",
+      "(transitive) To direct or guide along a desired course.",
+      "(transitive, of a spirit, as of a dead person) To serve as a medium for."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act by which something is channelled.",
+      "A channel or furrow."
+     ]
+    }
+   ],
+   "zh_main": "通靈",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "納入",
+      "嚮導",
+      "信道",
+      "形成河道",
+      "引導"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "But the uplift is patchy because earthquake faults act like underground dams, channelling water."
+  }
+ ],
+ "built": "2026-10-01T09:47+08:00"
+}

@@ -24,13 +24,20 @@
   "simulate": "2026-09-30",
   "glucagon": "2026-09-30",
   "researcher": "2026-09-30",
-  "participant": "2026-09-30"
+  "participant": "2026-09-30",
+  "groundwater": "2026-10-01",
+  "reservoir": "2026-10-01",
+  "replenished": "2026-10-01",
+  "uplift": "2026-10-01",
+  "patchy": "2026-10-01",
+  "channelling": "2026-10-01"
  },
  "urls": [
   "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
   "https://www.theguardian.com/commentisfree/2026/sep/26/sunak-definition-britishness-englishness-ethnonationalism",
   "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
   "https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope",
-  "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/"
+  "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+  "https://theconversation.com/cities-across-the-world-are-sinking-because-of-groundwater-depletion-but-the-process-can-be-reversed-292669"
  ]
 }
