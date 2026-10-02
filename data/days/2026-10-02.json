@@ -1,0 +1,249 @@
+{
+ "date": "2026-10-02",
+ "weekday": 4,
+ "weekday_zh": "五",
+ "cat": "environment",
+ "cat_zh": "環境／氣候",
+ "source": "Yale E360",
+ "title": "Fifty Billion Seedlings: Can Ethiopia Replant Its Ravaged Forests?",
+ "url": "https://e360.yale.edu/features/ethiopia-green-legacy-initiative",
+ "summary": [
+  "A legacy of deforestation has left Ethiopia struggling with more intense flooding and drought. The country is trying to restore its native forests through one of the world's most ambitious and well-funded tree-planting campaigns, but experts question whether the trees will survive.",
+  "Niku Argane’s farm sits on a steep hillside in central Ethiopia’s semi-mountainous Gurage Zone, where years of flooding have carved deep gullies through the land. Soil that once produced enough barley and potatoes to feed his wife and four children — and left a surplus to sell in the market — has eroded, while drought has made what land remains harder to cultivate."
+ ],
+ "summary_zh": [
+  "森林砍伐的後遺症使衣索比亞面臨更嚴重的洪水和乾旱。該國正試圖透過世界上最雄心勃勃、資金最充足的植樹運動之一來恢復其原生森林，但專家質疑這些樹木能否生存。",
+  "尼庫·阿爾加內 (Niku Argane) 的農場坐落在埃塞俄比亞中部半山地古拉格地區的陡峭山坡上，多年的洪水在土地上留下了深深的溝壑。曾經生產足夠養活他的妻子和四個孩子的大麥和土豆的土壤，以及剩餘的可以在市場上出售的土壤，現在已經被侵蝕，而乾旱使得土地更難耕種。"
+ ],
+ "words": [
+  {
+   "word": "deforestation",
+   "form": "deforestation",
+   "ipa": "dɪfɔrɪstˈeɪʃʌn",
+   "freq": 1.21,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The process of destroying a forest and replacing it with something else, especially with an agricultural system.",
+      "(computing theory) A transformation to eliminate intermediate data structures within a program."
+     ]
+    }
+   ],
+   "zh_main": "砍伐森林",
+   "zh": [],
+   "synonyms": [
+    "disforestation"
+   ],
+   "sentence": "A legacy of deforestation has left Ethiopia struggling with more intense flooding and drought."
+  },
+  {
+   "word": "drought",
+   "form": "drought",
+   "ipa": "drˈaʊt",
+   "freq": 5.136,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A period of unusually low rainfall, longer and more severe than a dry spell.",
+      "(by extension, informal) A longer than expected term without success, particularly in sport.",
+      "(archaic) dryness, aridness, dry heat"
+     ]
+    }
+   ],
+   "zh_main": "乾旱",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "乾旱",
+      "旱災"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "A legacy of deforestation has left Ethiopia struggling with more intense flooding and drought."
+  },
+  {
+   "word": "hillside",
+   "form": "hillside",
+   "ipa": "hˈɪɫsaɪd",
+   "freq": 2.282,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The side of a hill.",
+      "A number of places in the United States:",
+      "An unincorporated community in Fremont County, Colorado."
+     ]
+    }
+   ],
+   "zh_main": "山坡",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "山坡"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Niku Argane’s farm sits on a steep hillside in central Ethiopia’s semi-mountainous Gurage Zone, where years of flooding have carved deep gullies through the land."
+  },
+  {
+   "word": "gully",
+   "form": "gullies",
+   "ipa": "gˈʌɫi",
+   "freq": 1.03,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A trench, ravine or narrow channel which was worn by water flow, especially on a hillside.",
+      "A small valley.",
+      "(UK) A drop kerb."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To wear away into a gully or gullies.",
+      "(obsolete) To flow noisily."
+     ]
+    }
+   ],
+   "zh_main": "溝壑",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "溝渠"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Niku Argane’s farm sits on a steep hillside in central Ethiopia’s semi-mountainous Gurage Zone, where years of flooding have carved deep gullies through the land."
+  },
+  {
+   "word": "barley",
+   "form": "barley",
+   "ipa": "bˈɑrɫi",
+   "freq": 3.8,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A cereal of the species Hordeum vulgare, or its grains, often used as food or to make beer and other malted drinks.",
+      "(Singapore) The seed of Job's tears. (Coix lacryma-jobi)",
+      "A surname."
+     ]
+    }
+   ],
+   "zh_main": "大麥",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "大麥"
+     ]
+    }
+   ],
+   "synonyms": [
+    "barleycorn"
+   ],
+   "sentence": "Soil that once produced enough barley and potatoes to feed his wife and four children — and left a surplus to sell in the market — has eroded, while drought has made what land remains harder to cultivate."
+  },
+  {
+   "word": "eroded",
+   "form": "eroded",
+   "ipa": "ɪrˈoʊdʌd",
+   "freq": 2.829,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "worn down or worn away."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To wear away by abrasion, corrosion, or chemical reaction.",
+      "(figurative) To destroy gradually by an ongoing process."
+     ]
+    }
+   ],
+   "zh_main": "侵蝕",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "侵蝕",
+      "沖刷",
+      "腐蝕"
+     ]
+    }
+   ],
+   "synonyms": [
+    "scoured",
+    "worn"
+   ],
+   "sentence": "Soil that once produced enough barley and potatoes to feed his wife and four children — and left a surplus to sell in the market — has eroded, while drought has made what land remains harder to cultivate."
+  },
+  {
+   "word": "cultivate",
+   "form": "cultivate",
+   "ipa": "kˈʌɫtʌveɪt",
+   "freq": 3.966,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To grow plants, notably crops.",
+      "To turn or stir soil in preparation for planting or as a method of weed control between growing crop plants.",
+      "(figurative) To nurture; to foster; to tend."
+     ]
+    }
+   ],
+   "zh_main": "培育",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "培育",
+      "耕種",
+      "培訓",
+      "培植",
+      "養育"
+     ]
+    }
+   ],
+   "synonyms": [
+    "work",
+    "train",
+    "crop",
+    "school",
+    "educate"
+   ],
+   "sentence": "Soil that once produced enough barley and potatoes to feed his wife and four children — and left a surplus to sell in the market — has eroded, while drought has made what land remains harder to cultivate."
+  }
+ ],
+ "built": "2026-10-02T09:57+08:00"
+}

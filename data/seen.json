@@ -30,7 +30,14 @@
   "replenished": "2026-10-01",
   "uplift": "2026-10-01",
   "patchy": "2026-10-01",
-  "channelling": "2026-10-01"
+  "channelling": "2026-10-01",
+  "deforestation": "2026-10-02",
+  "drought": "2026-10-02",
+  "hillside": "2026-10-02",
+  "gully": "2026-10-02",
+  "barley": "2026-10-02",
+  "eroded": "2026-10-02",
+  "cultivate": "2026-10-02"
  },
  "urls": [
   "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
@@ -38,6 +45,7 @@
   "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
   "https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope",
   "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
-  "https://theconversation.com/cities-across-the-world-are-sinking-because-of-groundwater-depletion-but-the-process-can-be-reversed-292669"
+  "https://theconversation.com/cities-across-the-world-are-sinking-because-of-groundwater-depletion-but-the-process-can-be-reversed-292669",
+  "https://e360.yale.edu/features/ethiopia-green-legacy-initiative"
  ]
 }
