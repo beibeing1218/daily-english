@@ -1,0 +1,103 @@
+{
+ "date": "2026-10-03",
+ "weekday": 5,
+ "weekday_zh": "六",
+ "cat": "culture",
+ "cat_zh": "文化／藝術",
+ "source": "The Guardian",
+ "title": "‘I thought Brassed Off might be popular within a 10 mile radius of Barnsley’: the director of Andy Burnham’s favourite film on its 30 year anniversary",
+ "url": "https://www.theguardian.com/film/2026/oct/02/mark-herman-brassed-off-andy-burnham-royal-albert-hall",
+ "summary": [
+  "Ahead of a live performance in the Royal Albert Hall, the writer Mark Herman explains why he’s not surprised it’s one of the new Prime Minister’s favourites and a why film like this wouldn’t get made now",
+  "It is one of the prime minister’s all-time favourite films and has endured in the hearts of the British public since it was released in 1996. Ostensibly a story about a small town colliery band’s journey to the finals of Britain’s biggest brass band competition at the Royal Albert Hall, Brassed Off is unashamedly political."
+ ],
+ "summary_zh": [
+  "在皇家阿爾伯特音樂廳進行現場表演之前，作家馬克赫爾曼解釋了為什麼他對這部新首相最喜歡的電影之一並不感到驚訝，以及為什麼現在不會製作這樣的電影",
+  "這是首相一直以來最喜歡的電影之一，自 1996 年上映以來一直深受英國大眾的喜愛。表面上講，《Brassed Off》講述了一個小鎮煤礦樂隊進入皇家阿爾伯特音樂廳英國最大的銅管樂隊比賽決賽的故事，但卻毫不掩飾政治色彩。"
+ ],
+ "words": [
+  {
+   "word": "ostensibly",
+   "form": "Ostensibly",
+   "ipa": "ɑstˈɛnsʌbɫi",
+   "freq": 2.676,
+   "meanings": [
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "defs": [
+      "(modal) Seemingly, apparently, on the surface; supposedly, according to representations or implications made by someone (especially when their motives are suspected by others)."
+     ]
+    }
+   ],
+   "zh_main": "表面上",
+   "zh": [
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "terms": [
+      "表面上"
+     ]
+    }
+   ],
+   "synonyms": [
+    "apparently",
+    "seemingly"
+   ],
+   "sentence": "Ostensibly a story about a small town colliery band’s journey to the finals of Britain’s biggest brass band competition at the Royal Albert Hall, Brassed Off is unashamedly political."
+  },
+  {
+   "word": "colliery",
+   "form": "colliery",
+   "ipa": "kˈɑɫjɝi",
+   "freq": 0.569,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(British) An underground coal mine, together with its surface buildings.",
+      "(US) A facility that supplies coal."
+     ]
+    }
+   ],
+   "zh_main": "煤礦",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "煤礦"
+     ]
+    }
+   ],
+   "synonyms": [
+    "pit"
+   ],
+   "sentence": "Ostensibly a story about a small town colliery band’s journey to the finals of Britain’s biggest brass band competition at the Royal Albert Hall, Brassed Off is unashamedly political."
+  },
+  {
+   "word": "unashamedly",
+   "form": "unashamedly",
+   "ipa": "ʌnʌʃˈeɪmʌdɫi",
+   "freq": 0.229,
+   "meanings": [
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "defs": [
+      "In an unashamed manner."
+     ]
+    }
+   ],
+   "zh_main": "厚顏無恥地",
+   "zh": [],
+   "synonyms": [
+    "shamelessly",
+    "barefacedly"
+   ],
+   "sentence": "Ostensibly a story about a small town colliery band’s journey to the finals of Britain’s biggest brass band competition at the Royal Albert Hall, Brassed Off is unashamedly political."
+  }
+ ],
+ "built": "2026-10-03T09:42+08:00"
+}
