@@ -1,0 +1,94 @@
+{
+ "date": "2026-10-04",
+ "weekday": 6,
+ "weekday_zh": "日",
+ "cat": "opinion",
+ "cat_zh": "評論",
+ "source": "The Guardian",
+ "title": "The expansion of Heathrow would be an expensive disaster for Britain and the world. Burnham needs to block it | George Monbiot",
+ "url": "https://www.theguardian.com/commentisfree/2026/oct/03/heathrow-third-runway-climate-warnings-economic-reality",
+ "summary": [
+  "A third runway would fly in the face of reason. If we are to prioritise human life over short-term ‘growth’, we need to use planes less, not more, says Guardian columnist George Monbiot",
+  "If a third runway is built at Heathrow, what will be the impact on the wealth of the nation? It will cost us somewhere between £23.4bn and £62.5bn. These are not my figures; they weren’t calculated by environmental groups, but by the Department for Transport.",
+  "For decades, government ministers have told us that airport expansion is essential for “growth”. As chancellor, Rachel Reeves claimed that a third runway at Heathrow would add 0.43% to GDP, figures we later discovered came from a report commissioned by the airport. The transport department’s own analysis concluded that the real addition to GDP would be between 0.03% and 0.05%: eight to 14 times less. Against this, it weighed the social and environmental costs of the project, to reveal a massive net loss. It found that a third runway would cause major harm to the health and wellbeing of up to 3 million local people."
+ ],
+ "summary_zh": [
+  "第三條跑道將違背理性。衛報專欄作家喬治·蒙比奧特表示，如果我們要將人類生命置於短期「成長」之上，我們就需要減少而不是更多使用飛機",
+  "如果希思羅機場建造第三條跑道，將對國家財富產生什麼影響？我們將花費 234 億至 625 億英鎊。這些不是我的人物；它們不是由環保組織計算的，而是由交通部計算的。",
+  "幾十年來，政府部長們一直告訴我們，機場擴建對於「成長」至關重要。身為財政大臣，雷切爾·里夫斯 (Rachel Reeves) 聲稱希思羅機場第三條跑道將為 GDP 增加 0.43%，我們後來發現的數字來自機場委託的一份報告。交通部門自己的分析得出的結論是，GDP 的實際增量將在 0.03% 至 0.05% 之間：少 8 至 14 倍。與此相對，它權衡了該項目的社會和環境成本，揭示了巨大的淨損失。研究發現，第三條跑道將對多達 300 萬當地人的健康和福祉造成重大損害。"
+ ],
+ "words": [
+  {
+   "word": "prioritise",
+   "form": "prioritise",
+   "ipa": "praɪˈɔrʌtaɪz",
+   "freq": 0.106,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "British standard spelling of prioritize."
+     ]
+    }
+   ],
+   "zh_main": "優先考慮",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "If we are to prioritise human life over short-term ‘growth’, we need to use planes less, not more, says Guardian columnist George Monbiot"
+  },
+  {
+   "word": "columnist",
+   "form": "columnist",
+   "ipa": "kˈɑɫʌmnʌst",
+   "freq": 1.116,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A regular writer of a column, such as in a magazine or newspaper."
+     ]
+    }
+   ],
+   "zh_main": "專欄作家",
+   "zh": [],
+   "synonyms": [
+    "editorialist"
+   ],
+   "sentence": "If we are to prioritise human life over short-term ‘growth’, we need to use planes less, not more, says Guardian columnist George Monbiot"
+  },
+  {
+   "word": "wellbeing",
+   "form": "wellbeing",
+   "ipa": "wɛɫbˈiɪŋ",
+   "freq": 1.145,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Alternative form of well-being. [A state of health, happiness or prosperity.]"
+     ]
+    }
+   ],
+   "zh_main": "福利",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "福利",
+      "順當",
+      "順利",
+      "順手",
+      "順遂"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "It found that a third runway would cause major harm to the health and wellbeing of up to 3 million local people."
+  }
+ ],
+ "built": "2026-10-04T10:21+08:00"
+}
