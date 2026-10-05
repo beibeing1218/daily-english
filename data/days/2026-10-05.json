@@ -1,0 +1,221 @@
+{
+ "date": "2026-10-05",
+ "weekday": 0,
+ "weekday_zh": "一",
+ "cat": "world",
+ "cat_zh": "政治／國際",
+ "source": "The Guardian",
+ "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+ "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+ "summary": [
+  "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown",
+  "An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rights groups have said is a crackdown on press freedoms.",
+  "Last week, authorities arrested six journalists from the independent fact-checking and investigative platform Matsadaash – literally meaning “don’t believe” – accusing them in a statement of being unlicensed and publishing false news on behalf of the outlawed Muslim Brotherhood."
+ ],
+ "summary_zh": [
+  "一名被指控後呼籲釋放六名 Matsadaash 員工，而其他五人仍下落不明",
+  "一名埃及記者被指控加入恐怖組織，幾天前整個新聞編輯室被拘留，人權組織稱這是對新聞自由的鎮壓。",
+  "上週，當局逮捕了六名獨立事實查核和調查平台 Matsadaash（字面意思是「不相信」）的記者，並在一份聲明中指控他們沒有執照，並代表被取締的穆斯林兄弟會發布虛假新聞。"
+ ],
+ "words": [
+  {
+   "word": "newsroom",
+   "form": "newsroom",
+   "ipa": "nˈuzrum",
+   "freq": 0.4,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The office of a news organisation, especially that part of it where the journalists work and news stories are processed.",
+      "(dated) A room where newspapers and magazines are available for reading."
+     ]
+    }
+   ],
+   "zh_main": "編輯部",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "編輯部",
+      "閱覽室"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rights groups have said is a crackdown on press freedoms."
+  },
+  {
+   "word": "detained",
+   "form": "detained",
+   "ipa": "dɪtˈeɪnd",
+   "freq": 2.45,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Held in custody or confinement.",
+      "Delayed or held back; kept from proceeding."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To keep someone from proceeding by holding them back or making claims on their attention.",
+      "(transitive, law enforcement) To put someone under custody.",
+      "(transitive) To keep something from proceeding or coming to completion; to delay."
+     ]
+    }
+   ],
+   "zh_main": "被拘留",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "稽流",
+      "拘留",
+      "看押",
+      "扣留",
+      "扣押"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rights groups have said is a crackdown on press freedoms."
+  },
+  {
+   "word": "crackdown",
+   "form": "crackdown",
+   "ipa": "krˈækdaʊn",
+   "freq": 0.37,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Abruptly stern measures or disciplinary action; increased enforcement."
+     ]
+    }
+   ],
+   "zh_main": "鎮壓",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rights groups have said is a crackdown on press freedoms."
+  },
+  {
+   "word": "investigative",
+   "form": "investigative",
+   "ipa": "ɪnvˈɛstʌgeɪtɪv",
+   "freq": 2.029,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Of or pertaining to investigation",
+      "inquisitive; curious"
+     ]
+    }
+   ],
+   "zh_main": "調查性的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "調查的",
+      "研究"
+     ]
+    }
+   ],
+   "synonyms": [
+    "inquiring",
+    "fact-finding",
+    "investigatory"
+   ],
+   "sentence": "Last week, authorities arrested six journalists from the independent fact-checking and investigative platform Matsadaash – literally meaning “don’t believe” – accusing them in a statement of being unlicensed and publishing false news on behalf of the outlawed Muslim Brotherhood."
+  },
+  {
+   "word": "unlicensed",
+   "form": "unlicensed",
+   "ipa": "ʌnɫˈaɪsʌnst",
+   "freq": 0.439,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Not licensed; not officially authorized.",
+      "Without permission.",
+      "Free from requiring a license."
+     ]
+    }
+   ],
+   "zh_main": "未經許可的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "暗"
+     ]
+    }
+   ],
+   "synonyms": [
+    "unauthorized",
+    "unaccredited",
+    "unlicenced"
+   ],
+   "sentence": "Last week, authorities arrested six journalists from the independent fact-checking and investigative platform Matsadaash – literally meaning “don’t believe” – accusing them in a statement of being unlicensed and publishing false news on behalf of the outlawed Muslim Brotherhood."
+  },
+  {
+   "word": "outlawed",
+   "form": "outlawed",
+   "ipa": "ˈaʊtɫɔd",
+   "freq": 1.125,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(of an act) put beyond the limits of the law, forbidden, against the law.",
+      "(of a person) put beyond the limits of the law, declared an outlaw or declared a criminal."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To declare illegal.",
+      "(transitive) To make or declare (a person) an outlaw.",
+      "(transitive) To remove from legal jurisdiction or enforcement."
+     ]
+    }
+   ],
+   "zh_main": "被取締的",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "取締"
+     ]
+    }
+   ],
+   "synonyms": [
+    "illicit",
+    "illegitimate",
+    "unlawful",
+    "outlaw",
+    "illegal"
+   ],
+   "sentence": "Last week, authorities arrested six journalists from the independent fact-checking and investigative platform Matsadaash – literally meaning “don’t believe” – accusing them in a statement of being unlicensed and publishing false news on behalf of the outlawed Muslim Brotherhood."
+  }
+ ],
+ "built": "2026-10-05T09:33+08:00"
+}

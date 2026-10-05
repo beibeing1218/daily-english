@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-10-05",
+  "weekday_zh": "一",
+  "cat": "world",
+  "cat_zh": "政治／國際",
+  "source": "The Guardian",
+  "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+  "n_words": 6
+ },
+ {
   "date": "2026-10-04",
   "weekday_zh": "日",
   "cat": "opinion",
