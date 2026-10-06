@@ -1,0 +1,109 @@
+{
+ "date": "2026-10-06",
+ "weekday": 1,
+ "weekday_zh": "二",
+ "cat": "business",
+ "cat_zh": "商業／經濟",
+ "source": "The Guardian",
+ "title": "Sainsbury’s and Morrisons ‘held talks this year’ on multibillion-pound merger",
+ "url": "https://www.theguardian.com/business/2026/oct/05/sainsburys-morrisons-merger-talks",
+ "summary": [
+  "Deal would have created a supermarket with a market share of 23.6%, still well behind Tesco’s 27.8%",
+  "Sainsbury’s held merger talks with rival Morrisons this year to discuss a multibillion-pound deal that would have been the biggest shake-up for UK supermarkets in decades, according to reports.",
+  "The two companies held exploratory negotiations, according to the Financial Times and Sky. It is believed they are no longer in live discussions."
+ ],
+ "summary_zh": [
+  "這筆交易將創造一家市場份額為 23.6% 的超市，仍遠遠落後於樂購 (Tesco) 的 27.8%",
+  "據報道，塞恩斯伯里今年與競爭對手莫里森舉行了合併談判，討論一項價值數十億英鎊的交易，這將是英國超市幾十年來最大的重組。",
+  "根據英國《金融時報》和天空電視台報道，兩家公司進行了探索性談判。據信他們不再參與現場討論。"
+ ],
+ "words": [
+  {
+   "word": "sainsbury",
+   "form": "Sainsbury",
+   "ipa": "sˈeɪnsbɛri",
+   "freq": 0.194,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A surname from Old English."
+     ]
+    }
+   ],
+   "zh_main": "塞恩斯伯里",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Sainsbury’s held merger talks with rival Morrisons this year to discuss a multibillion-pound deal that would have been the biggest shake-up for UK supermarkets in decades, according to reports."
+  },
+  {
+   "word": "merger",
+   "form": "merger",
+   "ipa": "mˈɝdʒɝ",
+   "freq": 4.546,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(economics) The legal union of two or more corporations into a single entity, typically assets and liabilities being assumed by the buying party.",
+      "The act or process of merging two or more parts into a single unit.",
+      "One that merges."
+     ]
+    }
+   ],
+   "zh_main": "合併",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "歸并",
+      "合并",
+      "兼併"
+     ]
+    }
+   ],
+   "synonyms": [
+    "amalgamation",
+    "fusion",
+    "unification",
+    "uniting"
+   ],
+   "sentence": "Sainsbury’s held merger talks with rival Morrisons this year to discuss a multibillion-pound deal that would have been the biggest shake-up for UK supermarkets in decades, according to reports."
+  },
+  {
+   "word": "exploratory",
+   "form": "exploratory",
+   "ipa": "ɪkspɫˈɔrʌtɔri",
+   "freq": 2.999,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Serving to explore or investigate."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An exploration or investigation."
+     ]
+    }
+   ],
+   "zh_main": "探索性的",
+   "zh": [],
+   "synonyms": [
+    "preliminary",
+    "searching",
+    "wildcat",
+    "explorative"
+   ],
+   "sentence": "The two companies held exploratory negotiations, according to the Financial Times and Sky."
+  }
+ ],
+ "built": "2026-10-06T10:39+08:00"
+}
