@@ -1,0 +1,118 @@
+{
+ "date": "2026-10-07",
+ "weekday": 2,
+ "weekday_zh": "三",
+ "cat": "tech",
+ "cat_zh": "科技",
+ "source": "Ars Technica",
+ "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+ "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+ "summary": [
+  "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
+  "Drones sank two cargo ships and damaged a third in the exclusive economic zones of NATO member countries for the first time, killing at least two sailors. The attacks represent a notable escalation as Black Sea commercial shipping has increasingly come under attack during the Russian invasion of Ukraine, with Russia also being accused of carrying out “hybrid warfare” incidents across Europe."
+ ],
+ "summary_zh": [
+  "兩艘貨船沉沒，一艘船起火，水手死亡或失蹤。",
+  "無人機首次在北約成員國專屬經濟區擊沉兩艘貨船並損壞第三艘貨船，造成至少兩名水手死亡。這些攻擊事件顯著升級，因為黑海商業航運在俄羅斯入侵烏克蘭期間受到越來越多的攻擊，俄羅斯也被指控在歐洲各地發動「混合戰爭」事件。"
+ ],
+ "words": [
+  {
+   "word": "afire",
+   "form": "afire",
+   "ipa": "ʌfˈaɪr",
+   "freq": 0.435,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "On fire (often metaphorically)."
+     ]
+    },
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "defs": [
+      "On fire (often metaphorically)."
+     ]
+    }
+   ],
+   "zh_main": "著火",
+   "zh": [],
+   "synonyms": [
+    "ablaze",
+    "blazing",
+    "alight",
+    "aflame",
+    "burning"
+   ],
+   "sentence": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing."
+  },
+  {
+   "word": "escalation",
+   "form": "escalation",
+   "ipa": "ɛskʌɫˈeɪʃʌn",
+   "freq": 1.784,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act of escalating.",
+      "An increase or rise, especially to counteract a perceived discrepancy.",
+      "A deliberate or premeditated increase in the violence or geographic scope of a conflict."
+     ]
+    }
+   ],
+   "zh_main": "升級",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "The attacks represent a notable escalation as Black Sea commercial shipping has increasingly come under attack during the Russian invasion of Ukraine, with Russia also being accused of carrying out “hybrid warfare” incidents across Europe."
+  },
+  {
+   "word": "hybrid",
+   "form": "hybrid",
+   "ipa": "hˈaɪbrʌd",
+   "freq": 7.024,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Of or composed of mixed origin or composition.",
+      "Of a car, running on both fuel (gasoline or diesel) and electricity (battery or energy from the sun).",
+      "(animation) Involving both 2D and 3D animation."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Something of mixed origin or composition; often, a tool or technology that combines the benefits of formerly separate tools or technologies.",
+      "(biology) Offspring resulting from cross-breeding different entities, e.g. two different species or two purebred parent strains.",
+      "A hybrid vehicle, especially a car; a vehicle that runs on both fuel (gasoline or diesel) and electricity (battery or energy from the sun)."
+     ]
+    }
+   ],
+   "zh_main": "雜交種",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "混血"
+     ]
+    }
+   ],
+   "synonyms": [
+    "crossed",
+    "crossbreed",
+    "crossbred",
+    "intercrossed",
+    "loanblend"
+   ],
+   "sentence": "The attacks represent a notable escalation as Black Sea commercial shipping has increasingly come under attack during the Russian invasion of Ukraine, with Russia also being accused of carrying out “hybrid warfare” incidents across Europe."
+  }
+ ],
+ "built": "2026-10-07T10:02+08:00"
+}
