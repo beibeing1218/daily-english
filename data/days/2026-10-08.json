@@ -1,0 +1,161 @@
+{
+ "date": "2026-10-08",
+ "weekday": 3,
+ "weekday_zh": "四",
+ "cat": "science",
+ "cat_zh": "科學／健康",
+ "source": "The Conversation",
+ "title": "Yemen is spiralling into another civil war that could swiftly engulf in the entire region",
+ "url": "https://theconversation.com/yemen-is-spiralling-into-another-civil-war-that-could-swiftly-engulf-in-the-entire-region-293104",
+ "summary": [
+  "Turkey and Pakistan are poised to send troops to Saudi Arabia, but so far the Trump administration has avoided getting involved.",
+  "The Middle East has seen many explosions of violence in recent years. But while the US-Iran war has grabbed the headlines this year, the rapidly escalating conflict between the Houthis and Yemen’s internationally recognised government and Saudi Arabia risks becoming just as consequential for the region.",
+  "The complexity of Yemen’s internal conflict cannot be underestimated. The violence is linked to two major regional powers – Iran and Saudi Arabia – as well as the ongoing US-Israel confrontation with Iran over the Strait of Hormuz."
+ ],
+ "summary_zh": [
+  "土耳其和巴基斯坦準備向沙烏地阿拉伯派遣軍隊，但到目前為止，川普政府一直避免介入。",
+  "近年來，中東地區暴力事件頻繁發生。儘管美伊戰爭成為今年的頭條新聞，但胡塞武裝與國際公認的也門政府和沙烏地阿拉伯之間迅速升級的衝突也有可能對該地區產生同樣嚴重的影響。",
+  "也門內部衝突的複雜性不容小覷。這起暴力事件與伊朗和沙烏地阿拉伯這兩個主要地區大國以及美以在霍爾木茲海峽與伊朗的持續對抗有關。"
+ ],
+ "words": [
+  {
+   "word": "poised",
+   "form": "poised",
+   "ipa": "pˈɔɪzd",
+   "freq": 2.215,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Possessing poise, having self-confidence.",
+      "Ready, prepared.",
+      "Balanced, in position, equilibrium"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To hold (something) in equilibrium, to hold balanced and ready; to carry (something) ready to be used.",
+      "To keep (something) in equilibrium; to hold suspended or balanced.",
+      "To ascertain, as if by balancing; to weigh."
+     ]
+    }
+   ],
+   "zh_main": "蓄勢待發",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "平衡的",
+      "旖旎",
+      "優美",
+      "優雅",
+      "鎮靜"
+     ]
+    }
+   ],
+   "synonyms": [
+    "composed",
+    "equanimous",
+    "collected",
+    "self-possessed",
+    "balanced"
+   ],
+   "sentence": "Turkey and Pakistan are poised to send troops to Saudi Arabia, but so far the Trump administration has avoided getting involved."
+  },
+  {
+   "word": "escalate",
+   "form": "escalating",
+   "ipa": "ˈɛskʌɫeɪt",
+   "freq": 0.79,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(ambitransitive) To increase (something) in extent or intensity; to intensify or step up.",
+      "(transitive) In technical support, to transfer a customer, a problem, etc. to the next higher level of authority",
+      "(uncommon) To climb."
+     ]
+    }
+   ],
+   "zh_main": "升級",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "升級",
+      "升高"
+     ]
+    }
+   ],
+   "synonyms": [
+    "intensify"
+   ],
+   "sentence": "But while the US-Iran war has grabbed the headlines this year, the rapidly escalating conflict between the Houthis and Yemen’s internationally recognised government and Saudi Arabia risks becoming just as consequential for the region."
+  },
+  {
+   "word": "consequential",
+   "form": "consequential",
+   "ipa": "kɑnsʌkwˈɛntʃʌɫ",
+   "freq": 1.04,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Having significant consequences; of importance.",
+      "Important or significant.",
+      "Following as a result."
+     ]
+    }
+   ],
+   "zh_main": "後果性的",
+   "zh": [],
+   "synonyms": [
+    "important",
+    "eventful"
+   ],
+   "sentence": "But while the US-Iran war has grabbed the headlines this year, the rapidly escalating conflict between the Houthis and Yemen’s internationally recognised government and Saudi Arabia risks becoming just as consequential for the region."
+  },
+  {
+   "word": "confrontation",
+   "form": "confrontation",
+   "ipa": "kɑnfrʌntˈeɪʃʌn",
+   "freq": 7.275,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act of confronting or challenging another, especially face to face.",
+      "A conflict between armed forces."
+     ]
+    }
+   ],
+   "zh_main": "對抗",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "對抗",
+      "對審",
+      "對照"
+     ]
+    }
+   ],
+   "synonyms": [
+    "opposition",
+    "encounter",
+    "showdown"
+   ],
+   "sentence": "The violence is linked to two major regional powers – Iran and Saudi Arabia – as well as the ongoing US-Israel confrontation with Iran over the Strait of Hormuz."
+  }
+ ],
+ "built": "2026-10-08T10:26+08:00"
+}
