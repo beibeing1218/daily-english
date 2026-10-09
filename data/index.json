@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-10-09",
+  "weekday_zh": "五",
+  "cat": "environment",
+  "cat_zh": "環境／氣候",
+  "source": "Yale E360",
+  "title": "The U.S. Public Is Losing Its Say on Environmental Policy",
+  "n_words": 10
+ },
+ {
   "date": "2026-10-08",
   "weekday_zh": "四",
   "cat": "science",

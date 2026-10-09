@@ -1,0 +1,358 @@
+{
+ "date": "2026-10-09",
+ "weekday": 4,
+ "weekday_zh": "五",
+ "cat": "environment",
+ "cat_zh": "環境／氣候",
+ "source": "Yale E360",
+ "title": "The U.S. Public Is Losing Its Say on Environmental Policy",
+ "url": "https://e360.yale.edu/features/public-comment-environment-regulations-permits",
+ "summary": [
+  "Federal agencies have long been required to seek public comment when writing new regulations or approving large projects, from highways to data centers. The Trump administration is systematically undercutting that process, stifling public input while skirting federal laws.",
+  "Public participation is a hallmark of environmental regulation, embedded in every major environmental statute enacted over the past half-century. Yet the Trump administration has systematically sought to curtail public input into the government’s environmental decision-making by shirking decades of precedent and making strained interpretations of longstanding federal law. Looked at collectively, the pattern of public disenfranchisement is unmistakable."
+ ],
+ "summary_zh": [
+  "長期以來，聯邦機構在製定新法規或批准從高速公路到資料中心的大型專案時，一直被要求徵求公眾意見。川普政府正在系統性地削弱這一進程，壓制公眾意見，同時規避聯邦法律。",
+  "公眾參與是環境監管的一個標誌，體現在過去半個世紀頒布的每項主要環境法規。然而，川普政府卻迴避數十年的先例，並對長期存在的聯邦法律做出緊張的解釋，系統性地尋求減少公眾對政府環境決策的投入。整體來看，公共剝奪公民權的模式是顯而易見的。"
+ ],
+ "words": [
+  {
+   "word": "systematically",
+   "form": "systematically",
+   "ipa": "sɪstʌmˈætɪkɫi",
+   "freq": 6.679,
+   "meanings": [
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "defs": [
+      "In a systematic manner; organizedly or methodically."
+     ]
+    }
+   ],
+   "zh_main": "系統地",
+   "zh": [
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "terms": [
+      "按步就班",
+      "有條不紊",
+      "有條有理地"
+     ]
+    }
+   ],
+   "synonyms": [
+    "consistently"
+   ],
+   "sentence": "The Trump administration is systematically undercutting that process, stifling public input while skirting federal laws."
+  },
+  {
+   "word": "undercutting",
+   "form": "undercutting",
+   "ipa": "ˈʌndɝkʌtɪŋ",
+   "freq": 0.381,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To sell (something) at a lower price, or to work for lower wages, than a competitor.",
+      "To undermine.",
+      "(motor racing) To employ the undercut strategy."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An undercut; a cut in the lower part."
+     ]
+    }
+   ],
+   "zh_main": "削弱",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "削低价格"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "The Trump administration is systematically undercutting that process, stifling public input while skirting federal laws."
+  },
+  {
+   "word": "stifling",
+   "form": "stifling",
+   "ipa": "stˈaɪfɫɪŋ",
+   "freq": 1.15,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "That stifles."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive, also figuratively) To make (an animal or person) unconscious or cause (an animal or person) to die by preventing breathing; to smother, to suffocate.",
+      "(transitive, hyperbolic) To cause (someone) difficulty in breathing, or a choking or gagging feeling.",
+      "(transitive, also figuratively) To prevent (a breath, cough, or cry, or the voice, etc.) from being released from the throat."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act by which something is stifled."
+     ]
+    }
+   ],
+   "zh_main": "令人窒息的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "悶"
+     ]
+    }
+   ],
+   "synonyms": [
+    "sultry",
+    "hot",
+    "sulfurous",
+    "suppression",
+    "quelling"
+   ],
+   "sentence": "The Trump administration is systematically undercutting that process, stifling public input while skirting federal laws."
+  },
+  {
+   "word": "hallmark",
+   "form": "hallmark",
+   "ipa": "hˈɑɫmɑrk",
+   "freq": 1.68,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(figurative) A distinguishing characteristic.",
+      "An official marking made by a trusted party, usually an assay office, on items made of precious metals.",
+      "A surname."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To provide or stamp with a hallmark."
+     ]
+    }
+   ],
+   "zh_main": "標誌",
+   "zh": [],
+   "synonyms": [
+    "earmark",
+    "trademark",
+    "authentication",
+    "assay-mark",
+    "stylemark"
+   ],
+   "sentence": "Public participation is a hallmark of environmental regulation, embedded in every major environmental statute enacted over the past half-century."
+  },
+  {
+   "word": "enact",
+   "form": "enacted",
+   "ipa": "ɪnˈækt",
+   "freq": 1.939,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive, law) To make (a bill) into law.",
+      "(transitive) To act the part of; to play.",
+      "(transitive) To do; to effect."
+     ]
+    }
+   ],
+   "zh_main": "制定",
+   "zh": [],
+   "synonyms": [
+    "ordain",
+    "reenact"
+   ],
+   "sentence": "Public participation is a hallmark of environmental regulation, embedded in every major environmental statute enacted over the past half-century."
+  },
+  {
+   "word": "curtail",
+   "form": "curtail",
+   "ipa": "kɝtˈeɪɫ",
+   "freq": 0.987,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(architecture) A scroll termination, as of a step, etc."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To shorten or abridge the duration of; to bring an end to; to truncate.",
+      "(transitive, figuratively) To limit or restrict; to keep in check.",
+      "(transitive, obsolete) To cut short the tail of (an animal)."
+     ]
+    }
+   ],
+   "zh_main": "減少",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "簡略",
+      "縮短"
+     ]
+    }
+   ],
+   "synonyms": [
+    "curb",
+    "clip",
+    "restrict"
+   ],
+   "sentence": "Yet the Trump administration has systematically sought to curtail public input into the government’s environmental decision-making by shirking decades of precedent and making strained interpretations of longstanding federal law."
+  },
+  {
+   "word": "shirking",
+   "form": "shirking",
+   "ipa": "ʃˈɝkɪŋ",
+   "freq": 0.247,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To avoid, especially a duty, responsibility, etc.; to stay away from.",
+      "(intransitive) To evade an obligation; to avoid the performance of duty, as by running away.",
+      "(transitive) To procure by petty fraud and trickery; to obtain by mean solicitation."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act of one who shirks."
+     ]
+    }
+   ],
+   "zh_main": "偷懶",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "逃避",
+      "推脫",
+      "推卸"
+     ]
+    }
+   ],
+   "synonyms": [
+    "goldbricking",
+    "soldiering",
+    "slacking"
+   ],
+   "sentence": "Yet the Trump administration has systematically sought to curtail public input into the government’s environmental decision-making by shirking decades of precedent and making strained interpretations of longstanding federal law."
+  },
+  {
+   "word": "longstanding",
+   "form": "longstanding",
+   "ipa": "ɫˈɔŋstændɪŋ",
+   "freq": 1.046,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Alternative form of long-standing. [Having existed for a long time; of long standing.]"
+     ]
+    }
+   ],
+   "zh_main": "長期存在的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "長期的",
+      "長遠",
+      "由來已久"
+     ]
+    }
+   ],
+   "synonyms": [
+    "long"
+   ],
+   "sentence": "Yet the Trump administration has systematically sought to curtail public input into the government’s environmental decision-making by shirking decades of precedent and making strained interpretations of longstanding federal law."
+  },
+  {
+   "word": "disenfranchisement",
+   "form": "disenfranchisement",
+   "ipa": "dɪsɪnfrˈæntʃaɪzmʌnt",
+   "freq": 0.171,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Explicit or implicit revocation of, or failure to grant, the right to vote, to a person or group of people."
+     ]
+    }
+   ],
+   "zh_main": "剝奪公民權",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Looked at collectively, the pattern of public disenfranchisement is unmistakable."
+  },
+  {
+   "word": "unmistakable",
+   "form": "unmistakable",
+   "ipa": "ʌnmɪstˈeɪkʌbʌɫ",
+   "freq": 2.419,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Unique, such that it cannot be mistaken for something else."
+     ]
+    }
+   ],
+   "zh_main": "明確無誤的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "不會錯的",
+      "明白的"
+     ]
+    }
+   ],
+   "synonyms": [
+    "clear"
+   ],
+   "sentence": "Looked at collectively, the pattern of public disenfranchisement is unmistakable."
+  }
+ ],
+ "built": "2026-10-09T10:44+08:00"
+}
