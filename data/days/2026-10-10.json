@@ -1,0 +1,308 @@
+{
+ "date": "2026-10-10",
+ "weekday": 5,
+ "weekday_zh": "六",
+ "cat": "culture",
+ "cat_zh": "文化／藝術",
+ "source": "The Guardian",
+ "title": "‘Old-timey fascism was kept secret. Now you don’t have to hide it’: Martin McDonagh, John Malkovich and Sam Rockwell on Wild Horse Nine",
+ "url": "https://www.theguardian.com/film/2026/oct/09/martin-mcdonagh-john-malkovich-sam-rockwell-interview-wild-horse-nine",
+ "summary": [
+  "McDonagh’s latest film has Malkovich and Rockwell shooting the breeze as CIA agents in 1973 on Easter Island. They discuss grandchildren, swimming with turtles and who shot JFK",
+  "‘Earmuffs!” says Sam Rockwell, pausing his gushing tribute mid-flow and turning to face John Malkovich on the couch. Rockwell loves Malkovich and has been discussing his work at some length. Malkovich, he says, is charismatic and dangerous, half masculine, half feminine; a unique combination and the perfect sparring partner. He’s one of the world’s finest actors and annoyingly modest to boot. “Earmuffs!” says Rockwell and pivots back towards me. “He hates hearing all this. That’s why I keep saying ‘earmuffs’.”"
+ ],
+ "summary_zh": [
+  "麥克唐納的最新電影講述了 1973 年馬爾科維奇和羅克韋爾在復活節島扮演中央情報局特工的故事。他們討論孫子、與海龜一起游泳以及誰射殺了甘迺迪",
+  "'耳套！ 」山姆洛克威爾說道，他滔滔不絕的致敬中途停了下來，轉身面對沙發上的約翰馬爾科維奇。羅克韋爾喜歡馬爾科維奇，並且一直在詳細討論他的工作。他說，馬爾科維奇既有魅力，又危險，一半男性氣質，一半女性氣質。 」羅克韋爾說道，然後轉向我。「他討厭聽到這一切。這就是為什麼我一直說『耳罩』。 」"
+ ],
+ "words": [
+  {
+   "word": "malkovich",
+   "form": "Malkovich",
+   "ipa": "mˈɔɫkʌvɪtʃ",
+   "freq": 0.022,
+   "meanings": [
+    {
+     "pos": "N",
+     "pos_zh": "N",
+     "defs": [
+      "a family name of Slavic origin."
+     ]
+    }
+   ],
+   "zh_main": "馬爾科維奇",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Malkovich, he says, is charismatic and dangerous, half masculine, half feminine; a unique combination and the perfect sparring partner."
+  },
+  {
+   "word": "rockwell",
+   "form": "Rockwell",
+   "ipa": "rˈɑkwɛɫ",
+   "freq": 0.84,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A surname."
+     ]
+    }
+   ],
+   "zh_main": "羅克韋爾",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Rockwell loves Malkovich and has been discussing his work at some length."
+  },
+  {
+   "word": "earmuffs",
+   "form": "earmuffs",
+   "ipa": "ˈɪrmʌfs",
+   "freq": 0.044,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A headphone-like device designed to cover a person's ears for protection against cold or noise. They consist of a thermoplastic or metal head-band, that fits over the top of the head, and a pad at each end, to cover the external ears."
+     ]
+    }
+   ],
+   "zh_main": "耳套",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "耳套"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "That’s why I keep saying ‘earmuffs’.”"
+  },
+  {
+   "word": "gushing",
+   "form": "gushing",
+   "ipa": "gˈʌʃɪŋ",
+   "freq": 0.872,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Inclined to gush; effusive.",
+      "Flowing forth suddenly or violently."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive, also figurative) To flow forth suddenly, in great volume.",
+      "(intransitive, transitive, figurative) To make an excessive display of enthusiasm, praise, or sentiment.",
+      "(transitive, also figurative) To send (something) flowing forth suddenly in great volume."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act or motion of something that gushes."
+     ]
+    }
+   ],
+   "zh_main": "噴薄",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "噴薄",
+      "噴出的"
+     ]
+    }
+   ],
+   "synonyms": [
+    "effusive",
+    "emotional",
+    "gushy",
+    "pouring",
+    "burbling"
+   ],
+   "sentence": "‘Earmuffs!” says Sam Rockwell, pausing his gushing tribute mid-flow and turning to face John Malkovich on the couch."
+  },
+  {
+   "word": "charismatic",
+   "form": "charismatic",
+   "ipa": "kɛrɪzmˈætɪk",
+   "freq": 2.384,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Of, related to, or having charisma: having a form of compelling charm which inspires devotion in others due to their strength of character and being full of personality; charming, fascinating, magnetic.",
+      "Of, related to, or being a member of a form of Christianity that emphasizes the role of the Holy Spirit."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A member of the Charismatic Movement."
+     ]
+    }
+   ],
+   "zh_main": "有魅力的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "神賜能力的",
+      "旖旎"
+     ]
+    }
+   ],
+   "synonyms": [
+    "attractive",
+    "magnetic"
+   ],
+   "sentence": "Malkovich, he says, is charismatic and dangerous, half masculine, half feminine; a unique combination and the perfect sparring partner."
+  },
+  {
+   "word": "masculine",
+   "form": "masculine",
+   "ipa": "mˈæskjʌɫʌn",
+   "freq": 6.78,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Of or pertaining to the male gender.",
+      "Of or pertaining to the male sex; biologically male, not female.",
+      "Having the qualities stereotypically associated with men: virile, aggressive, not effeminate; manly."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(grammar) The masculine gender.",
+      "(grammar) A word of the masculine gender.",
+      "That which is masculine."
+     ]
+    }
+   ],
+   "zh_main": "男性",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "男性的",
+      "男子氣",
+      "陽性的"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "男性",
+      "陽性"
+     ]
+    }
+   ],
+   "synonyms": [
+    "virile",
+    "stressed",
+    "butch",
+    "manlike",
+    "mannish"
+   ],
+   "sentence": "Malkovich, he says, is charismatic and dangerous, half masculine, half feminine; a unique combination and the perfect sparring partner."
+  },
+  {
+   "word": "sparring",
+   "form": "sparring",
+   "ipa": "spˈɑrɪŋ",
+   "freq": 0.336,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To fight, especially as practice for martial arts or hand-to-hand combat.",
+      "(transitive) To supply or equip (a vessel) with spars.",
+      "(obsolete or dialectal) To bolt, bar."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act of one who spars."
+     ]
+    }
+   ],
+   "zh_main": "陪練",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Malkovich, he says, is charismatic and dangerous, half masculine, half feminine; a unique combination and the perfect sparring partner."
+  },
+  {
+   "word": "pivot",
+   "form": "pivots",
+   "ipa": "pˈɪvʌt",
+   "freq": 2.077,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(figuratively, by extension) Something or someone having a paramount significance in a certain situation.",
+      "(US, politics) A shift during a general election in a political candidate's messaging to reflect plans and values more moderate than those advocated during the primary.",
+      "A thing on which something turns; specifically a metal pointed pin or short shaft in machinery, such as the end of an axle or spindle."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To make a sudden or swift change in strategy, policy, etc.",
+      "(business slang) To change the direction of a business, usually in response to changes in the market.",
+      "(intransitive) To turn on an exact spot."
+     ]
+    }
+   ],
+   "zh_main": "樞",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "樞",
+      "樞紐"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "在樞軸上轉動",
+      "裝樞軸於"
+     ]
+    }
+   ],
+   "synonyms": [
+    "swivel",
+    "pin"
+   ],
+   "sentence": "“Earmuffs!” says Rockwell and pivots back towards me."
+  }
+ ],
+ "built": "2026-10-10T10:02+08:00"
+}
