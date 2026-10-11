@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-10-11",
+  "weekday_zh": "日",
+  "cat": "opinion",
+  "cat_zh": "評論",
+  "source": "The Guardian",
+  "title": "The more Putin escalates his attacks on Europe, the more Europe should support Ukraine | Timothy Garton Ash",
+  "n_words": 10
+ },
+ {
   "date": "2026-10-10",
   "weekday_zh": "六",
   "cat": "culture",

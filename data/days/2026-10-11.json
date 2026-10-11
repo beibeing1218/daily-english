@@ -1,0 +1,393 @@
+{
+ "date": "2026-10-11",
+ "weekday": 6,
+ "weekday_zh": "日",
+ "cat": "opinion",
+ "cat_zh": "評論",
+ "source": "The Guardian",
+ "title": "The more Putin escalates his attacks on Europe, the more Europe should support Ukraine | Timothy Garton Ash",
+ "url": "https://www.theguardian.com/commentisfree/2026/oct/10/vladimir-putin-shadow-war-europe-ukraine-russia",
+ "summary": [
+  "Moscow’s imperialist strongman believes decadent European democracies can be cowed. Our job is to prove him wrong, says Guardian columnist Timothy Garton Ash",
+  "Vladimir Putin is escalating both his full-scale war against Ukraine and his shadow war against the rest of Europe. His main purpose in the shadow one is to break European support for Ukraine so he can subjugate that country, something he regards as existential for Russia’s future and his own. While we in the rest of Europe must prepare as best we can to defend ourselves against every kind of hybrid attack, the central thrust of our response should be to redouble our support for Ukraine. Ukraine is his main target. It’s there, and only there, not in a contest of a thousand hybrid pinpricks, that Putin’s Russia can in a meaningful sense be defeated and deterred."
+ ],
+ "summary_zh": [
+  "莫斯科的帝國主義強人認為，腐朽的歐洲民主國家是可以被嚇倒的。 《衛報》專欄作家蒂莫西·加頓·阿什 (Timothy Garton Ash) 表示，我們的工作就是證明他是錯的",
+  "弗拉基米爾·普丁正在升級他對烏克蘭的全面戰爭和對歐洲其他國家的影子戰爭。他的主要目的是打破欧洲对乌克兰的支持，这样他就可以征服这个国家，他认为这对俄罗斯和他自己的未来至关重要。虽然我们欧洲其他国家必须尽最大努力做好防御各种混合攻击的准备，但我们应对措施的核心应该是加倍支持乌克兰。乌克兰是他的主要目标。正是在那里，而且只有在那里，而不是在上千次混合针刺的竞争中，普京领导的俄罗斯才能在有意义的意义上被击败和威慑。"
+ ],
+ "words": [
+  {
+   "word": "imperialist",
+   "form": "imperialist",
+   "ipa": "ɪmpˈɪriʌɫɪst",
+   "freq": 3.051,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Of, or relating to imperialism."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An advocate of imperialism.",
+      "(historical, sometimes attributive) An agent or official working on behalf of the Empire of Japan."
+     ]
+    }
+   ],
+   "zh_main": "帝國主義的",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "帝國主義者",
+      "帝國主義分子"
+     ]
+    }
+   ],
+   "synonyms": [
+    "imperialistic"
+   ],
+   "sentence": "Moscow’s imperialist strongman believes decadent European democracies can be cowed."
+  },
+  {
+   "word": "strongman",
+   "form": "strongman",
+   "ipa": "strˈɔŋmæn",
+   "freq": 0.15,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A forceful or brutal person, usually a ruler or tyrant.",
+      "A man who performs feats of strength, as in competitions or as an attraction in a circus."
+     ]
+    }
+   ],
+   "zh_main": "大力士",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "鐵腕人物"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Moscow’s imperialist strongman believes decadent European democracies can be cowed."
+  },
+  {
+   "word": "decadent",
+   "form": "decadent",
+   "ipa": "dˈɛkʌdʌnt",
+   "freq": 1.04,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Luxuriously self-indulgent.",
+      "Characterized by moral or cultural decline."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A person affected by moral decay."
+     ]
+    }
+   ],
+   "zh_main": "頹廢",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "頹廢"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "頹廢"
+     ]
+    }
+   ],
+   "synonyms": [
+    "indulgent",
+    "effete"
+   ],
+   "sentence": "Moscow’s imperialist strongman believes decadent European democracies can be cowed."
+  },
+  {
+   "word": "vladimir",
+   "form": "Vladimir",
+   "ipa": "vɫˈædʌmɪr",
+   "freq": 2.41,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A city, the administrative centre of Vladimir Oblast, Russia.",
+      "An oblast of Russia.",
+      "A transliteration of the Macedonian, Pannonian Rusyn, or Russian male given name Владимир (Vladimir), equivalent to Volodymyr, popular throughout the history of Slavic countries and societies."
+     ]
+    }
+   ],
+   "zh_main": "弗拉基米爾",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Vladimir Putin is escalating both his full-scale war against Ukraine and his shadow war against the rest of Europe."
+  },
+  {
+   "word": "ukraine",
+   "form": "Ukraine",
+   "ipa": "jukrˈeɪn",
+   "freq": 3.295,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A country in Eastern Europe, bordering on the north shore of the Black Sea. Capital and largest city: Kyiv."
+     ]
+    }
+   ],
+   "zh_main": "烏克蘭",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "烏克蘭"
+     ]
+    }
+   ],
+   "synonyms": [
+    "ukrayina"
+   ],
+   "sentence": "Ukraine is his main target."
+  },
+  {
+   "word": "subjugate",
+   "form": "subjugate",
+   "ipa": "sˈʌbdʒʌgeɪt",
+   "freq": 0.332,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Forced into submission; subjugated."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(rare) A person forced into submission; a subject."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To forcibly impose obedience, servitude, or submission upon (a country, a people, etc.).",
+      "To make (someone or something) subordinate to another person or thing; to subordinate.",
+      "To tame (an animal); to domesticate."
+     ]
+    }
+   ],
+   "zh_main": "征服",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "征服"
+     ]
+    }
+   ],
+   "synonyms": [
+    "subject",
+    "subdue",
+    "reduce",
+    "quash",
+    "repress"
+   ],
+   "sentence": "His main purpose in the shadow one is to break European support for Ukraine so he can subjugate that country, something he regards as existential for Russia’s future and his own."
+  },
+  {
+   "word": "existential",
+   "form": "existential",
+   "ipa": "ɛgzɪstˈɛntʃʌɫ",
+   "freq": 3.943,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Of or relating to existence.",
+      "Concerning the very existence of something, especially with regard to extinction.",
+      "(philosophy) Of or relating to existentialism."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(programming) Ellipsis of existential type. [(programming, type systems) A type that hides the underlying concrete type(s).]",
+      "(linguistics) Ellipsis of existential clause."
+     ]
+    }
+   ],
+   "zh_main": "存在主義的",
+   "zh": [],
+   "synonyms": [
+    "empirical",
+    "experiential"
+   ],
+   "sentence": "His main purpose in the shadow one is to break European support for Ukraine so he can subjugate that country, something he regards as existential for Russia’s future and his own."
+  },
+  {
+   "word": "redouble",
+   "form": "redouble",
+   "ipa": "ridˈʌbʌɫ",
+   "freq": 0.169,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(bridge) An optional bid made by the side currently holding the highest bid for the contract, after the opposing side has doubled."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To double, especially to double again; to increase considerably; to multiply; to intensify.",
+      "(intransitive) To become twice as big.",
+      "To double again what was reduced to a single state."
+     ]
+    }
+   ],
+   "zh_main": "加倍",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "再加倍"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "加倍",
+      "加強"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "While we in the rest of Europe must prepare as best we can to defend ourselves against every kind of hybrid attack, the central thrust of our response should be to redouble our support for Ukraine."
+  },
+  {
+   "word": "pinprick",
+   "form": "pinpricks",
+   "ipa": "pˈɪnprɪk",
+   "freq": 0.128,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An insignificant puncture made by a pin or similar point.",
+      "A mildly annoying wound or damage.",
+      "A very tiny dot."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To puncture with a tiny hole or holes.",
+      "(transitive) To produce a jabbing sensation, like a pinprick, in."
+     ]
+    }
+   ],
+   "zh_main": "針刺",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "針刺",
+      "針眼"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "針刺"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "It’s there, and only there, not in a contest of a thousand hybrid pinpricks, that Putin’s Russia can in a meaningful sense be defeated and deterred."
+  },
+  {
+   "word": "deter",
+   "form": "deterred",
+   "ipa": "dɪtˈɝ",
+   "freq": 2.452,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To prevent something from happening.",
+      "(transitive) To persuade someone not to do something; to discourage.",
+      "(transitive) To distract someone from something."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A surname from German."
+     ]
+    }
+   ],
+   "zh_main": "阻止",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "阻止",
+      "威懾",
+      "嚇住"
+     ]
+    }
+   ],
+   "synonyms": [
+    "dissuade",
+    "discourage"
+   ],
+   "sentence": "It’s there, and only there, not in a contest of a thousand hybrid pinpricks, that Putin’s Russia can in a meaningful sense be defeated and deterred."
+  }
+ ],
+ "built": "2026-10-11T09:31+08:00"
+}
