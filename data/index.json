@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-10-12",
+  "weekday_zh": "一",
+  "cat": "world",
+  "cat_zh": "政治／國際",
+  "source": "The Guardian",
+  "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+  "n_words": 5
+ },
+ {
   "date": "2026-10-11",
   "weekday_zh": "日",
   "cat": "opinion",
