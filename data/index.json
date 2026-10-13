@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-10-13",
+  "weekday_zh": "二",
+  "cat": "business",
+  "cat_zh": "商業／經濟",
+  "source": "The Guardian",
+  "title": "IMF warns global economy ‘could soon test the limits of resilience’",
+  "n_words": 5
+ },
+ {
   "date": "2026-10-12",
   "weekday_zh": "一",
   "cat": "world",

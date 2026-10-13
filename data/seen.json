@@ -92,7 +92,12 @@
   "withheld": "2026-10-12",
   "newborn": "2026-10-12",
   "withhold": "2026-10-12",
-  "longtime": "2026-10-12"
+  "longtime": "2026-10-12",
+  "overstretched": "2026-10-13",
+  "upgradability": "2026-10-13",
+  "forecast": "2026-10-13",
+  "resilience": "2026-10-13",
+  "withstand": "2026-10-13"
  },
  "urls": [
   "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
@@ -111,6 +116,7 @@
   "https://e360.yale.edu/features/public-comment-environment-regulations-permits",
   "https://www.theguardian.com/film/2026/oct/09/martin-mcdonagh-john-malkovich-sam-rockwell-interview-wild-horse-nine",
   "https://www.theguardian.com/commentisfree/2026/oct/10/vladimir-putin-shadow-war-europe-ukraine-russia",
-  "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
+  "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+  "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026"
  ]
 }

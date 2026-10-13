@@ -1,0 +1,187 @@
+{
+ "date": "2026-10-13",
+ "weekday": 1,
+ "weekday_zh": "二",
+ "cat": "business",
+ "cat_zh": "商業／經濟",
+ "source": "The Guardian",
+ "title": "IMF warns global economy ‘could soon test the limits of resilience’",
+ "url": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+ "summary": [
+  "World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026",
+  "The global economy “could soon test the limits of resilience”, as emergency oil stocks run low and government budgets become overstretched, the International Monetary Fund has warned.",
+  "In its twice-yearly World Economic Outlook, the IMF said global growth had withstood the Middle East conflict better than feared over the past six months."
+ ],
+ "summary_zh": [
+  "《世界經濟展望》上調英國 2026 年 GDP 成長預測，稱各州石油庫存較低且預算捉襟見肘",
+  "國際貨幣基金組織警告說，隨著緊急石油庫存減少和政府預算捉襟見肘，全球經濟「可能很快就會考驗彈性的極限」。",
+  "國際貨幣基金組織在其每年兩次的《世界經濟展望》中表示，過去六個月全球經濟成長經受住中東衝突的影響比人們擔心的要好。"
+ ],
+ "words": [
+  {
+   "word": "overstretched",
+   "form": "overstretched",
+   "ipa": "ˈoʊvɝstrˈɛtʃt",
+   "freq": 0.101,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Subject to demands that are more than can be reasonably handled."
+     ]
+    }
+   ],
+   "zh_main": "過度拉伸",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026"
+  },
+  {
+   "word": "upgradability",
+   "form": "upgrades",
+   "ipa": "ʌpgrˈeɪdʌbˈɪɫɪti",
+   "freq": 0.006,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(computing, of electronic equipment) Capability of being improved in functionality by the addition or replacement of components."
+     ]
+    }
+   ],
+   "zh_main": "可升級性",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026"
+  },
+  {
+   "word": "forecast",
+   "form": "forecast",
+   "ipa": "fˈɔrkæst",
+   "freq": 5.609,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A prediction of the weather.",
+      "An estimation of a future condition.",
+      "(gambling) exacta"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To estimate how something will be in the future.",
+      "To foreshadow; to suggest something in advance.",
+      "(obsolete) To contrive or plan beforehand."
+     ]
+    }
+   ],
+   "zh_main": "預報",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "預報",
+      "預測",
+      "展望"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "預報",
+      "預測",
+      "預計",
+      "預兆"
+     ]
+    }
+   ],
+   "synonyms": [
+    "presage",
+    "augur",
+    "reckon",
+    "figure",
+    "portend"
+   ],
+   "sentence": "World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026"
+  },
+  {
+   "word": "resilience",
+   "form": "resilience",
+   "ipa": "rɪzˈɪɫiʌns",
+   "freq": 1.752,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(psychology, neuroscience) The mental ability to recover quickly from depression, illness or misfortune.",
+      "The positive capacity of an organizational system or company to adapt and return to equilibrium after a crisis, failure or any kind of disruption, including: an outage, natural disasters, man-made disasters, terrorism, or similar (particularly IT systems, archives).",
+      "(literal or figurative) The capacity to resist destruction or defeat, especially when under extreme pressure."
+     ]
+    }
+   ],
+   "zh_main": "彈性",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "彈性",
+      "彈力"
+     ]
+    }
+   ],
+   "synonyms": [
+    "buoyancy",
+    "irrepressibility",
+    "resiliency"
+   ],
+   "sentence": "The global economy “could soon test the limits of resilience”, as emergency oil stocks run low and government budgets become overstretched, the International Monetary Fund has warned."
+  },
+  {
+   "word": "withstand",
+   "form": "withstood",
+   "ipa": "wɪθstˈænd",
+   "freq": 3.734,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To resist or endure (something) successfully.",
+      "To oppose (something) forcefully."
+     ]
+    }
+   ],
+   "zh_main": "經受",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "經受",
+      "抵擋",
+      "抵抗",
+      "頂住",
+      "對抗"
+     ]
+    }
+   ],
+   "synonyms": [
+    "hold",
+    "defy",
+    "resist"
+   ],
+   "sentence": "In its twice-yearly World Economic Outlook, the IMF said global growth had withstood the Middle East conflict better than feared over the past six months."
+  }
+ ],
+ "built": "2026-10-13T11:20+08:00"
+}
