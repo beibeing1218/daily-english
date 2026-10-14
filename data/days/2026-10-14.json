@@ -1,0 +1,242 @@
+{
+ "date": "2026-10-14",
+ "weekday": 2,
+ "weekday_zh": "三",
+ "cat": "tech",
+ "cat_zh": "科技",
+ "source": "Ars Technica",
+ "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+ "url": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+ "summary": [
+  "I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+  "Martin Shkreli—the ex-pharmaceutical executive infamous for illegally hiking the price of a lifesaving anti-parasitic drug by more than 4,000 percent and getting a seven-year prison sentence for the fraudulent scheme he used to do it—has been under a lifetime ban from the pharmaceutical industry since 2022.",
+  "However, according to the Federal Trade Commission and the attorneys general of seven states, Shkreli has “flagrantly and repeatedly” violated that ban nearly the entire time—allegedly by trading stock in dozens of drug companies and discussing the industry during livestreams on social media."
+ ],
+ "summary_zh": [
+  "我總是能找到幾隻生技股票來吸，」施克萊利在直播中說。",
+  "馬丁·施克雷利 (Martin Shkreli) 是一名前製藥公司高管，因非法將一種救命抗寄生蟲藥的價格提高 4000% 以上而臭名昭著，並因實施欺詐計劃而被判處七年監禁。自 2022 年以來，他一直被終身禁止進入製藥業。",
+  "然而，根據聯邦貿易委員會和七個州總檢察長的說法，什克雷利幾乎一直「公然且多次」違反該禁令，據稱他交易了數十家製藥公司的股票，並在社交媒體直播中討論該行業。"
+ ],
+ "words": [
+  {
+   "word": "biotech",
+   "form": "biotech",
+   "ipa": "bˈaɪoʊtɛk",
+   "freq": 0.563,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(uncountable) Biotechnology.",
+      "(countable) A company specializing in biotechnology, or stock in such a company."
+     ]
+    }
+   ],
+   "zh_main": "生物技術",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream."
+  },
+  {
+   "word": "livestream",
+   "form": "livestream",
+   "ipa": "ɫˈɪvstrˈim",
+   "freq": 0.0,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Alternative form of live stream. [(Internet) A real-time broadcast of audio or video over the Internet.]"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To broadcast as a live stream.",
+      "(transitive) To receive and watch as a live stream."
+     ]
+    }
+   ],
+   "zh_main": "直播",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream."
+  },
+  {
+   "word": "pharmaceutical",
+   "form": "pharmaceutical",
+   "ipa": "fɑrmʌsˈutɪkʌɫ",
+   "freq": 4.442,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(medicine, pharmacy, pharmacology) Of or relating to pharmacy or pharmacists."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(medicine, pharmacy, pharmacology) A pharmaceutical or pharmacological preparation or product; a drug."
+     ]
+    }
+   ],
+   "zh_main": "製藥",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "藥物的"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "藥物"
+     ]
+    }
+   ],
+   "synonyms": [
+    "pharmaceutic"
+   ],
+   "sentence": "Martin Shkreli—the ex-pharmaceutical executive infamous for illegally hiking the price of a lifesaving anti-parasitic drug by more than 4,000 percent and getting a seven-year prison sentence for the fraudulent scheme he used to do it—has been under a lifetime ban from the pharmaceutical industry since 2022."
+  },
+  {
+   "word": "infamous",
+   "form": "infamous",
+   "ipa": "ˈɪnfʌmʌs",
+   "freq": 1.944,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Having a bad reputation; disreputable; notorious; unpleasant or evil; widely known, especially for something scornful.",
+      "Causing infamy; disgraceful.",
+      "(UK, historical, of a person) Subject to a judicial punishment depriving (the person) of certain rights (e.g. the rights to hold public office, exercise the franchise, receive a public pension, serve on a jury, or give testimony in a court of law)."
+     ]
+    }
+   ],
+   "zh_main": "臭名昭著的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "穢"
+     ]
+    }
+   ],
+   "synonyms": [
+    "notorious",
+    "disreputable",
+    "ill-famed"
+   ],
+   "sentence": "Martin Shkreli—the ex-pharmaceutical executive infamous for illegally hiking the price of a lifesaving anti-parasitic drug by more than 4,000 percent and getting a seven-year prison sentence for the fraudulent scheme he used to do it—has been under a lifetime ban from the pharmaceutical industry since 2022."
+  },
+  {
+   "word": "lifesaving",
+   "form": "lifesaving",
+   "ipa": "ɫˈaɪfseɪvɪŋ",
+   "freq": 0.351,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(uncommon) Alternative form of life-saving. [Preserving life; preventing death.]"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act of saving a life, especially from drowning."
+     ]
+    }
+   ],
+   "zh_main": "救生",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "救生"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Martin Shkreli—the ex-pharmaceutical executive infamous for illegally hiking the price of a lifesaving anti-parasitic drug by more than 4,000 percent and getting a seven-year prison sentence for the fraudulent scheme he used to do it—has been under a lifetime ban from the pharmaceutical industry since 2022."
+  },
+  {
+   "word": "fraudulent",
+   "form": "fraudulent",
+   "ipa": "frˈɔdʒʌɫʌnt",
+   "freq": 1.666,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Dishonest; based on fraud or deception.",
+      "False, phony."
+     ]
+    }
+   ],
+   "zh_main": "詐欺的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "姦詐",
+      "騙人的",
+      "欺騙的"
+     ]
+    }
+   ],
+   "synonyms": [
+    "fallacious",
+    "deceitful",
+    "dishonorable",
+    "dishonest"
+   ],
+   "sentence": "Martin Shkreli—the ex-pharmaceutical executive infamous for illegally hiking the price of a lifesaving anti-parasitic drug by more than 4,000 percent and getting a seven-year prison sentence for the fraudulent scheme he used to do it—has been under a lifetime ban from the pharmaceutical industry since 2022."
+  },
+  {
+   "word": "flagrantly",
+   "form": "flagrantly",
+   "ipa": "fɫˈeɪgrʌntɫi",
+   "freq": 0.232,
+   "meanings": [
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "defs": [
+      "In a flagrant manner."
+     ]
+    }
+   ],
+   "zh_main": "公然地",
+   "zh": [
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "terms": [
+      "千真萬確地"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "However, according to the Federal Trade Commission and the attorneys general of seven states, Shkreli has “flagrantly and repeatedly” violated that ban nearly the entire time—allegedly by trading stock in dozens of drug companies and discussing the industry during livestreams on social media."
+  }
+ ],
+ "built": "2026-10-14T09:34+08:00"
+}

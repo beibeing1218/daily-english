@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-10-14",
+  "weekday_zh": "三",
+  "cat": "tech",
+  "cat_zh": "科技",
+  "source": "Ars Technica",
+  "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+  "n_words": 7
+ },
+ {
   "date": "2026-10-13",
   "weekday_zh": "二",
   "cat": "business",

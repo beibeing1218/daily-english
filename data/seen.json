@@ -97,7 +97,14 @@
   "upgradability": "2026-10-13",
   "forecast": "2026-10-13",
   "resilience": "2026-10-13",
-  "withstand": "2026-10-13"
+  "withstand": "2026-10-13",
+  "biotech": "2026-10-14",
+  "livestream": "2026-10-14",
+  "pharmaceutical": "2026-10-14",
+  "infamous": "2026-10-14",
+  "lifesaving": "2026-10-14",
+  "fraudulent": "2026-10-14",
+  "flagrantly": "2026-10-14"
  },
  "urls": [
   "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
@@ -117,6 +124,7 @@
   "https://www.theguardian.com/film/2026/oct/09/martin-mcdonagh-john-malkovich-sam-rockwell-interview-wild-horse-nine",
   "https://www.theguardian.com/commentisfree/2026/oct/10/vladimir-putin-shadow-war-europe-ukraine-russia",
   "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-  "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026"
+  "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+  "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/"
  ]
 }
