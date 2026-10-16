@@ -1,0 +1,296 @@
+{
+ "date": "2026-10-16",
+ "weekday": 4,
+ "weekday_zh": "五",
+ "cat": "environment",
+ "cat_zh": "環境／氣候",
+ "source": "Yale E360",
+ "title": "Arctic Wildlife Research Suffers as Geopolitical Competition Grows",
+ "url": "https://e360.yale.edu/features/arctic-research-geopolitical-tensions",
+ "summary": [
+  "As national security and the hunt for rare minerals come to dominate Arctic agendas, governments are slashing support for wildlife research. Scientists say the loss of monitoring is unprecedented and comes as climate change dramatically reshapes life in the Far North.",
+  "Decades ago, one of the world’s largest subpopulations of nesting eider ducks spent its summers on tiny Mitivik Island, near the mouth of Hudson Bay. But as concern grew, in the 1990s, over their steep decline globally, the Canadian government set up a rudimentary research station near the island in the hopes of forestalling a collapse."
+ ],
+ "summary_zh": [
+  "隨著國家安全和尋找稀有礦物成為北極議程的主導，各國政府正在削減對野生動物研究的支持。科學家表示，監測的喪失是前所未有的，氣候變遷極大地重塑了遠北地區的生活。",
+  "幾十年前，世界上最大的築巢絨鴨亞群之一在哈德遜灣入海口附近的米蒂維克小島上度過了夏天。但隨著人們對 20 世紀 90 年代全球經濟急劇衰退的擔憂日益加劇，加拿大政府在島上附近設立了一個簡陋的研究站，希望能防止經濟崩潰。"
+ ],
+ "words": [
+  {
+   "word": "dominate",
+   "form": "dominate",
+   "ipa": "dˈɑmʌneɪt",
+   "freq": 7.262,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Dominant."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(historical) The late period of the Roman Empire, following the principate, during which the emperor's rule became more explicitly autocratic and remaining vestiges of the Roman Republic were removed from the formal workings of government; the reign of any particular emperor during this period."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To govern, rule or control by superior authority or power",
+      "To exert an overwhelming guiding influence over something or someone",
+      "To enjoy a commanding position in some field"
+     ]
+    }
+   ],
+   "zh_main": "支配",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "支配",
+      "把持",
+      "稱霸",
+      "控制",
+      "聳立"
+     ]
+    }
+   ],
+   "synonyms": [
+    "command",
+    "prevail",
+    "overlook",
+    "master",
+    "rule"
+   ],
+   "sentence": "As national security and the hunt for rare minerals come to dominate Arctic agendas, governments are slashing support for wildlife research."
+  },
+  {
+   "word": "slashing",
+   "form": "slashing",
+   "ipa": "sɫˈæʃɪŋ",
+   "freq": 0.547,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(informal, dated) Powerfully excellent."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To cut or attempt to cut, particularly:",
+      "To cut with a swift broad stroke of an edged weapon.",
+      "To produce a similar wound with a savage strike of a whip."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The action of something that slashes.",
+      "(ice hockey, lacrosse) The penalty called for using the stick to slash an opposing player.",
+      "(forestry, in the plural) slash (woody debris)"
+     ]
+    }
+   ],
+   "zh_main": "砍伐",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "割傷",
+      "砍擊",
+      "亂砍",
+      "削減"
+     ]
+    }
+   ],
+   "synonyms": [
+    "dynamic",
+    "gash",
+    "slash",
+    "dynamical"
+   ],
+   "sentence": "As national security and the hunt for rare minerals come to dominate Arctic agendas, governments are slashing support for wildlife research."
+  },
+  {
+   "word": "unprecedented",
+   "form": "unprecedented",
+   "ipa": "ʌnprˈɛsɪdɛntɪd",
+   "freq": 4.939,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Never before seen, done, or experienced; without precedent."
+     ]
+    }
+   ],
+   "zh_main": "空前的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "空前的",
+      "史無前例"
+     ]
+    }
+   ],
+   "synonyms": [
+    "new",
+    "unexampled"
+   ],
+   "sentence": "Scientists say the loss of monitoring is unprecedented and comes as climate change dramatically reshapes life in the Far North."
+  },
+  {
+   "word": "reshape",
+   "form": "reshapes",
+   "ipa": "riʃˈeɪp",
+   "freq": 0.621,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To make into a different shape.",
+      "(transitive) To reorganize."
+     ]
+    }
+   ],
+   "zh_main": "重塑",
+   "zh": [],
+   "synonyms": [
+    "remold"
+   ],
+   "sentence": "Scientists say the loss of monitoring is unprecedented and comes as climate change dramatically reshapes life in the Far North."
+  },
+  {
+   "word": "subpopulation",
+   "form": "subpopulations",
+   "ipa": "sʌbpɑpjʌɫˈeɪʃʌn",
+   "freq": 0.299,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A subdivision of a population."
+     ]
+    }
+   ],
+   "zh_main": "亞群",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Decades ago, one of the world’s largest subpopulations of nesting eider ducks spent its summers on tiny Mitivik Island, near the mouth of Hudson Bay."
+  },
+  {
+   "word": "eider",
+   "form": "eider",
+   "ipa": "ˈaɪdɝ",
+   "freq": 0.126,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Any of the species of Somateria spp. and Polysticta stelleri or of the seaduck subfamily Merginae, which line their nests with fine down (taken from their own bodies).",
+      "A river in Germany, the boundary between Schleswig and Holstein."
+     ]
+    }
+   ],
+   "zh_main": "絨絨",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Decades ago, one of the world’s largest subpopulations of nesting eider ducks spent its summers on tiny Mitivik Island, near the mouth of Hudson Bay."
+  },
+  {
+   "word": "rudimentary",
+   "form": "rudimentary",
+   "ipa": "rudʌmˈɛntɝi",
+   "freq": 2.422,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Basic; minimal; with less than, or only the minimum, necessary.",
+      "Of or relating to one or more rudiments."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(zoology, usually in the plural) One of the rudimentary mammae of boars."
+     ]
+    }
+   ],
+   "zh_main": "初級的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "初步",
+      "起碼",
+      "低級"
+     ]
+    }
+   ],
+   "synonyms": [
+    "fundamental",
+    "basic",
+    "vestigial",
+    "underlying",
+    "incomplete"
+   ],
+   "sentence": "But as concern grew, in the 1990s, over their steep decline globally, the Canadian government set up a rudimentary research station near the island in the hopes of forestalling a collapse."
+  },
+  {
+   "word": "forestalling",
+   "form": "forestalling",
+   "ipa": "fɔrstˈɑɫɪŋ",
+   "freq": 0.18,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act of one who forestalls."
+     ]
+    }
+   ],
+   "zh_main": "預先阻止",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "防止",
+      "警告",
+      "警戒",
+      "壟斷",
+      "搶先"
+     ]
+    }
+   ],
+   "synonyms": [
+    "obviation",
+    "preclusion"
+   ],
+   "sentence": "But as concern grew, in the 1990s, over their steep decline globally, the Canadian government set up a rudimentary research station near the island in the hopes of forestalling a collapse."
+  }
+ ],
+ "built": "2026-10-16T08:58+08:00"
+}
