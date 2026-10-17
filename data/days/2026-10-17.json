@@ -1,0 +1,303 @@
+{
+ "date": "2026-10-17",
+ "weekday": 5,
+ "weekday_zh": "六",
+ "cat": "culture",
+ "cat_zh": "文化／藝術",
+ "source": "The Guardian",
+ "title": "‘I didn’t know I was a screamer. Turns out I am’ – the spooky secrets of Last One Laughing: Halloween",
+ "url": "https://www.theguardian.com/tv-and-radio/2026/oct/16/i-didnt-know-i-was-a-screamer-turns-out-i-am-the-spooky-secrets-of-last-one-laughing-halloween",
+ "summary": [
+  "The comedy smash is back – and now the standups aren’t allowed to laugh or shriek! Lou Sanders, Tom Allen, Phil Wang and more reveal what made them crack – and what happened when they went too far",
+  "What could be more disorientating for a comedian than not being able to laugh – for nine hours! – nor elicit laughter from anyone else in the room? I’ll tell you. Try all of the above on a sunny summer weekend while pretending it’s Halloween. Then force the comics to return to the scene of what one of their number, Phil Wang, calls “a cross between a gameshow and a psychological experiment”, and relive the whole ordeal for a man from the Guardian. Is it any wonder Wang, Lou Sanders, Tom Allen and others come across as a little punch-drunk 24 hours after emerging from televised captivity on the smash comedy hit Last One Laughing?"
+ ],
+ "summary_zh": [
+  "喜劇盛宴又回來了——現在單口喜劇演員不允許笑或尖叫！盧桑德斯、湯姆艾倫、菲爾王等人揭示了是什麼讓他們崩潰——以及當他們走得太遠時會發生什麼",
+  "對於喜劇演員來說，還有什麼比九個小時不能笑更讓人迷失方向的呢！ – 也不會引起房間裡其他人的笑聲？我告訴你。在陽光明媚的夏日週末假裝是萬聖節，嘗試以上所有方法。然后迫使漫画家回到他们的成员菲尔·王（Phil Wang）所称的“游戏节目和心理实验的结合体”的场景，并重温《卫报》的一个人所经历的整个磨难。在热门喜剧《最后一个笑》中，王、卢·桑德斯、汤姆·艾伦和其他人在电视转播的囚禁中出来 24 小时后，看起来有点喝醉了，这有什么奇怪的吗？"
+ ],
+ "words": [
+  {
+   "word": "standup",
+   "form": "standups",
+   "ipa": "stˈændʌp",
+   "freq": 0.055,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Alternative form of stand-up. [(uncountable) A performance of stand-up comedy; jokes delivered standing on a stage]"
+     ]
+    }
+   ],
+   "zh_main": "起來",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "直立的"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "鞏固",
+      "堅固",
+      "堅固性"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "The comedy smash is back – and now the standups aren’t allowed to laugh or shriek!"
+  },
+  {
+   "word": "shriek",
+   "form": "shriek",
+   "ipa": "ʃrˈik",
+   "freq": 0.959,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A sharp, shrill outcry or scream; a shrill wild cry caused by sudden or extreme terror, pain, or the like.",
+      "(UK, slang) An exclamation mark."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To utter a loud, sharp, shrill sound or cry, as do some birds and beasts; to scream, as in a sudden fright, in horror or anguish.",
+      "(transitive) To utter sharply and shrilly; to utter in or with a shriek or shrieks."
+     ]
+    }
+   ],
+   "zh_main": "尖叫",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "尖叫",
+      "尖聲叫喊",
+      "啼哭"
+     ]
+    }
+   ],
+   "synonyms": [
+    "shrill",
+    "scream",
+    "screech",
+    "screeching",
+    "pipe"
+   ],
+   "sentence": "The comedy smash is back – and now the standups aren’t allowed to laugh or shriek!"
+  },
+  {
+   "word": "disorientate",
+   "form": "disorientating",
+   "ipa": "dɪsɔriʌnteɪt",
+   "freq": 0.007,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(sometimes proscribed, chiefly British) Alternative form of disorient. [To cause to lose orientation or direction.]"
+     ]
+    }
+   ],
+   "zh_main": "迷失方向",
+   "zh": [],
+   "synonyms": [
+    "disorient"
+   ],
+   "sentence": "What could be more disorientating for a comedian than not being able to laugh – for nine hours! – nor elicit laughter from anyone else in the room?"
+  },
+  {
+   "word": "elicit",
+   "form": "elicit",
+   "ipa": "ɪɫˈɪsɪt",
+   "freq": 3.785,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(obsolete) Elicited; drawn out; made real; open; evident."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To evoke, educe (emotions, feelings, responses, etc.); to generate, obtain, or provoke as a response or answer.",
+      "To draw out, bring out, bring forth (something latent); to obtain information from someone or something.",
+      "To use logic to arrive at truth; to derive by reason."
+     ]
+    }
+   ],
+   "zh_main": "引出",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "引出",
+      "抽出"
+     ]
+    }
+   ],
+   "synonyms": [
+    "evoke",
+    "educe",
+    "provoke",
+    "arouse",
+    "raise"
+   ],
+   "sentence": "What could be more disorientating for a comedian than not being able to laugh – for nine hours! – nor elicit laughter from anyone else in the room?"
+  },
+  {
+   "word": "gameshow",
+   "form": "gameshow",
+   "ipa": "gˈeɪmʃoʊ",
+   "freq": 0.003,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Alternative spelling of game show. [(games, broadcasting) A radio or television program that involves members of the public or celebrities, whether as individuals or as part of a team, playing a game, especially one involving the answering of quiz questions, for cash or prizes.]"
+     ]
+    }
+   ],
+   "zh_main": "遊戲節目",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Then force the comics to return to the scene of what one of their number, Phil Wang, calls “a cross between a gameshow and a psychological experiment”, and relive the whole ordeal for a man from the Guardian."
+  },
+  {
+   "word": "relive",
+   "form": "relive",
+   "ipa": "riɫˈɪv",
+   "freq": 0.422,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To experience (something) again; to live over again.",
+      "(intransitive) To come back to life.",
+      "(obsolete, transitive) To bring back to life; to revive, resuscitate."
+     ]
+    }
+   ],
+   "zh_main": "重溫",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "復活"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Then force the comics to return to the scene of what one of their number, Phil Wang, calls “a cross between a gameshow and a psychological experiment”, and relive the whole ordeal for a man from the Guardian."
+  },
+  {
+   "word": "ordeal",
+   "form": "ordeal",
+   "ipa": "ɔrdˈiɫ",
+   "freq": 2.957,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(figuratively) A painful or trying experience.",
+      "(historical) A trial in which the accused was subjected to a dangerous test (such as ducking in water), divine authority deciding the guilt of the accused.",
+      "The poisonous ordeal bean or Calabar bean."
+     ]
+    }
+   ],
+   "zh_main": "考驗",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "考驗"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Then force the comics to return to the scene of what one of their number, Phil Wang, calls “a cross between a gameshow and a psychological experiment”, and relive the whole ordeal for a man from the Guardian."
+  },
+  {
+   "word": "televised",
+   "form": "televised",
+   "ipa": "tˈɛɫʌvaɪzd",
+   "freq": 0.961,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Broadcast by television."
+     ]
+    }
+   ],
+   "zh_main": "電視轉播的",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "廣播"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Is it any wonder Wang, Lou Sanders, Tom Allen and others come across as a little punch-drunk 24 hours after emerging from televised captivity on the smash comedy hit Last One Laughing?"
+  },
+  {
+   "word": "captivity",
+   "form": "captivity",
+   "ipa": "kæptˈɪvʌti",
+   "freq": 2.634,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The state of being captive.",
+      "The state or period of being imprisoned, confined, or enslaved.",
+      "(obsolete) A group of people/beings captive."
+     ]
+    }
+   ],
+   "zh_main": "囚禁",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "囚禁"
+     ]
+    }
+   ],
+   "synonyms": [
+    "incarceration",
+    "imprisonment",
+    "immurement",
+    "enslavement"
+   ],
+   "sentence": "Is it any wonder Wang, Lou Sanders, Tom Allen and others come across as a little punch-drunk 24 hours after emerging from televised captivity on the smash comedy hit Last One Laughing?"
+  }
+ ],
+ "built": "2026-10-17T09:00+08:00"
+}
