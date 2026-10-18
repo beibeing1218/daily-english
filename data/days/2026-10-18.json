@@ -1,0 +1,237 @@
+{
+ "date": "2026-10-18",
+ "weekday": 6,
+ "weekday_zh": "日",
+ "cat": "opinion",
+ "cat_zh": "評論",
+ "source": "The Guardian",
+ "title": "The Letby case inquiry will lead to more blame and suspicion in the NHS – and patients will be less safe | Mark McDonald",
+ "url": "https://www.theguardian.com/commentisfree/2026/oct/17/lucy-letby-public-inquiry-nhs-patients-medics",
+ "summary": [
+  "I fear for what comes next because medics must be able to ask questions, raise concerns and admit mistakes. A defensive staff is dangerous for everyone, says Lucy Letby’s barrister, Mark McDonald",
+  "I have been Lucy Letby’s barrister for the past two years. I have spent thousands of hours going through the evidence, speaking to experts and examining what happened to the babies who died or became seriously unwell on the neonatal unit at the Countess of Chester hospital. I have worked with nearly 30 experts, including internationally recognised specialists in neonatology, pathology, insulin, statistics and other fields. It may be to some an inconvenient truth, but I am convinced that Letby is innocent, and her convictions represent one of the most serious miscarriages of justice in modern British legal history. That means she was failed by the police, the NHS, the criminal justice system and, importantly, a plethora of experts who simply got it wrong."
+ ],
+ "summary_zh": [
+  "我擔心接下來會發生什麼，因為醫護人員必須能夠提出問題、提出疑慮並承認錯誤。露西萊比的律師馬克麥克唐納表示，防守人員對每個人來說都是危險的",
+  "過去兩年我一直擔任露西·萊特比的律師。我花了數千個小時檢查證據，與專家交談，並檢查切斯特伯爵夫人醫院新生兒病房中死亡或嚴重不適的嬰兒的情況。我曾與近30位專家合作過，其中包括新生兒學、病理學、胰島素、統計學等領域的國際公認專家。對某些人來說，這可能是一個令人難以忽視的事實，但我堅信萊比是無辜的，她的定罪代表了現代英國法律史上最嚴重的誤判之一。這意味著警察、國民醫療服務體系、刑事司法系統都辜負了她的期望，更重要的是，眾多專家的失誤也讓她失望了。"
+ ],
+ "words": [
+  {
+   "word": "barrister",
+   "form": "barrister",
+   "ipa": "bˈærɪstɝ",
+   "freq": 0.814,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(chiefly UK, Ireland, Australia, New Zealand) A lawyer with the right to speak and argue as an advocate in higher lawcourts."
+     ]
+    }
+   ],
+   "zh_main": "律師",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "律師",
+      "法律顧問"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "A defensive staff is dangerous for everyone, says Lucy Letby’s barrister, Mark McDonald"
+  },
+  {
+   "word": "unwell",
+   "form": "unwell",
+   "ipa": "ʌnwˈɛɫ",
+   "freq": 0.619,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Not in good health; not feeling well; somewhat ill",
+      "(dated, euphemistic) Specifically, ill from menstruation; affected with, or having, catamenial; menstruant."
+     ]
+    }
+   ],
+   "zh_main": "不適",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "不適"
+     ]
+    }
+   ],
+   "synonyms": [
+    "sick",
+    "ailing",
+    "ill",
+    "indisposed",
+    "sickly"
+   ],
+   "sentence": "I have spent thousands of hours going through the evidence, speaking to experts and examining what happened to the babies who died or became seriously unwell on the neonatal unit at the Countess of Chester hospital."
+  },
+  {
+   "word": "neonatal",
+   "form": "neonatal",
+   "ipa": "nioʊnˈeɪtʌɫ",
+   "freq": 4.257,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Of or pertaining to the period of time immediately following birth, or to the newborn."
+     ]
+    }
+   ],
+   "zh_main": "新生兒",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "初生的"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "I have spent thousands of hours going through the evidence, speaking to experts and examining what happened to the babies who died or became seriously unwell on the neonatal unit at the Countess of Chester hospital."
+  },
+  {
+   "word": "neonatology",
+   "form": "neonatology",
+   "ipa": "nioʊnˈeɪtˈɑɫʌdʒi",
+   "freq": 0.06,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(medicine) The branch of medicine that deals with newborn infants, especially the ill or premature newborn infant."
+     ]
+    }
+   ],
+   "zh_main": "新生兒學",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "I have worked with nearly 30 experts, including internationally recognised specialists in neonatology, pathology, insulin, statistics and other fields."
+  },
+  {
+   "word": "inconvenient",
+   "form": "inconvenient",
+   "ipa": "ɪnkʌnvˈinjʌnt",
+   "freq": 1.544,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "not convenient"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(obsolete) An inconvenient circumstance or situation; an inconvenience.",
+      "(obsolete) An inconsistency, an incongruity."
+     ]
+    }
+   ],
+   "zh_main": "不方便",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "不方便",
+      "不便",
+      "痲煩的"
+     ]
+    }
+   ],
+   "synonyms": [
+    "awkward",
+    "inopportune"
+   ],
+   "sentence": "It may be to some an inconvenient truth, but I am convinced that Letby is innocent, and her convictions represent one of the most serious miscarriages of justice in modern British legal history."
+  },
+  {
+   "word": "miscarriage",
+   "form": "miscarriages",
+   "ipa": "mɪskˈɛrʌdʒ",
+   "freq": 1.016,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(medicine) The spontaneous natural termination of a pregnancy, especially before it is viable; the fatal expulsion of a foetus from the womb before term.",
+      "(now rare except in miscarriage of justice) A failure; a mistake or error."
+     ]
+    }
+   ],
+   "zh_main": "流產",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "流產",
+      "失敗",
+      "誤投"
+     ]
+    }
+   ],
+   "synonyms": [
+    "abortion",
+    "stillbirth"
+   ],
+   "sentence": "It may be to some an inconvenient truth, but I am convinced that Letby is innocent, and her convictions represent one of the most serious miscarriages of justice in modern British legal history."
+  },
+  {
+   "word": "plethora",
+   "form": "plethora",
+   "ipa": "pɫˈɛθɝʌ",
+   "freq": 1.086,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(usually followed by of) An excessive amount or number; an abundance.",
+      "(medicine) Excess of blood in the skin, especially in the face and especially chronically."
+     ]
+    }
+   ],
+   "zh_main": "過多",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "過多",
+      "多血症",
+      "過剩"
+     ]
+    }
+   ],
+   "synonyms": [
+    "nimiety",
+    "superfluity",
+    "embarrassment",
+    "overplus"
+   ],
+   "sentence": "That means she was failed by the police, the NHS, the criminal justice system and, importantly, a plethora of experts who simply got it wrong."
+  }
+ ],
+ "built": "2026-10-18T08:35+08:00"
+}
