@@ -1,0 +1,318 @@
+{
+ "date": "2026-10-19",
+ "weekday": 0,
+ "weekday_zh": "一",
+ "cat": "world",
+ "cat_zh": "政治／國際",
+ "source": "The Guardian",
+ "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
+ "url": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
+ "summary": [
+  "Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowds",
+  "For the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semester presentation was so captivating that they began calling him Toby Shang, after the 16th-century Chinese dynasty he had focused on.",
+  "His crowd engagement that day had been harnessed from his high school days as a ginger-man (energiser) in a three-man band and as a private tutor. By his final year at university, his viral catchphrases and infectious energy had resulted in a hit song, Shedibalabala. Today, he is one of the self-acclaimed “evangelists and pioneers” in the Afrobeats sub-genre some are now calling Afrohype or lamba."
+ ],
+ "summary_zh": [
+  "基於高辛烷值、即興演唱的主持風格因其獨特的吸引觀眾的方式而蓬勃發展",
+  "對於拉各斯大學歷史學位課程 2015 級新生來說，他們同學第一學期的演講非常吸引人，以至於他們開始稱他為托比·尚（Toby Shang），以他所關注的 16 世紀中國王朝的名字命名。",
+  "那天他的人群參與度是從他高中時代作為三人樂隊中的薑人（活力者）和私人導師時所利用的。到了大學最後一年，他的流行語和感染力催生了一首熱門歌曲《Shedibalabala》。如今，他是非洲節奏音樂流派中自詡為「傳道者和先驅」的人之一，有些人現在稱之為「Afrohype」或「lamba」。"
+ ],
+ "words": [
+  {
+   "word": "emcee",
+   "form": "emceeing",
+   "ipa": "ˈɛmsˈi",
+   "freq": 0.091,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(ambitransitive) To act as the master of ceremonies (for).",
+      "(intransitive, music) To rap as part of a hip-hop performance."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Master of ceremonies.",
+      "(music) A rapper.",
+      "Alternative form of MC in its senses as"
+     ]
+    }
+   ],
+   "zh_main": "主持人",
+   "zh": [],
+   "synonyms": [
+    "host",
+    "compere"
+   ],
+   "sentence": "Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowds"
+  },
+  {
+   "word": "flourished",
+   "form": "flourished",
+   "ipa": "fɫˈɝɪʃt",
+   "freq": 3.745,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Decorated with flourishes."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To thrive or grow well.",
+      "(intransitive) To prosper or fare well.",
+      "(intransitive) To be in a period of greatest influence."
+     ]
+    }
+   ],
+   "zh_main": "蓬勃發展",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "發跡",
+      "發芽",
+      "繁榮",
+      "興盛",
+      "興旺"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowds"
+  },
+  {
+   "word": "captivating",
+   "form": "captivating",
+   "ipa": "kˈæptɪveɪtɪŋ",
+   "freq": 0.494,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "That captivates; fascinating.",
+      "Very beautiful or attractive."
+     ]
+    }
+   ],
+   "zh_main": "迷人的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "優勝"
+     ]
+    }
+   ],
+   "synonyms": [
+    "enthralling",
+    "attractive",
+    "enchanting",
+    "entrancing",
+    "fascinating"
+   ],
+   "sentence": "Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowds"
+  },
+  {
+   "word": "freshmen",
+   "form": "freshmen",
+   "ipa": "frˈɛʃmɪn",
+   "freq": 1.845,
+   "meanings": [
+    {
+     "pos": "N",
+     "pos_zh": "N",
+     "defs": [
+      "a comic book series published by Top Cow, co-created by Seth Green and Hugh Sterbakov.",
+      "the second album released by New Zealand hip-hop group, Nesian Mystik, in 2006.",
+      "an American pornographic magazine published monthly by Specialty Publications, a division of LPI Media from 1982 to 2009."
+     ]
+    }
+   ],
+   "zh_main": "新生",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "For the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semester presentation was so captivating that they began calling him Toby Shang, after the 16th-century Chinese dynasty he had focused on."
+  },
+  {
+   "word": "cohort",
+   "form": "cohort",
+   "ipa": "kˈoʊhɔrt",
+   "freq": 3.48,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A group of people supporting the same thing or person.",
+      "(statistics) A demographic grouping of people, especially those in a defined age group, or having a common characteristic.",
+      "A set of individuals in a program, especially when compared to previous sets of individuals within the same program."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To associate with such a group."
+     ]
+    }
+   ],
+   "zh_main": "佇列",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "合伙人",
+      "合夥人"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "For the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semester presentation was so captivating that they began calling him Toby Shang, after the 16th-century Chinese dynasty he had focused on."
+  },
+  {
+   "word": "harnessed",
+   "form": "harnessed",
+   "ipa": "hˈɑrnʌst",
+   "freq": 0.948,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "brought under control and put to use"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To place a harness on something; to tie up or restrain.",
+      "(transitive) To capture, control or put to use.",
+      "(transitive) To equip with armour."
+     ]
+    }
+   ],
+   "zh_main": "駕馭的",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "駕",
+      "套"
+     ]
+    }
+   ],
+   "synonyms": [
+    "controlled"
+   ],
+   "sentence": "His crowd engagement that day had been harnessed from his high school days as a ginger-man (energiser) in a three-man band and as a private tutor."
+  },
+  {
+   "word": "energiser",
+   "form": "energiser",
+   "ipa": "ˈɛnɝdʒaɪzɝ",
+   "freq": 0.005,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Alternative spelling of energizer. [A person who, or a thing which, energizes.]"
+     ]
+    }
+   ],
+   "zh_main": "活力者",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "His crowd engagement that day had been harnessed from his high school days as a ginger-man (energiser) in a three-man band and as a private tutor."
+  },
+  {
+   "word": "catchphrase",
+   "form": "catchphrases",
+   "ipa": "kˈætʃfrˈeɪz",
+   "freq": 0.075,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A repeated expression, often originating in popular culture.",
+      "A signature phrase of a particular person or group."
+     ]
+    }
+   ],
+   "zh_main": "口號",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "口號"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "By his final year at university, his viral catchphrases and infectious energy had resulted in a hit song, Shedibalabala."
+  },
+  {
+   "word": "evangelist",
+   "form": "evangelists",
+   "ipa": "ɪvˈændʒʌɫɪst",
+   "freq": 1.479,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(Christianity) An itinerant or special preacher, especially a revivalist, who conducts services in different cities or locations, now often televised.",
+      "(biblical) A writer of a gospel, especially the four New Testament Gospels (Matthew, Mark, Luke, and John), usually capitalized (Evangelist).",
+      "(by extension) A person marked by extreme enthusiasm for or support of any cause, particularly with regard to religion."
+     ]
+    }
+   ],
+   "zh_main": "傳道者",
+   "zh": [],
+   "synonyms": [
+    "revivalist",
+    "gospeler",
+    "gospeller"
+   ],
+   "sentence": "Today, he is one of the self-acclaimed “evangelists and pioneers” in the Afrobeats sub-genre some are now calling Afrohype or lamba."
+  },
+  {
+   "word": "lamba",
+   "form": "lamba",
+   "ipa": "ɫˈæmbʌ",
+   "freq": 0.061,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The traditional garment worn by men and women in Madagascar, consisting of a rectangular length of cloth wrapped around the body.",
+      "A surname from Punjabi."
+     ]
+    }
+   ],
+   "zh_main": "蘭巴",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Today, he is one of the self-acclaimed “evangelists and pioneers” in the Afrobeats sub-genre some are now calling Afrohype or lamba."
+  }
+ ],
+ "built": "2026-10-19T08:45+08:00"
+}
