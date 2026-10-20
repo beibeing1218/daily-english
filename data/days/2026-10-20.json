@@ -1,0 +1,79 @@
+{
+ "date": "2026-10-20",
+ "weekday": 1,
+ "weekday_zh": "二",
+ "cat": "business",
+ "cat_zh": "商業／經濟",
+ "source": "The Guardian",
+ "title": "Burnham urges officials to come up with more radical options for Thames Water",
+ "url": "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
+ "summary": [
+  "Exclusive: Utility seen as ‘litmus test’ of PM’s promise to bring ‘essentials of life’ under public control",
+  "Andy Burnham has told officials to rip up their plans for how to fix Thames Water and present him with more radical options for what to do with the stricken company.",
+  "In an early test of his promise to bring “the essentials of life” under public control, the prime minister is urging his advisers to go back to the drawing board and create a new list of policies for the utility."
+ ],
+ "summary_zh": [
+  "獨家：公用事業被視為總理承諾將“生活必需品”置於公共控制之下的“試金石”",
+  "安迪·伯納姆 (Andy Burnham) 已要求官員放棄修復泰晤士水務公司的計劃，並向他提供更激進的選擇來處理這家受災公司。",
+  "在對他將「生活必需品」置於公共控制之下的承諾的早期測試中，總理敦促他的顧問重新開始，為公用事業制定一份新的政策清單。"
+ ],
+ "words": [
+  {
+   "word": "litmus",
+   "form": "litmus",
+   "ipa": "ɫˈɪtmʌs",
+   "freq": 0.398,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A simple test of acidity in a liquid using litmus, usually in the form of litmus paper.",
+      "A simple test of any attribute; a litmus test.",
+      "(uncountable) A dyestuff extracted from certain lichens, that changes color when exposed to pH levels greater than or less than certain critical levels."
+     ]
+    }
+   ],
+   "zh_main": "石蕊",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Exclusive: Utility seen as ‘litmus test’ of PM’s promise to bring ‘essentials of life’ under public control"
+  },
+  {
+   "word": "stricken",
+   "form": "stricken",
+   "ipa": "strˈɪkʌn",
+   "freq": 3.48,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Struck by something.",
+      "Disabled or incapacitated by something.",
+      "(military, nautical, of a warship) Having its name removed from a country's naval register, e.g. the United States Naval Vessel Register."
+     ]
+    }
+   ],
+   "zh_main": "受打擊的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "被侵害"
+     ]
+    }
+   ],
+   "synonyms": [
+    "smitten",
+    "sick",
+    "ill",
+    "afflicted",
+    "affected"
+   ],
+   "sentence": "Andy Burnham has told officials to rip up their plans for how to fix Thames Water and present him with more radical options for what to do with the stricken company."
+  }
+ ],
+ "built": "2026-10-20T09:31+08:00"
+}
