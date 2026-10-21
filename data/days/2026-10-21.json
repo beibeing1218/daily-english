@@ -1,0 +1,187 @@
+{
+ "date": "2026-10-21",
+ "weekday": 2,
+ "weekday_zh": "三",
+ "cat": "tech",
+ "cat_zh": "科技",
+ "source": "Ars Technica",
+ "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+ "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+ "summary": [
+  "I do think there's a lot of merit to combining the companies.\"",
+  "Elon Musk said Tuesday that he would like to see the consolidation of his business empire by formally merging his two largest companies, SpaceX and Tesla.",
+  "“Do I think it would be a good idea? Yes,” Musk said of a potential merger. He was speaking during a question-and-answer period as part of SpaceX’s third-quarter earnings call. Musk said, ultimately, it not his decision. “But at the end of the day the shareholders have to be supportive of this.”"
+ ],
+ "summary_zh": [
+  "我確實認為合併這些公司有很多好處。 」",
+  "伊隆馬斯克週二表示，他希望透過正式合併他最大的兩家公司 SpaceX 和特斯拉來鞏固他的商業帝國。",
+  "「我認為這是一個好主意嗎？是的，」馬斯克在談到潛在的合併時說道。他是在 SpaceX 第三季財報電話會議問答環節發表上述言論的。馬斯克表示，最終這不是他的決定。 “但最終股東必須支持這一點。”"
+ ],
+ "words": [
+  {
+   "word": "elon",
+   "form": "Elon",
+   "ipa": "ˈɛɫʌn",
+   "freq": 0.13,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(photography) Synonym of metol (“p-methylaminophenol sulfate”).",
+      "Elon Musk (b. 1971), South African-Canadian-American billionaire entrepreneur.",
+      "(countable) A male given name from Hebrew."
+     ]
+    }
+   ],
+   "zh_main": "埃隆",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Elon Musk said Tuesday that he would like to see the consolidation of his business empire by formally merging his two largest companies, SpaceX and Tesla."
+  },
+  {
+   "word": "musk",
+   "form": "Musk",
+   "ipa": "mˈʌsk",
+   "freq": 0.732,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A greasy secretion with a powerful odour, produced in a glandular sac of the male musk deer and used in the manufacture of perfumes.",
+      "A synthetic organic compound used as a substitute for the above.",
+      "The odour of musk."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To perfume with musk."
+     ]
+    }
+   ],
+   "zh_main": "麝香",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "麝香"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Musk said, ultimately, it not his decision."
+  },
+  {
+   "word": "consolidation",
+   "form": "consolidation",
+   "ipa": "kʌnsɑɫʌdˈeɪʃʌn",
+   "freq": 6.217,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act or process of consolidating, making firm, or uniting; the state of being consolidated.",
+      "The combination of several actions into one.",
+      "(medicine) A solidification into a firm dense mass. It is usually applied to induration (swelling or hardening of normally soft tissue) of a normally aerated lung."
+     ]
+    }
+   ],
+   "zh_main": "合併",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "鞏故",
+      "合并"
+     ]
+    }
+   ],
+   "synonyms": [
+    "integration"
+   ],
+   "sentence": "Elon Musk said Tuesday that he would like to see the consolidation of his business empire by formally merging his two largest companies, SpaceX and Tesla."
+  },
+  {
+   "word": "merging",
+   "form": "merging",
+   "ipa": "mˈɝdʒɪŋ",
+   "freq": 2.33,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive, intransitive) To combine into a whole.",
+      "To blend gradually into something else."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act, or the result, of being merged."
+     ]
+    }
+   ],
+   "zh_main": "合併",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "合併",
+      "並入",
+      "併入",
+      "並吞",
+      "併吞"
+     ]
+    }
+   ],
+   "synonyms": [
+    "confluence",
+    "conflux",
+    "confluent",
+    "meeting",
+    "blending"
+   ],
+   "sentence": "Elon Musk said Tuesday that he would like to see the consolidation of his business empire by formally merging his two largest companies, SpaceX and Tesla."
+  },
+  {
+   "word": "shareholder",
+   "form": "shareholders",
+   "ipa": "ʃˈɛrhoʊɫdɝ",
+   "freq": 2.14,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "One who owns shares of stock in a corporation."
+     ]
+    }
+   ],
+   "zh_main": "股東",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "股東"
+     ]
+    }
+   ],
+   "synonyms": [
+    "stockholder",
+    "shareowner"
+   ],
+   "sentence": "“But at the end of the day the shareholders have to be supportive of this.”"
+  }
+ ],
+ "built": "2026-10-21T09:14+08:00"
+}
