@@ -150,7 +150,11 @@
   "musk": "2026-10-21",
   "consolidation": "2026-10-21",
   "merging": "2026-10-21",
-  "shareholder": "2026-10-21"
+  "shareholder": "2026-10-21",
+  "ballot": "2026-10-22",
+  "eligible": "2026-10-22",
+  "legitimize": "2026-10-22",
+  "conditional": "2026-10-22"
  },
  "urls": [
   "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
@@ -178,6 +182,7 @@
   "https://www.theguardian.com/commentisfree/2026/oct/17/lucy-letby-public-inquiry-nhs-patients-medics",
   "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
   "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
-  "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/"
+  "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+  "https://theconversation.com/palestinian-citizens-face-a-painful-choice-in-israels-election-to-vote-or-not-294000"
  ]
 }

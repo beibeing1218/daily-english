@@ -1,0 +1,192 @@
+{
+ "date": "2026-10-22",
+ "weekday": 3,
+ "weekday_zh": "四",
+ "cat": "science",
+ "cat_zh": "科學／健康",
+ "source": "The Conversation",
+ "title": "Palestinian citizens face a painful choice in Israel’s election: To vote or not",
+ "url": "https://theconversation.com/palestinian-citizens-face-a-painful-choice-in-israels-election-to-vote-or-not-294000",
+ "summary": [
+  "More than a third of Israel’s Palestinian citizens are expected to sit out the election.",
+  "Elections are typically framed as a choice for voters. For Palestinian citizens of Israel, however, the country’s national ballots pose more of a dilemma.",
+  "Constituting about one-sixth of eligible voters in Israel, Palestinian citizens could hold the difference in a race expected to be close. But voting involves a trade-off: By casting a ballot for their best interests, many Palestinian citizens believe they also risk legitimizing a process that seeks to silence their voice and a system that treats their citizenship as conditional."
+ ],
+ "summary_zh": [
+  "預計超過三分之一的以色列巴勒斯坦公民將缺席選舉。",
+  "選舉通常被視為選民的選擇。然而，對於以色列的巴勒斯坦公民來說，該國的全國投票帶來了更多的困境。",
+  "巴勒斯坦公民約佔以色列合格選民的六分之一，他們可能在預計勢均力敵的競選中保持優勢。但投票涉及一種權衡：透過為自己的最大利益投票，許多巴勒斯坦公民認為，他們也冒著使旨在壓制他們的聲音的程序和將其公民身份視為有條件的製度合法化的風險。"
+ ],
+ "words": [
+  {
+   "word": "ballot",
+   "form": "ballots",
+   "ipa": "bˈæɫʌt",
+   "freq": 3.849,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The process of voting, especially in secret; a round of voting.",
+      "The total of all the votes cast in an election.",
+      "(originally) A small ball placed in a container to cast a vote; now, by extension, a piece of paper or card used for this purpose, or some other means used to signify a vote."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To vote or decide by ballot.",
+      "(transitive) To invite to vote on a proposal.",
+      "(intransitive) To draw lots."
+     ]
+    }
+   ],
+   "zh_main": "選票",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "選票",
+      "表決"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "表決",
+      "抽簽"
+     ]
+    }
+   ],
+   "synonyms": [
+    "balloting",
+    "voting",
+    "vote"
+   ],
+   "sentence": "For Palestinian citizens of Israel, however, the country’s national ballots pose more of a dilemma."
+  },
+  {
+   "word": "eligible",
+   "form": "eligible",
+   "ipa": "ˈɛɫʌdʒʌbʌɫ",
+   "freq": 6.559,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Allowed to and meeting the necessary conditions required to participate in or be chosen for something",
+      "Worthy of being chosen (for marriage)."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "One who is eligible."
+     ]
+    }
+   ],
+   "zh_main": "有資格的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "合格",
+      "可以選"
+     ]
+    }
+   ],
+   "synonyms": [
+    "suitable",
+    "desirable",
+    "entitled",
+    "legal",
+    "bailable"
+   ],
+   "sentence": "Constituting about one-sixth of eligible voters in Israel, Palestinian citizens could hold the difference in a race expected to be close."
+  },
+  {
+   "word": "legitimize",
+   "form": "legitimizing",
+   "ipa": "ɫʌdʒˈɪtʌmaɪz",
+   "freq": 0.646,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To make legitimate."
+     ]
+    }
+   ],
+   "zh_main": "合法化",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "合法化"
+     ]
+    }
+   ],
+   "synonyms": [
+    "legitimate",
+    "legitimatize",
+    "decriminalize",
+    "legalize"
+   ],
+   "sentence": "But voting involves a trade-off: By casting a ballot for their best interests, many Palestinian citizens believe they also risk legitimizing a process that seeks to silence their voice and a system that treats their citizenship as conditional."
+  },
+  {
+   "word": "conditional",
+   "form": "conditional",
+   "ipa": "kʌndˈɪʃʌnʌɫ",
+   "freq": 6.444,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Limited by a condition.",
+      "(grammar) Expressing a condition or supposition.",
+      "(logic) Stating that one sentence is true if another is true."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(grammar) A conditional sentence; a statement that depends on a condition being true or false.",
+      "(grammar) The conditional mood.",
+      "A condition (a limitation or restriction)."
+     ]
+    }
+   ],
+   "zh_main": "有條件的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "附條件的"
+     ]
+    }
+   ],
+   "synonyms": [
+    "contingent",
+    "tentative",
+    "dependent",
+    "provisory",
+    "dependant"
+   ],
+   "sentence": "But voting involves a trade-off: By casting a ballot for their best interests, many Palestinian citizens believe they also risk legitimizing a process that seeks to silence their voice and a system that treats their citizenship as conditional."
+  }
+ ],
+ "built": "2026-10-22T09:10+08:00"
+}
