@@ -154,7 +154,17 @@
   "ballot": "2026-10-22",
   "eligible": "2026-10-22",
   "legitimize": "2026-10-22",
-  "conditional": "2026-10-22"
+  "conditional": "2026-10-22",
+  "mangrove": "2026-10-23",
+  "coastline": "2026-10-23",
+  "bayou": "2026-10-23",
+  "backwater": "2026-10-23",
+  "lagoon": "2026-10-23",
+  "billabong": "2026-10-23",
+  "mangroves": "2026-10-23",
+  "ecologist": "2026-10-23",
+  "biodiverse": "2026-10-23",
+  "encroaching": "2026-10-23"
  },
  "urls": [
   "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
@@ -183,6 +193,7 @@
   "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
   "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
   "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-  "https://theconversation.com/palestinian-citizens-face-a-painful-choice-in-israels-election-to-vote-or-not-294000"
+  "https://theconversation.com/palestinian-citizens-face-a-painful-choice-in-israels-election-to-vote-or-not-294000",
+  "https://e360.yale.edu/features/mangrove-restoration"
  ]
 }

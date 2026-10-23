@@ -1,0 +1,286 @@
+{
+ "date": "2026-10-23",
+ "weekday": 4,
+ "weekday_zh": "五",
+ "cat": "environment",
+ "cat_zh": "環境／氣候",
+ "source": "Yale E360",
+ "title": "What Is Driving the Global Resurgence of Mangrove Forests?",
+ "url": "https://e360.yale.edu/features/mangrove-restoration",
+ "summary": [
+  "After decades of losses, mangrove trees are gaining ground on coastlines around the world, often in places they have never grown before. Paradoxically, scientists say, warming temperatures and the destruction of inland forests are helping to power the revival.",
+  "From the bayous of Louisiana to the backwaters of the Irrawaddy in Myanmar, from the lagoons of West Africa to the billabongs of northern Australia, mangroves are making a dramatic and unexpected comeback.",
+  "In 2007, ecologists from six countries asked in a letter published in the journal Science whether we would soon be living in “a world without mangroves.” One of the world’s most distinctive, biodiverse, and carbon-rich ecosystems was in rapid retreat in the face of encroaching agriculture, construction of sea walls, ports, and marinas, and rising sea levels. The mangroves seemed doomed."
+ ],
+ "summary_zh": [
+  "經過數十年的損失，紅樹林正在世界各地的海岸線上蔓延，通常是在以前從未生長過的地方。科學家說，矛盾的是，氣溫升高和內陸森林的破壞正在幫助推動復甦。",
+  "從路易斯安那州的海灣到緬甸伊洛瓦底江的回水區，從西非的潟湖到澳洲北部的死水潭，紅樹林正在以戲劇性和意想不到的方式捲土重來。",
+  "2007年，來自六個國家的生態學家在《科學》雜誌上發表的一封信中詢問我們是否很快就會生活在「一個沒有紅樹林的世界」。面對農業的侵蝕、海堤、港口和碼頭的建設以及海平面的上升，世界上最具特色、生物多樣性和碳豐富的生態系統之一正在迅速退化。紅樹林似乎注定要滅亡。"
+ ],
+ "words": [
+  {
+   "word": "mangrove",
+   "form": "mangrove",
+   "ipa": "mˈængroʊv",
+   "freq": 1.075,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Any of various tropical and subtropical evergreen shrubs or trees chiefly of the Rhizophoraceae family that have aerial roots and grow in clumps in brackish intertidal coastal areas; (specifically) any of various trees of the genus Rhizophora, especially the red mangrove (Rhizophora mangle).",
+      "(by extension) A forest of such shrubs or trees.",
+      "(by extension) (ecology, also attributive) Synonym of mangal (“a tropical and subtropical coastal intertidal swampland ecosystem characterized by mangroves (sense 1) or similar shrubs and trees”)."
+     ]
+    }
+   ],
+   "zh_main": "紅樹",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "紅樹"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "After decades of losses, mangrove trees are gaining ground on coastlines around the world, often in places they have never grown before."
+  },
+  {
+   "word": "coastline",
+   "form": "coastlines",
+   "ipa": "kˈoʊstɫaɪn",
+   "freq": 1.709,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The shape, outline, or boundary of a coast. (The term coastline is generally used to describe the approximate boundaries at relatively large spatial scales.)"
+     ]
+    }
+   ],
+   "zh_main": "海岸線",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "After decades of losses, mangrove trees are gaining ground on coastlines around the world, often in places they have never grown before."
+  },
+  {
+   "word": "bayou",
+   "form": "bayous",
+   "ipa": "bˈaɪu",
+   "freq": 0.672,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A swamp; a marshy (stagnant) body of water.",
+      "A slow-moving, often stagnant creek or river."
+     ]
+    }
+   ],
+   "zh_main": "河口",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "河口"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "From the bayous of Louisiana to the backwaters of the Irrawaddy in Myanmar, from the lagoons of West Africa to the billabongs of northern Australia, mangroves are making a dramatic and unexpected comeback."
+  },
+  {
+   "word": "backwater",
+   "form": "backwaters",
+   "ipa": "bˈækwɔtɝ",
+   "freq": 0.452,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(idiomatic, usually figurative) A remote place: somewhere that remains unaffected by new events, progresses, ideas, etc; any field of endeavor that figuratively resembles such a place.",
+      "The water held back by a dam or other obstruction.",
+      "A rowing stroke in which the oar is pushed forward to stop the boat; see back water"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To row or paddle a backwater stroke.",
+      "(idiomatic) To vacillate on a long-held position."
+     ]
+    }
+   ],
+   "zh_main": "死水",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "From the bayous of Louisiana to the backwaters of the Irrawaddy in Myanmar, from the lagoons of West Africa to the billabongs of northern Australia, mangroves are making a dramatic and unexpected comeback."
+  },
+  {
+   "word": "lagoon",
+   "form": "lagoons",
+   "ipa": "ɫʌgˈun",
+   "freq": 2.001,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A shallow body of water separated from deeper sea by a bar."
+     ]
+    }
+   ],
+   "zh_main": "潟湖",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "瀉湖"
+     ]
+    }
+   ],
+   "synonyms": [
+    "lagune",
+    "laguna"
+   ],
+   "sentence": "From the bayous of Louisiana to the backwaters of the Irrawaddy in Myanmar, from the lagoons of West Africa to the billabongs of northern Australia, mangroves are making a dramatic and unexpected comeback."
+  },
+  {
+   "word": "billabong",
+   "form": "billabongs",
+   "ipa": "bˈɪɫʌbɔŋ",
+   "freq": 0.043,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(Australia) An anabranch, backwater or oxbow lake that is temporarily cut off from the main river, especially one that is only filled with water during the rainy season and can sometimes dry up completely.",
+      "A locality in the Shire of Wellington, south eastern Victoria, Australia."
+     ]
+    }
+   ],
+   "zh_main": "沼",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "沼"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "From the bayous of Louisiana to the backwaters of the Irrawaddy in Myanmar, from the lagoons of West Africa to the billabongs of northern Australia, mangroves are making a dramatic and unexpected comeback."
+  },
+  {
+   "word": "mangroves",
+   "form": "mangroves",
+   "ipa": "mˈængroʊvz",
+   "freq": 0.507,
+   "meanings": [
+    {
+     "pos": "N",
+     "pos_zh": "N",
+     "defs": [
+      "a collection of poetry by Australian poet Laurie Duggan."
+     ]
+    }
+   ],
+   "zh_main": "紅樹林",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "紅樹"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "From the bayous of Louisiana to the backwaters of the Irrawaddy in Myanmar, from the lagoons of West Africa to the billabongs of northern Australia, mangroves are making a dramatic and unexpected comeback."
+  },
+  {
+   "word": "ecologist",
+   "form": "ecologists",
+   "ipa": "ɪkˈɑɫʌdʒɪst",
+   "freq": 0.301,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(uncommon) An environmentalist (one who advocates for the protection of the environment).",
+      "A scholar of ecology."
+     ]
+    }
+   ],
+   "zh_main": "生態學家",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "In 2007, ecologists from six countries asked in a letter published in the journal Science whether we would soon be living in “a world without mangroves.” One of the world’s most distinctive, biodiverse, and carbon-rich ecosystems was in rapid retreat in the face of encroaching agriculture, construction of sea walls, ports, and marinas, and rising sea levels."
+  },
+  {
+   "word": "biodiverse",
+   "form": "biodiverse",
+   "ipa": "baɪoʊdaɪvˈɝs",
+   "freq": 0.01,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Biotically diverse; having a high degree of biodiversity."
+     ]
+    }
+   ],
+   "zh_main": "生物多樣性",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "In 2007, ecologists from six countries asked in a letter published in the journal Science whether we would soon be living in “a world without mangroves.” One of the world’s most distinctive, biodiverse, and carbon-rich ecosystems was in rapid retreat in the face of encroaching agriculture, construction of sea walls, ports, and marinas, and rising sea levels."
+  },
+  {
+   "word": "encroaching",
+   "form": "encroaching",
+   "ipa": "ɪnkrˈoʊtʃɪŋ",
+   "freq": 0.597,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "That encroaches."
+     ]
+    }
+   ],
+   "zh_main": "侵占",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "侵占",
+      "乾犯",
+      "進犯",
+      "憑陵",
+      "侵犯"
+     ]
+    }
+   ],
+   "synonyms": [
+    "invasive",
+    "trespassing"
+   ],
+   "sentence": "In 2007, ecologists from six countries asked in a letter published in the journal Science whether we would soon be living in “a world without mangroves.” One of the world’s most distinctive, biodiverse, and carbon-rich ecosystems was in rapid retreat in the face of encroaching agriculture, construction of sea walls, ports, and marinas, and rising sea levels."
+  }
+ ],
+ "built": "2026-10-23T09:10+08:00"
+}
