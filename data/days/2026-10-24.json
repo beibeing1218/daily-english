@@ -1,0 +1,373 @@
+{
+ "date": "2026-10-24",
+ "weekday": 5,
+ "weekday_zh": "六",
+ "cat": "culture",
+ "cat_zh": "文化／藝術",
+ "source": "The Guardian",
+ "title": "I expect you to cry: what the James Bond actors may face at the final audition",
+ "url": "https://www.theguardian.com/film/2026/oct/23/i-expect-you-to-cry-what-the-james-bond-actors-may-face-at-the-final-audition",
+ "summary": [
+  "Jack Lowden, Callum Turner and Josh O’Connor are rumoured to be the final candidates taking screentests this weekend. So how can they best prepare? And who is likely to triumph?",
+  "This weekend, the identity of the next James Bond is finally expected to be known – to the insiders, at least. According to reports, a number of youngish British actors – definitely three, possibly five – will have their final screen tests.",
+  "To say it has been a long time coming is an understatement. It is five years since Daniel Craig was killed in a hail of missiles at the end of No Time to Die, and in that time – even long before it – a swarm of actors have been tipped to replace him, only to age out of the role due to a combination of indecisiveness and cutthroat backstage corporate shenanigans. Whoever is declared to be 007 will be joining the franchise after what is likely to be the longest fallow period in the franchise’s 64-year history."
+ ],
+ "summary_zh": [
+  "據傳傑克勞登、卡勒姆特納和喬什奧康納將是本週末進行試鏡的最終候選人。那麼他們怎樣才能最好地做好準備呢？誰有可能獲勝？",
+  "本週末，下一位詹姆斯龐德的身份終於有望被知曉——至少對內部人士來說是這樣。據報道，一些年輕的英國演員——肯定是三名，可能是五名——將進行最後的銀幕測試。",
+  "說它已經很久了是輕描淡寫的。丹尼爾克雷格在《007：無暇赴死》結尾處被導彈襲擊身亡已有五年了，在那段時間——甚至早在它之前——就有一大群演員被指望接替他，但由於優柔寡斷和殘酷的後台公司惡作劇，他們最終退出了這個角色。無論誰被宣布成為 007，都將在經歷了該系列 64 年曆史上最長的休整期後加入該系列。"
+ ],
+ "words": [
+  {
+   "word": "rumour",
+   "form": "rumoured",
+   "ipa": "rumɝ",
+   "freq": 1.272,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "Commonwealth standard spelling of rumor."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "British, Canada, New Zealand, Australia, and Ireland spelling of rumor.",
+      "(obsolete) A prolonged, indistinct noise."
+     ]
+    }
+   ],
+   "zh_main": "謠言",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "胡扯",
+      "謠傳"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "謠言",
+      "長短",
+      "傳聞",
+      "傳言",
+      "道聽途說"
+     ]
+    }
+   ],
+   "synonyms": [
+    "bruit",
+    "hearsay",
+    "rumor"
+   ],
+   "sentence": "Jack Lowden, Callum Turner and Josh O’Connor are rumoured to be the final candidates taking screentests this weekend."
+  },
+  {
+   "word": "screentest",
+   "form": "screentests",
+   "ipa": "skrˈintʌst",
+   "freq": 0.0,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Alternative form of screen test. [Used other than figuratively or idiomatically: see screen, test; a test of, or involving, a screen.]"
+     ]
+    }
+   ],
+   "zh_main": "試鏡",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Jack Lowden, Callum Turner and Josh O’Connor are rumoured to be the final candidates taking screentests this weekend."
+  },
+  {
+   "word": "youngish",
+   "form": "youngish",
+   "ipa": "jˈʌŋɪʃ",
+   "freq": 0.127,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Somewhat young."
+     ]
+    }
+   ],
+   "zh_main": "年輕的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "還年輕的"
+     ]
+    }
+   ],
+   "synonyms": [
+    "immature",
+    "young"
+   ],
+   "sentence": "According to reports, a number of youngish British actors – definitely three, possibly five – will have their final screen tests."
+  },
+  {
+   "word": "understatement",
+   "form": "understatement",
+   "ipa": "ˈʌndɝsteɪtmʌnt",
+   "freq": 0.842,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(uncountable, rhetoric) A figure of speech whereby something is made to seem smaller or less important than it actually is, either through phrasing or lack of emphasis, often for ironic effect.",
+      "(countable) An instance of such phrasing or lack of emphasis; an incomplete statement.",
+      "An incomplete disclosure that intentionally withholds relevant information."
+     ]
+    }
+   ],
+   "zh_main": "輕描淡寫",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "To say it has been a long time coming is an understatement."
+  },
+  {
+   "word": "swarm",
+   "form": "swarm",
+   "ipa": "swˈɔrm",
+   "freq": 1.517,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A large number of insects, especially when in motion or (for bees) migrating to a new colony.",
+      "A mass of people, animals or things in motion or turmoil.",
+      "(computing) A group of nodes sharing the same torrent in a BitTorrent network."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To teem, or be overrun with insects, people, etc.",
+      "(intransitive) To move as a swarm.",
+      "(transitive) To fill a place as a swarm."
+     ]
+    }
+   ],
+   "zh_main": "蜂群",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "人群",
+      "一群"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "翃",
+      "擁"
+     ]
+    }
+   ],
+   "synonyms": [
+    "stream",
+    "horde",
+    "drove",
+    "pour",
+    "teem"
+   ],
+   "sentence": "It is five years since Daniel Craig was killed in a hail of missiles at the end of No Time to Die, and in that time – even long before it – a swarm of actors have been tipped to replace him, only to age out of the role due to a combination of indecisiveness and cutthroat backstage corporate shenanigans."
+  },
+  {
+   "word": "indecisiveness",
+   "form": "indecisiveness",
+   "ipa": "ɪndˈɛsɪsɪvnʌs",
+   "freq": 0.182,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The condition of being indecisive."
+     ]
+    }
+   ],
+   "zh_main": "優柔寡斷",
+   "zh": [],
+   "synonyms": [
+    "indecision",
+    "irresolution"
+   ],
+   "sentence": "It is five years since Daniel Craig was killed in a hail of missiles at the end of No Time to Die, and in that time – even long before it – a swarm of actors have been tipped to replace him, only to age out of the role due to a combination of indecisiveness and cutthroat backstage corporate shenanigans."
+  },
+  {
+   "word": "cutthroat",
+   "form": "cutthroat",
+   "ipa": "kˈʌtθroʊt",
+   "freq": 0.307,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Ruthlessly competitive, dog-eat-dog.",
+      "Involving the cutting of throats.",
+      "Of or relating to a card game where everyone plays for him or herself rather than playing with a partner."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An unscrupulous, ruthless or unethical person.",
+      "A murderer who slits the throats of victims.",
+      "(uncountable) A three-player pocket billiards game where the object is to be the last player with at least one ball still on the table."
+     ]
+    }
+   ],
+   "zh_main": "殘酷的",
+   "zh": [],
+   "synonyms": [
+    "fierce",
+    "merciless",
+    "bloody",
+    "homicidal",
+    "murderous"
+   ],
+   "sentence": "It is five years since Daniel Craig was killed in a hail of missiles at the end of No Time to Die, and in that time – even long before it – a swarm of actors have been tipped to replace him, only to age out of the role due to a combination of indecisiveness and cutthroat backstage corporate shenanigans."
+  },
+  {
+   "word": "shenanigans",
+   "form": "shenanigans",
+   "ipa": "ʃʌnˈænɪgʌnz",
+   "freq": 0.15,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Deceitful tricks; trickery; games.",
+      "Strange, unusual, weird, or wacky occurrences.",
+      "Mischievous play, especially by children."
+     ]
+    }
+   ],
+   "zh_main": "惡作劇",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "It is five years since Daniel Craig was killed in a hail of missiles at the end of No Time to Die, and in that time – even long before it – a swarm of actors have been tipped to replace him, only to age out of the role due to a combination of indecisiveness and cutthroat backstage corporate shenanigans."
+  },
+  {
+   "word": "franchise",
+   "form": "franchise",
+   "ipa": "frˈæntʃaɪz",
+   "freq": 4.056,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The authorization granted by a company to sell or distribute its goods or services in a certain area.",
+      "A business operating under such authorization, a franchisee.",
+      "A right or privilege officially granted to a person, a group of people, or a company by a government."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To confer certain powers on; grant a franchise to; authorize.",
+      "(transitive) To give to others the rights to sell or distribute (goods or services).",
+      "(transitive, rare) To set free; invest with a franchise or privilege; enfranchise."
+     ]
+    }
+   ],
+   "zh_main": "特許經營權",
+   "zh": [],
+   "synonyms": [
+    "dealership"
+   ],
+   "sentence": "Whoever is declared to be 007 will be joining the franchise after what is likely to be the longest fallow period in the franchise’s 64-year history."
+  },
+  {
+   "word": "fallow",
+   "form": "fallow",
+   "ipa": "fˈæɫoʊ",
+   "freq": 1.211,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(of agricultural land) Ploughed but left unseeded for more than one planting season.",
+      "(of agricultural land) Left unworked and uncropped for some amount of time.",
+      "(figurative) Inactive; undeveloped."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(agriculture, uncountable) Ground ploughed and harrowed but left unseeded for one year.",
+      "(agriculture, uncountable) Uncultivated land.",
+      "The ploughing or tilling of land, without sowing it for a season."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To make land fallow for agricultural purposes."
+     ]
+    }
+   ],
+   "zh_main": "休耕",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "未耕的"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "休耕"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "畬"
+     ]
+    }
+   ],
+   "synonyms": [
+    "undeveloped",
+    "unploughed",
+    "unbroken",
+    "unexploited",
+    "unplowed"
+   ],
+   "sentence": "Whoever is declared to be 007 will be joining the franchise after what is likely to be the longest fallow period in the franchise’s 64-year history."
+  }
+ ],
+ "built": "2026-10-24T09:20+08:00"
+}
