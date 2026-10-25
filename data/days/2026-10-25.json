@@ -1,0 +1,140 @@
+{
+ "date": "2026-10-25",
+ "weekday": 6,
+ "weekday_zh": "日",
+ "cat": "opinion",
+ "cat_zh": "評論",
+ "source": "The Guardian",
+ "title": "As Trump’s time runs out, this could be his most dangerous legacy: a world divided into three | Steve Bloomfield",
+ "url": "https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping",
+ "summary": [
+  "We’ve heard much about the end of the west. At the proposed summit between Trump, Putin and Xi, those fears could crystallise, says former Observer international editor Steve Bloomfield",
+  "In the final two years of a US presidency, when Congress has been lost, approval ratings have sunk like a stone and their party has started to think about who’s coming next, the person occupying the Oval Office can feel their power draining away. Domestic legislation, particularly in an era where bipartisan cooperation is almost nonexistent, grinds to a halt. But as the days tick by until the end, and as presidents begin to think about their legacy, there is one part of the job where they still have power: the rest of the world."
+ ],
+ "summary_zh": [
+  "我們已經聽說過很多關於西部終結的事情。前《觀察家報》國際編輯史蒂夫布魯姆菲爾德表示，在川普、普丁和習近平擬議舉行的峰會上，這些擔憂可能會具體化。",
+  "在美國總統任期的最後兩年，當國會落敗、支持率一落千丈、他們的政黨開始考慮下一個接班人時，佔據橢圓形辦公室的人會感到自己的權力正在消失。國內立法，尤其是在兩黨合作幾乎不存在的時代，逐漸陷入停滯。但隨著日子一天天過去，當總統開始思考他們的遺產時，他們仍然擁有權力的一部分：世界其他地方。"
+ ],
+ "words": [
+  {
+   "word": "crystallise",
+   "form": "crystallise",
+   "ipa": "krˈɪstʌɫaɪz",
+   "freq": 0.098,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "Non-Oxford British English standard spelling of crystallize. [(transitive, chemistry, physics) To make something form into crystals.]"
+     ]
+    }
+   ],
+   "zh_main": "結晶",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "結晶",
+      "使具體化"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "At the proposed summit between Trump, Putin and Xi, those fears could crystallise, says former Observer international editor Steve Bloomfield"
+  },
+  {
+   "word": "presidency",
+   "form": "presidency",
+   "ipa": "prˈɛzʌdʌnsi",
+   "freq": 7.812,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The office or role of president.",
+      "The time during which one is president; a president's term of office.",
+      "The bureaucratic organization and governmental initiatives devolving directly from the president."
+     ]
+    }
+   ],
+   "zh_main": "總統職位",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "會長團",
+      "總統任期"
+     ]
+    }
+   ],
+   "synonyms": [
+    "presidentship",
+    "administration"
+   ],
+   "sentence": "In the final two years of a US presidency, when Congress has been lost, approval ratings have sunk like a stone and their party has started to think about who’s coming next, the person occupying the Oval Office can feel their power draining away."
+  },
+  {
+   "word": "bipartisan",
+   "form": "bipartisan",
+   "ipa": "baɪpˈɑrtɪzʌn",
+   "freq": 0.527,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(politics) Relating to, or supported by two groups, especially by two political parties."
+     ]
+    }
+   ],
+   "zh_main": "兩黨",
+   "zh": [],
+   "synonyms": [
+    "nonpartisan",
+    "two-way",
+    "two-party",
+    "nonpartizan",
+    "bipartizan"
+   ],
+   "sentence": "Domestic legislation, particularly in an era where bipartisan cooperation is almost nonexistent, grinds to a halt."
+  },
+  {
+   "word": "nonexistent",
+   "form": "nonexistent",
+   "ipa": "nɑnʌgzˈɪstʌnt",
+   "freq": 2.206,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Not existent or existing; not real.",
+      "Not present or occurring."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Something that does not exist."
+     ]
+    }
+   ],
+   "zh_main": "不存在的",
+   "zh": [],
+   "synonyms": [
+    "absent",
+    "wanting",
+    "missing",
+    "vanished",
+    "lacking"
+   ],
+   "sentence": "Domestic legislation, particularly in an era where bipartisan cooperation is almost nonexistent, grinds to a halt."
+  }
+ ],
+ "built": "2026-10-25T08:46+08:00"
+}
