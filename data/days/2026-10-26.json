@@ -1,0 +1,101 @@
+{
+ "date": "2026-10-26",
+ "weekday": 0,
+ "weekday_zh": "一",
+ "cat": "world",
+ "cat_zh": "政治／國際",
+ "source": "The Guardian",
+ "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+ "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+ "summary": [
+  "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda",
+  "Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country.",
+  "The Swiss foreign ministry said on Friday the patient in Nigeria, the Ugandan-born wife of a Swiss diplomat based in Abuja, had not travelled to the Democratic Republic of ⁠Congo, where the outbreak was first detected in mid-May before spreading to Uganda, Kenya and now Nigeria. The woman was believed to have contracted Ebola while travelling with her husband in Uganda, the ministry added."
+ ],
+ "summary_zh": [
+  "瑞士稱患者是瑞士外交官的妻子，據信在烏幹達旅行時感染了病毒",
+  "非洲各地的衛生官員正在競相確定尼日利亞十多年來第一位伊波拉患者是如何被感染的，因為他們擔心疫情可能會在到達第四個非洲國家後進一步傳播。",
+  "瑞士外交部週五表示，尼日利亞的這名患者是駐阿布賈瑞士外交官的妻子，出生於烏幹達，她沒有前往剛果民主共和國。剛果民主共和國的疫情在五月中旬首次發現，隨後蔓延到烏幹達、肯亞，現在又蔓延到奈及利亞。衛生部補充說，據信該婦女是在與丈夫一起前往烏幹達旅行時感染伊波拉病毒的。"
+ ],
+ "words": [
+  {
+   "word": "diplomat",
+   "form": "diplomat",
+   "ipa": "dˈɪpɫʌmæt",
+   "freq": 2.128,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A person, such as an ambassador, who is accredited to represent a government officially in its relations with other governments or international organisations",
+      "(figuratively) Someone who uses skill and tact in dealing with other people."
+     ]
+    }
+   ],
+   "zh_main": "外交官",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "外交官",
+      "有外交手腕的人"
+     ]
+    }
+   ],
+   "synonyms": [
+    "diplomatist"
+   ],
+   "sentence": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda"
+  },
+  {
+   "word": "outbreak",
+   "form": "outbreak",
+   "ipa": "ˈaʊtbreɪk",
+   "freq": 5.707,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An eruption; the sudden appearance of a rash, disease, etc.",
+      "A sudden increase.",
+      "(figurative) An outburst or sudden eruption, especially of violence and mischief."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To burst out or break forth."
+     ]
+    }
+   ],
+   "zh_main": "爆發",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "暴亂",
+      "發病",
+      "發端",
+      "發作",
+      "突發"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "暴發"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country."
+  }
+ ],
+ "built": "2026-10-26T08:57+08:00"
+}

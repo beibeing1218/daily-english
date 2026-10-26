@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-10-26",
+  "weekday_zh": "一",
+  "cat": "world",
+  "cat_zh": "政治／國際",
+  "source": "The Guardian",
+  "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+  "n_words": 2
+ },
+ {
   "date": "2026-10-25",
   "weekday_zh": "日",
   "cat": "opinion",
