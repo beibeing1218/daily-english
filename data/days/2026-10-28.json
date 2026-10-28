@@ -1,0 +1,129 @@
+{
+ "date": "2026-10-28",
+ "weekday": 2,
+ "weekday_zh": "三",
+ "cat": "tech",
+ "cat_zh": "科技",
+ "source": "Ars Technica",
+ "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+ "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+ "summary": [
+  "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+  "Apple has announced refreshes for the iMac and the entry-level, 14-inch MacBook Pro. Both machines are getting the M6 chip, which was introduced in the Mac mini several weeks ago.",
+  "The M6 is split into two variants for the iMac. Picking the “M6 chip with two Thunderbolt ports” option gets you a 10-core CPU and a 10-core GPU, whereas picking “M6 chip with four Thunderbolt ports” gets you 12 cores for each, instead. The two-port variant maxes out at 24 GB of RAM and 1TB of storage, whereas the four-port one maxes out at 32GB of RAM and 2TB of storage."
+ ],
+ "summary_zh": [
+  "此外，N1晶片還帶來了Wi-Fi 7和藍牙6。",
+  "Apple 宣布對 iMac 和入門級 14 吋 MacBook Pro 進行更新。這兩款機器都配備了 M6 晶片，該晶片於幾週前在 Mac mini 中引入。",
+  "M6 针对 iMac 分为两个版本。選擇「具有兩個 Thunderbolt 連接埠的 M6 晶片」選項將為您提供 10 核心 CPU 和 10 核心 GPU，而選擇「帶有四個 Thunderbolt 連接埠的 M6 晶片」選項將為您提供 12 個核心。兩埠型號的最大記憶體為 24 GB 和 1TB 儲存空間，而四埠型號的最大記憶體為 32GB 和 2TB 儲存空間。"
+ ],
+ "words": [
+  {
+   "word": "refresh",
+   "form": "refreshes",
+   "ipa": "rɪfrˈɛʃ",
+   "freq": 1.413,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(computing) The update of a display (in a web browser or similar software) to show the latest version of the data.",
+      "The periodic energizing required to maintain the contents of computer memory, the display luminance of a computer screen, etc.",
+      "The process of modernizing something."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(computing, ambitransitive) To reload (a document, especially a webpage) and show any new changes.",
+      "(computing, ambitransitive) To cause (a web browser or similar software) to refresh its display.",
+      "(transitive) To renew or revitalize."
+     ]
+    }
+   ],
+   "zh_main": "重新整理",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "使 ... 清新",
+      "提神"
+     ]
+    }
+   ],
+   "synonyms": [
+    "review",
+    "freshen",
+    "refreshen"
+   ],
+   "sentence": "Apple has announced refreshes for the iMac and the entry-level, 14-inch MacBook Pro."
+  },
+  {
+   "word": "imac",
+   "form": "iMac",
+   "ipa": "ˈɪmʌk",
+   "freq": 0.086,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(trademark) One of a line of all-in-one Macintosh computers made by Apple Inc."
+     ]
+    }
+   ],
+   "zh_main": "伊瑪克",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Apple has announced refreshes for the iMac and the entry-level, 14-inch MacBook Pro."
+  },
+  {
+   "word": "variant",
+   "form": "variants",
+   "ipa": "vˈɛriʌnt",
+   "freq": 6.834,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Showing variety, diverse.",
+      "Showing deviation or disagreement.",
+      "(programming) Covariant and/or contravariant."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Something that is slightly different from a type or norm.",
+      "(genetics) A different sequence of a gene (locus).",
+      "(linguistics, lexicography) One of a set of words or other linguistic forms that conveys the same meaning or serves the same function."
+     ]
+    }
+   ],
+   "zh_main": "變體",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "變種"
+     ]
+    }
+   ],
+   "synonyms": [
+    "discrepancy",
+    "strain",
+    "form",
+    "different",
+    "variance"
+   ],
+   "sentence": "The M6 is split into two variants for the iMac."
+  }
+ ],
+ "built": "2026-10-28T09:59+08:00"
+}

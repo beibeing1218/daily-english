@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-10-28",
+  "weekday_zh": "三",
+  "cat": "tech",
+  "cat_zh": "科技",
+  "source": "Ars Technica",
+  "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+  "n_words": 3
+ },
+ {
   "date": "2026-10-27",
   "weekday_zh": "二",
   "cat": "business",
