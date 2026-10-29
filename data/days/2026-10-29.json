@@ -1,0 +1,133 @@
+{
+ "date": "2026-10-29",
+ "weekday": 3,
+ "weekday_zh": "四",
+ "cat": "science",
+ "cat_zh": "科學／健康",
+ "source": "The Conversation",
+ "title": "Israel has voted, but what comes next? Dissecting a messy ballot and coalition-building process",
+ "url": "https://theconversation.com/israel-has-voted-but-what-comes-next-dissecting-a-messy-ballot-and-coalition-building-process-295404",
+ "summary": [
+  "With no clear majority for the ruling coalition or main opposition bloc, working out who will form the next government could take months.",
+  "The Israeli election of Oct. 27, 2026, was among the most highly anticipated votes in the country’s history. It was consequential, if not yet conclusive.",
+  "With nearly all the votes counted, it is still unclear who will lead the country following the first national ballot since the Oct. 7, 2023, Hamas-led attack, and the devastating wars in Gaza, Lebanon and Iran that Israel has launched since."
+ ],
+ "summary_zh": [
+  "由於執政聯盟或主要反對派集團沒有獲得明顯多數，因此確定誰將組成下一屆政府可能需要幾個月的時間。",
+  "2026 年 10 月 27 日的以色列選舉是該國歷史上最受期待的選舉之一。即使還沒有得出結論，但這是一個重要的結果。",
+  "自 2023 年 10 月 7 日哈馬斯領導的襲擊以及以色列此後在加薩、黎巴嫩和伊朗發動毀滅性戰爭以來的第一次全國投票後，幾乎所有選票都已清點完畢，目前尚不清楚誰將領導該國。"
+ ],
+ "words": [
+  {
+   "word": "bloc",
+   "form": "bloc",
+   "ipa": "bɫˈɑk",
+   "freq": 3.92,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A group of countries acting together for political or economic goals, an alliance.",
+      "A group of voters or politicians who share common goals.",
+      "(Canada, politics) Bloc Québécois"
+     ]
+    }
+   ],
+   "zh_main": "集團",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "集團",
+      "聯盟"
+     ]
+    }
+   ],
+   "synonyms": [
+    "axis"
+   ],
+   "sentence": "With no clear majority for the ruling coalition or main opposition bloc, working out who will form the next government could take months."
+  },
+  {
+   "word": "conclusive",
+   "form": "conclusive",
+   "ipa": "kʌnkɫˈusɪv",
+   "freq": 3.136,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Providing an end to something; decisive.",
+      "Pertaining to a conclusion."
+     ]
+    }
+   ],
+   "zh_main": "確鑿",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "確鑿",
+      "緊要"
+     ]
+    }
+   ],
+   "synonyms": [
+    "unequivocal",
+    "decisive",
+    "definitive",
+    "univocal",
+    "unambiguous"
+   ],
+   "sentence": "It was consequential, if not yet conclusive."
+  },
+  {
+   "word": "unclear",
+   "form": "unclear",
+   "ipa": "ʌnkɫˈɪr",
+   "freq": 6.453,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Not clearly or explicitly defined.",
+      "Ambiguous; liable to more than one interpretation.",
+      "Not having a clear idea; uncertain."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive, rare) To undo the process of clearing."
+     ]
+    }
+   ],
+   "zh_main": "不清楚",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "暗",
+      "矓"
+     ]
+    }
+   ],
+   "synonyms": [
+    "obscure",
+    "indeterminate",
+    "vague",
+    "perplexing",
+    "indecipherable"
+   ],
+   "sentence": "With nearly all the votes counted, it is still unclear who will lead the country following the first national ballot since the Oct. 7, 2023, Hamas-led attack, and the devastating wars in Gaza, Lebanon and Iran that Israel has launched since."
+  }
+ ],
+ "built": "2026-10-29T10:04+08:00"
+}
