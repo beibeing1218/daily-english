@@ -1,0 +1,278 @@
+{
+ "date": "2026-10-30",
+ "weekday": 4,
+ "weekday_zh": "五",
+ "cat": "environment",
+ "cat_zh": "環境／氣候",
+ "source": "Yale E360",
+ "title": "As the Colorado River Shrinks, Calls to Drain Lake Powell Grow",
+ "url": "https://e360.yale.edu/features/glen-canyon-dam",
+ "summary": [
+  "Lake Powell recently dropped to a historic low, slashing hydropower and the flow of water downstream. As drought deepens, groups are pushing to drain the lake entirely to reveal its long-submerged rock arches and spires and allow wildlife along the Colorado River to recover.",
+  "The 27-year-long drought in the Southwestern U.S. — the longest dry period in the last 1,200 years — is taking a serious toll on the flow of the Colorado River. Climate change is shrinking the snowpack in Colorado’s Rocky Mountains, the source of roughly 80 percent of the river’s annual flow, and higher temperatures are melting the snowpack earlier in the year, which saps runoff in late summer and fall. Warmer weather is also increasing evaporation from the river’s 40 reservoirs, including its two largest — Lakes Powell and Mead."
+ ],
+ "summary_zh": [
+  "鮑威爾湖最近跌至歷史最低點，導致水力發電和下游水流量大幅削減。隨著乾旱加劇，一些團體正在推動將湖水完全排幹，以露出其長期淹沒的岩石拱門和尖頂，讓科羅拉多河沿岸的野生動物得以恢復。",
+  "美國西南部持續 27 年的乾旱——過去 1200 年來最長的乾旱期——正在對科羅拉多河的流量造成嚴重影響。氣候變遷正在減少科羅拉多州落基山脈的積雪，該山脈是該河流約 80% 年流量的來源，而氣溫升高導致今年早些時候積雪融化，從而減少了夏末和秋季的徑流。天氣變暖也導致該河 40 個水庫的蒸發量增加，其中包括鮑威爾湖和米德湖這兩個最大的水庫。"
+ ],
+ "words": [
+  {
+   "word": "hydropower",
+   "form": "hydropower",
+   "ipa": "hˈaɪdroʊpaʊr",
+   "freq": 0.371,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "hydroelectric power"
+     ]
+    }
+   ],
+   "zh_main": "水力發電",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Lake Powell recently dropped to a historic low, slashing hydropower and the flow of water downstream."
+  },
+  {
+   "word": "downstream",
+   "form": "downstream",
+   "ipa": "dˈaʊnstrˈim",
+   "freq": 4.806,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Toward the lower part of a stream; with the current (of a river, brook, or other flow of fluid).",
+      "(figurative) Occurring later than something else; (also, usually, especially) influenced by something else; being a consequence of something else.",
+      "(computer networking) In the direction from the server to the client."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To stream downward.",
+      "(open-source software, transitive) Of the original developers: to make available (a version or patch) to downstream developers and users of the software."
+     ]
+    },
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "defs": [
+      "Following the path of a river or stream."
+     ]
+    }
+   ],
+   "zh_main": "下游",
+   "zh": [],
+   "synonyms": [
+    "downriver"
+   ],
+   "sentence": "Lake Powell recently dropped to a historic low, slashing hydropower and the flow of water downstream."
+  },
+  {
+   "word": "deepen",
+   "form": "deepens",
+   "ipa": "dˈipʌn",
+   "freq": 1.372,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To make deep or deeper",
+      "(transitive) To make darker or more intense; to darken",
+      "(transitive) To make more poignant or affecting; to increase in degree"
+     ]
+    }
+   ],
+   "zh_main": "深化",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "深化",
+      "加深",
+      "使 ... 強烈"
+     ]
+    }
+   ],
+   "synonyms": [
+    "change",
+    "intensify",
+    "compound",
+    "heighten"
+   ],
+   "sentence": "As drought deepens, groups are pushing to drain the lake entirely to reveal its long-submerged rock arches and spires and allow wildlife along the Colorado River to recover."
+  },
+  {
+   "word": "spires",
+   "form": "spires",
+   "ipa": "spˈaɪrz",
+   "freq": 0.625,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A surname."
+     ]
+    }
+   ],
+   "zh_main": "尖頂",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "尖塔",
+      "螺線",
+      "螺旋"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "卷起來"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "As drought deepens, groups are pushing to drain the lake entirely to reveal its long-submerged rock arches and spires and allow wildlife along the Colorado River to recover."
+  },
+  {
+   "word": "snowpack",
+   "form": "snowpack",
+   "ipa": "snˈoʊpæk",
+   "freq": 0.102,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An accumulation of packed snow, usually the seasonal amount."
+     ]
+    }
+   ],
+   "zh_main": "積雪",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Climate change is shrinking the snowpack in Colorado’s Rocky Mountains, the source of roughly 80 percent of the river’s annual flow, and higher temperatures are melting the snowpack earlier in the year, which saps runoff in late summer and fall."
+  },
+  {
+   "word": "saps",
+   "form": "saps",
+   "ipa": "sˈæps",
+   "freq": 0.314,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(South Africa) Initialism of South African Police Service",
+      "(electricity) Initialism of stand-alone power system/supply.",
+      "(electricity) Initialism of standalone photovoltaic system/supply."
+     ]
+    }
+   ],
+   "zh_main": "悶棍",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "坑道",
+      "樹液",
+      "血氣"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "使衰竭",
+      "挖坑道"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Climate change is shrinking the snowpack in Colorado’s Rocky Mountains, the source of roughly 80 percent of the river’s annual flow, and higher temperatures are melting the snowpack earlier in the year, which saps runoff in late summer and fall."
+  },
+  {
+   "word": "runoff",
+   "form": "runoff",
+   "ipa": "rˈʌnɔf",
+   "freq": 2.689,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "That portion of precipitation or irrigation on an area which does not infiltrate or evaporate, but instead is discharged from the area.",
+      "Dissolved chemicals, etc, included in such water.",
+      "(sports) A second or further round of a competition, after other competitors (often all but the last two) have been eliminated."
+     ]
+    }
+   ],
+   "zh_main": "徑流",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "徑流",
+      "逕流"
+     ]
+    }
+   ],
+   "synonyms": [
+    "overflow",
+    "overflowing",
+    "overspill"
+   ],
+   "sentence": "Climate change is shrinking the snowpack in Colorado’s Rocky Mountains, the source of roughly 80 percent of the river’s annual flow, and higher temperatures are melting the snowpack earlier in the year, which saps runoff in late summer and fall."
+  },
+  {
+   "word": "evaporation",
+   "form": "evaporation",
+   "ipa": "ɪvæpɝˈeɪʃʌn",
+   "freq": 4.625,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The process of a liquid converting to the gaseous state.",
+      "The process in which all or a portion of liquid (in a container) is turned into vapour, in order to increase the concentration of solid matter in the mixture.",
+      "(archaic) That which is evaporated; vapor."
+     ]
+    }
+   ],
+   "zh_main": "蒸發",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "蒸發",
+      "幹燥"
+     ]
+    }
+   ],
+   "synonyms": [
+    "vapor",
+    "vapour",
+    "vaporization",
+    "vaporisation",
+    "dessication"
+   ],
+   "sentence": "Warmer weather is also increasing evaporation from the river’s 40 reservoirs, including its two largest — Lakes Powell and Mead."
+  }
+ ],
+ "built": "2026-10-30T10:23+08:00"
+}
