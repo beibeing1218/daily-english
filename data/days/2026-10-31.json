@@ -1,0 +1,143 @@
+{
+ "date": "2026-10-31",
+ "weekday": 5,
+ "weekday_zh": "六",
+ "cat": "culture",
+ "cat_zh": "文化／藝術",
+ "source": "The Guardian",
+ "title": "‘Patrick Stewart brought virile star power to the stage, from clowns to kings to wounded lions’",
+ "url": "https://www.theguardian.com/stage/2026/oct/30/patrick-stewart-virile-star-power-stage-hollywood-mckellen",
+ "summary": [
+  "With his striking voice, so rich and resonant, the actor blazed through the RSC – and his time in Hollywood only enriched him. Yet he was a great team player, capable of anything, as his double acts with Ian McKellen showed",
+  "Patrick Stewart, who has died aged 86, was a classic example of the company actor who becomes a star: a natural Enobarbus who winds up playing Mark Antony. It would be easy to say that he had fame thrust upon him through his roles in Star Trek and X-Men, but I would argue that it was a two-way process. As Peter Bradshaw points out, Stewart brought his RSC-trained gravitas to the screen, but his roles in popular franchises gave him an extra layer of confidence and authority on stage. He became, in short, an even more powerful actor."
+ ],
+ "summary_zh": [
+  "這位演員以其引人注目、渾厚、洪亮的嗓音在英國皇家莎士比亞劇團中大放異彩，而他在好萊塢的時光也讓他更加豐富。然而，他是一位出色的團隊合作者，無所不能，正如他與伊恩·麥克萊恩的雙重表演所表明的那樣",
+  "派崔克史都華 (Patrick Stewart) 去世，享年 86 歲，他是公司演員成為明星的典型例子：天生的愛諾巴巴斯 (Enobarbus)，最終扮演馬克安東尼 (Mark Antony)。可以很容易地說，他透過《星際爭霸戰》和《X戰警》中的角色而聲名大噪，但我認為這是一個雙向的過程。正如彼得布拉德肖 (Peter Bradshaw) 指出的那樣，斯圖爾特把他在皇家莎士比亞劇團訓練過的莊重帶到了銀幕上，但他在熱門系列電影中的角色給了他在舞台上額外的自信和權威。簡而言之，他成為了一位更強大的演員。"
+ ],
+ "words": [
+  {
+   "word": "resonant",
+   "form": "resonant",
+   "ipa": "rˈɛzʌnʌnt",
+   "freq": 2.79,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Resounding, echoing.",
+      "(electricity, of a circuit) Adjusted as to dimensions so that currents or electric surgings are produced by the passage of electric waves of a given frequency."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(phonetics) A sonorant vowel or consonant.",
+      "(Indo-European studies) Any of the Proto-Indo-European consonants *l, *m, *n, *r, *w (*u̯), and *y (*i̯) or its descendants in an Indo-European language, capable of syllabic pronunciation in the zero grade and represented by the cover symbol ⟨R⟩ in structural notation."
+     ]
+    }
+   ],
+   "zh_main": "共鳴的",
+   "zh": [],
+   "synonyms": [
+    "reverberant",
+    "ringing",
+    "resonating",
+    "resounding",
+    "reverberative"
+   ],
+   "sentence": "With his striking voice, so rich and resonant, the actor blazed through the RSC – and his time in Hollywood only enriched him."
+  },
+  {
+   "word": "blazed",
+   "form": "blazed",
+   "ipa": "bɫˈeɪzd",
+   "freq": 1.179,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(slang) Under the influence of marijuana, usually at a relatively high dose."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To be on fire, especially producing bright flames.",
+      "(intransitive) To send forth or reflect a bright light; shine like a flame.",
+      "(intransitive, poetic) To be conspicuous; shine brightly a brilliancy (of talents, deeds, etc.)."
+     ]
+    }
+   ],
+   "zh_main": "閃耀",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "熟"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "With his striking voice, so rich and resonant, the actor blazed through the RSC – and his time in Hollywood only enriched him."
+  },
+  {
+   "word": "enrich",
+   "form": "enriched",
+   "ipa": "ɛnrˈɪtʃ",
+   "freq": 2.046,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To make (someone or something) rich or richer. [from 14th c.]",
+      "(transitive) To enhance.",
+      "(transitive) To add nutrients to foodstuffs; to fortify."
+     ]
+    }
+   ],
+   "zh_main": "豐富",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "豐富",
+      "濃縮",
+      "使 ... 豐富",
+      "自肥"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "With his striking voice, so rich and resonant, the actor blazed through the RSC – and his time in Hollywood only enriched him."
+  },
+  {
+   "word": "gravitas",
+   "form": "gravitas",
+   "ipa": "grˈævʌtʌs",
+   "freq": 0.076,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Seriousness in bearing or manner; dignity.",
+      "(figuratively) Substance, weight."
+     ]
+    }
+   ],
+   "zh_main": "莊重",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "As Peter Bradshaw points out, Stewart brought his RSC-trained gravitas to the screen, but his roles in popular franchises gave him an extra layer of confidence and authority on stage."
+  }
+ ],
+ "built": "2026-10-31T09:58+08:00"
+}

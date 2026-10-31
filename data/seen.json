@@ -196,7 +196,11 @@
   "snowpack": "2026-10-30",
   "saps": "2026-10-30",
   "runoff": "2026-10-30",
-  "evaporation": "2026-10-30"
+  "evaporation": "2026-10-30",
+  "resonant": "2026-10-31",
+  "blazed": "2026-10-31",
+  "enrich": "2026-10-31",
+  "gravitas": "2026-10-31"
  },
  "urls": [
   "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
@@ -233,6 +237,7 @@
   "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
   "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
   "https://theconversation.com/israel-has-voted-but-what-comes-next-dissecting-a-messy-ballot-and-coalition-building-process-295404",
-  "https://e360.yale.edu/features/glen-canyon-dam"
+  "https://e360.yale.edu/features/glen-canyon-dam",
+  "https://www.theguardian.com/stage/2026/oct/30/patrick-stewart-virile-star-power-stage-hollywood-mckellen"
  ]
 }
