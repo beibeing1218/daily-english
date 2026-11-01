@@ -1,0 +1,74 @@
+{
+ "date": "2026-11-01",
+ "weekday": 6,
+ "weekday_zh": "日",
+ "cat": "opinion",
+ "cat_zh": "評論",
+ "source": "The Guardian",
+ "title": "Massive Attack, Bob Marley, bell hooks and grime: the forces that shaped four generations of Black Britons | The panel",
+ "url": "https://www.theguardian.com/commentisfree/2026/oct/31/black-history-month-panel-arlo-parks-eunice-olumide-ade-adepitan-vanley-burke",
+ "summary": [
+  "For Black History Month, figures from the arts, culture and sport reveal the people and ideas that made them who they are today",
+  "When you’re traduced, abused and gaslighted – believe me, Black History Month matters | Hugh Muir",
+  "When you’re traduced, abused and gaslighted – believe me, Black History Month matters | Hugh Muir"
+ ],
+ "summary_zh": [
+  "在黑人歷史月，來自藝術、文化和體育界的人物揭示了造就他們今天的人和思想",
+  "當你被誹謗、虐待和受氣時——相信我，黑人歷史月很重要|休·繆爾",
+  "當你被誹謗、虐待和受氣時——相信我，黑人歷史月很重要|休·繆爾"
+ ],
+ "words": [
+  {
+   "word": "traduce",
+   "form": "traduced",
+   "ipa": "trʌdˈus",
+   "freq": 0.032,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To malign a person or entity by making malicious and false or defamatory statements.",
+      "(archaic, transitive) To pass into another form of expression; to rephrase, to translate.",
+      "(archaic, transitive) To pass on (to one's children, future generations etc.); to transmit."
+     ]
+    }
+   ],
+   "zh_main": "譫",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "誹謗"
+     ]
+    }
+   ],
+   "synonyms": [
+    "malign",
+    "badmouth"
+   ],
+   "sentence": "When you’re traduced, abused and gaslighted – believe me, Black History Month matters | Hugh Muir"
+  },
+  {
+   "word": "gaslighted",
+   "form": "gaslighted",
+   "ipa": "gˈæsɫˈaɪtʌd",
+   "freq": 0.002,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Illuminated by burning gas."
+     ]
+    }
+   ],
+   "zh_main": "煤氣燈點燃的",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "When you’re traduced, abused and gaslighted – believe me, Black History Month matters | Hugh Muir"
+  }
+ ],
+ "built": "2026-11-01T09:48+08:00"
+}

@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-11-01",
+  "weekday_zh": "日",
+  "cat": "opinion",
+  "cat_zh": "評論",
+  "source": "The Guardian",
+  "title": "Massive Attack, Bob Marley, bell hooks and grime: the forces that shaped four generations of Black Britons | The panel",
+  "n_words": 2
+ },
+ {
   "date": "2026-10-31",
   "weekday_zh": "六",
   "cat": "culture",
