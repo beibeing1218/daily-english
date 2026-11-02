@@ -1,0 +1,130 @@
+{
+ "date": "2026-11-02",
+ "weekday": 0,
+ "weekday_zh": "一",
+ "cat": "world",
+ "cat_zh": "政治／國際",
+ "source": "The Guardian",
+ "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+ "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+ "summary": [
+  "There is no end in sight for the drivers of illegal mining, while police action appears ineffective",
+  "Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area.",
+  "In late September, dozens of zama zamas – the name given to illegal miners in South Africa, meaning roughly “to take a chance” in Zulu – arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal Welfare)."
+ ],
+ "summary_zh": [
+  "非法採礦司機的行為沒有結束的跡象，而警方的行動似乎無效",
+  "自從 1991 年科拉貝利 (Cora Bailey) 第一次在約翰內斯堡以西的魯德普特 (Roodepoort) 週邊小鎮治療受傷動物以來，她就一直遇到非法採礦者。但隨著金價飆升，該地區廢棄礦井的活動也隨之增加。",
+  "9 月下旬，數十名紮馬紮馬（南非對非法採礦者的稱呼，在祖魯語中大致意思是“碰碰運氣”）從她的慈善機構 Claw（社區主導的動物福利組織）穿過土路來到這裡挖金。"
+ ],
+ "words": [
+  {
+   "word": "ineffective",
+   "form": "ineffective",
+   "ipa": "ɪnɪfˈɛktɪv",
+   "freq": 5.82,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Not having the desired effect; ineffectual; otiose.",
+      "Lacking in ability; incompetent or inadequate."
+     ]
+    }
+   ],
+   "zh_main": "無效的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "無用"
+     ]
+    }
+   ],
+   "synonyms": [
+    "impotent",
+    "incompetent",
+    "ineffectual",
+    "inefficient",
+    "unproductive"
+   ],
+   "sentence": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective"
+  },
+  {
+   "word": "soar",
+   "form": "soared",
+   "ipa": "sˈɔr",
+   "freq": 1.076,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To fly high with little effort, like a bird.",
+      "To mount upward on wings, or as on wings, especially by gliding while employing rising air currents.",
+      "To rise, especially rapidly or unusually high."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act of soaring.",
+      "An upward flight.",
+      "A river in Leicestershire, England, a tributary to the Trent."
+     ]
+    }
+   ],
+   "zh_main": "翱翔",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "翱翔",
+      "飛漲",
+      "高飛",
+      "往上飛舞",
+      "踴躍"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "淩",
+      "翥"
+     ]
+    }
+   ],
+   "synonyms": [
+    "surge",
+    "zoom",
+    "sailplane"
+   ],
+   "sentence": "But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area."
+  },
+  {
+   "word": "zama",
+   "form": "zama",
+   "ipa": "zˈɑmʌ",
+   "freq": 0.061,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Synonym of zama-zama."
+     ]
+    }
+   ],
+   "zh_main": "札馬",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "In late September, dozens of zama zamas – the name given to illegal miners in South Africa, meaning roughly “to take a chance” in Zulu – arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal Welfare)."
+  }
+ ],
+ "built": "2026-11-02T10:04+08:00"
+}
