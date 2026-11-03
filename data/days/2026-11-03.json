@@ -1,0 +1,262 @@
+{
+ "date": "2026-11-03",
+ "weekday": 1,
+ "weekday_zh": "二",
+ "cat": "business",
+ "cat_zh": "商業／經濟",
+ "source": "The Guardian",
+ "title": "Control of Britain’s 39m smart meters passes to non-profit startup",
+ "url": "https://www.theguardian.com/environment/2026/nov/02/control-of-britains-39m-smart-meters-passes-to-non-profit-startup",
+ "summary": [
+  "The handover marks the end of a 13-year licence for Smart DCC, a subsidiary of Capita, after years of spiralling costs and delays",
+  "Control over Great Britain’s 39m smart meters has passed to a non-profit startup after its former owner presided over more than a decade of spiralling costs and delays in the troubled network.",
+  "The company owned by crisis-hit outsourcing firm Capita has promised a “seamless transition” to its not-for-profit successor, which will take over running the data network connecting the smart meters from this week."
+ ],
+ "summary_zh": [
+  "此次移交標誌著 Capita 子公司 Smart DCC 為期 13 年的許可證的結束，該公司在經歷了多年的成本上升和延誤之後",
+  "英國 3,900 萬台智慧電錶的控制權已移交給一家非營利新創公司，此前該公司的前所有者十多年來一直在解決陷入困境的網路成本不斷上升和延誤的問題。",
+  "受危機打擊的外包公司 Capita 旗下的這家公司已承諾向其非營利性繼任者“無縫過渡”，後者將從本週開始接管連接智慧電錶的數據網路的運行。"
+ ],
+ "words": [
+  {
+   "word": "handover",
+   "form": "handover",
+   "ipa": "hˈændoʊvɝ",
+   "freq": 0.33,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The transference of authority, control, power or knowledge from one agency to another, or from one state to another.",
+      "The information passed on in such a case.",
+      "The transfer of goods from the dealer to the purchaser, often of illegal goods."
+     ]
+    }
+   ],
+   "zh_main": "交出",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "交出",
+      "遞交",
+      "交待",
+      "交付",
+      "送交"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "The handover marks the end of a 13-year licence for Smart DCC, a subsidiary of Capita, after years of spiralling costs and delays"
+  },
+  {
+   "word": "subsidiary",
+   "form": "subsidiary",
+   "ipa": "sʌbsˈɪdiɛri",
+   "freq": 5.263,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Secondary or subordinate.",
+      "Auxiliary or supplemental.",
+      "Of or relating to a subsidy."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A company owned by a parent company or a holding company, also called daughter company or sister company.",
+      "One who aids or supplies; an assistant.",
+      "(music) A subordinate theme."
+     ]
+    }
+   ],
+   "zh_main": "子公司",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "附屬的"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "輔助者",
+      "附加物"
+     ]
+    }
+   ],
+   "synonyms": [
+    "subordinate",
+    "adjunct",
+    "auxiliary",
+    "ancillary",
+    "adjuvant"
+   ],
+   "sentence": "The handover marks the end of a 13-year licence for Smart DCC, a subsidiary of Capita, after years of spiralling costs and delays"
+  },
+  {
+   "word": "spiralling",
+   "form": "spiralling",
+   "ipa": "spˈaɪrʌɫɪŋ",
+   "freq": 0.217,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To move along the path of a spiral or helix.",
+      "(transitive) To cause something to spiral.",
+      "(figuratively, intransitive) To increase continually."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Movement in a spiral."
+     ]
+    }
+   ],
+   "zh_main": "螺旋式",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "鉤狀的"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "The handover marks the end of a 13-year licence for Smart DCC, a subsidiary of Capita, after years of spiralling costs and delays"
+  },
+  {
+   "word": "startup",
+   "form": "startup",
+   "ipa": "stˈɑrtʌp",
+   "freq": 1.32,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A new company or organization or business venture designed for rapid growth.",
+      "(computing, often capitalized) A folder (especially in Windows), containing shortcuts of applications or programs that start up automatically after a user signs in.",
+      "The act or process of starting a process or machine."
+     ]
+    }
+   ],
+   "zh_main": "啟動",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "產生",
+      "發動",
+      "發生"
+     ]
+    }
+   ],
+   "synonyms": [
+    "inauguration"
+   ],
+   "sentence": "Control over Great Britain’s 39m smart meters has passed to a non-profit startup after its former owner presided over more than a decade of spiralling costs and delays in the troubled network."
+  },
+  {
+   "word": "preside",
+   "form": "presided",
+   "ipa": "prɪzˈaɪd",
+   "freq": 1.008,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To act as president or chairperson.",
+      "(intransitive) To exercise authority or control.",
+      "(intransitive, music) To be a featured solo performer."
+     ]
+    }
+   ],
+   "zh_main": "主持",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "主持",
+      "任主席"
+     ]
+    }
+   ],
+   "synonyms": [
+    "chair"
+   ],
+   "sentence": "Control over Great Britain’s 39m smart meters has passed to a non-profit startup after its former owner presided over more than a decade of spiralling costs and delays in the troubled network."
+  },
+  {
+   "word": "outsourcing",
+   "form": "outsourcing",
+   "ipa": "aʊtsˈɔrsɪŋ",
+   "freq": 1.183,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(business, management) The transfer of a business function to an external service provider."
+     ]
+    }
+   ],
+   "zh_main": "外包",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "The company owned by crisis-hit outsourcing firm Capita has promised a “seamless transition” to its not-for-profit successor, which will take over running the data network connecting the smart meters from this week."
+  },
+  {
+   "word": "seamless",
+   "form": "seamless",
+   "ipa": "sˈimɫʌs",
+   "freq": 0.959,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Without interruption; coherent.",
+      "(not comparable) Having no seams."
+     ]
+    }
+   ],
+   "zh_main": "無縫的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "無縫"
+     ]
+    }
+   ],
+   "synonyms": [
+    "smooth",
+    "coherent",
+    "unseamed",
+    "broadloom",
+    "unlined"
+   ],
+   "sentence": "The company owned by crisis-hit outsourcing firm Capita has promised a “seamless transition” to its not-for-profit successor, which will take over running the data network connecting the smart meters from this week."
+  }
+ ],
+ "built": "2026-11-03T11:48+08:00"
+}
