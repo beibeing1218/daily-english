@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-11-04",
+  "weekday_zh": "三",
+  "cat": "tech",
+  "cat_zh": "科技",
+  "source": "Ars Technica",
+  "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+  "n_words": 7
+ },
+ {
   "date": "2026-11-03",
   "weekday_zh": "二",
   "cat": "business",

@@ -1,0 +1,240 @@
+{
+ "date": "2026-11-04",
+ "weekday": 2,
+ "weekday_zh": "三",
+ "cat": "tech",
+ "cat_zh": "科技",
+ "source": "Ars Technica",
+ "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+ "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+ "summary": [
+  "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+  "California is accepting $1.42 billion in broadband grant funding from the Trump administration, but the state is not accepting the Trump administration’s demand that it stop enforcing a net neutrality law and other telecom regulations.",
+  "California’s stand against the Trump administration could result in multiple legal battles involving the state, federal government, and Internet providers seeking government funds. Although California told the federal government it would accept the money, it is reserving the right to challenge the condition imposed by the US. The state could delay or cancel plans to distribute broadband grants depending on how the process unfolds."
+ ],
+ "summary_zh": [
+  "儘管拒絕川普的行政條件，該州仍試圖獲得寬頻資金。",
+  "加州正在接受川普政府提供的 14.2 億美元寬頻撥款資金，但該州沒有接受川普政府要求其停止執行網路中立法和其他電信法規的要求。",
+  "加州反對川普政府的立場可能會導致涉及州、聯邦政府和尋求政府資金的網路供應商的多起法律訴訟。儘管加州告訴聯邦政府它將接受這筆錢，但它保留質疑美國施加的條件的權利。該州可能會推遲或取消分配寬頻撥款的計劃，具體取決於進程的進展。"
+ ],
+ "words": [
+  {
+   "word": "broadband",
+   "form": "broadband",
+   "ipa": "brˈɔdbænd",
+   "freq": 1.192,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(telecommunications) Of, pertaining to, or carrying a wide band of electromagnetic frequencies"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(Internet) An Internet connection provisioned over an existing service using alternate signal frequencies such as ADSL or a cable modem.",
+      "(telecommunications) A wideband of electromagnetic frequencies."
+     ]
+    }
+   ],
+   "zh_main": "寬頻",
+   "zh": [],
+   "synonyms": [
+    "wideband"
+   ],
+   "sentence": "State tries to obtain broadband funds despite rejecting Trump admin condition."
+  },
+  {
+   "word": "admin",
+   "form": "admin",
+   "ipa": "ˈædmɪn",
+   "freq": 1.054,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(uncountable, informal) Administration, or administrative work.",
+      "(uncountable, informal) The administrative or managerial body of a company or other organization.",
+      "(countable, informal) An administration (a body that administers; the executive part of government)."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive, computing, informal) To serve as an administrator for or of."
+     ]
+    }
+   ],
+   "zh_main": "行政",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "State tries to obtain broadband funds despite rejecting Trump admin condition."
+  },
+  {
+   "word": "enforce",
+   "form": "enforcing",
+   "ipa": "ɛnfˈɔrs",
+   "freq": 6.436,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To keep up, impose or bring into effect something, not necessarily by force.",
+      "To give strength or force to; to affirm, to emphasize.",
+      "(obsolete) To compel, oblige (someone or something); to force."
+     ]
+    }
+   ],
+   "zh_main": "執行",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "執行",
+      "強制"
+     ]
+    }
+   ],
+   "synonyms": [
+    "apply",
+    "impose",
+    "implement"
+   ],
+   "sentence": "California is accepting $1.42 billion in broadband grant funding from the Trump administration, but the state is not accepting the Trump administration’s demand that it stop enforcing a net neutrality law and other telecom regulations."
+  },
+  {
+   "word": "neutrality",
+   "form": "neutrality",
+   "ipa": "nutrˈæɫʌti",
+   "freq": 4.854,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The state or quality of being neutral; the condition of being unengaged in contests between others; state of taking no part on either side.",
+      "(international law) The condition of a nation or government which refrains from taking part, directly or indirectly, in a war between other powers.",
+      "Those who are neutral; a combination of neutral powers or states."
+     ]
+    }
+   ],
+   "zh_main": "中立性",
+   "zh": [],
+   "synonyms": [
+    "disinterest"
+   ],
+   "sentence": "California is accepting $1.42 billion in broadband grant funding from the Trump administration, but the state is not accepting the Trump administration’s demand that it stop enforcing a net neutrality law and other telecom regulations."
+  },
+  {
+   "word": "telecom",
+   "form": "telecom",
+   "ipa": "tˈɛɫʌkɑm",
+   "freq": 1.002,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(informal) Telecommunication or telecommunications.",
+      "(informal) A telco (phone company) or telecom company."
+     ]
+    }
+   ],
+   "zh_main": "電信",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "California is accepting $1.42 billion in broadband grant funding from the Trump administration, but the state is not accepting the Trump administration’s demand that it stop enforcing a net neutrality law and other telecom regulations."
+  },
+  {
+   "word": "distribute",
+   "form": "distribute",
+   "ipa": "dɪstrˈɪbjut",
+   "freq": 4.482,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To divide into portions and dispense.",
+      "(transitive) To deliver or pass out.",
+      "(transitive) To supply to retail outlets."
+     ]
+    }
+   ],
+   "zh_main": "散佈",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "散佈",
+      "播散",
+      "發表",
+      "發佈",
+      "發行"
+     ]
+    }
+   ],
+   "synonyms": [
+    "disseminate",
+    "stagger",
+    "propagate",
+    "disperse",
+    "deal"
+   ],
+   "sentence": "The state could delay or cancel plans to distribute broadband grants depending on how the process unfolds."
+  },
+  {
+   "word": "unfold",
+   "form": "unfolds",
+   "ipa": "ʌnfˈoʊɫd",
+   "freq": 1.91,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(computing, programming) In functional programming, a kind of higher-order function that is the opposite of a fold."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To lay open to view or contemplation; to bring out in all the details, or by successive development; to reveal.",
+      "(intransitive) To turn out; to happen; to develop.",
+      "(transitive) To undo a folding."
+     ]
+    }
+   ],
+   "zh_main": "展開",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "展開",
+      "打開",
+      "開展",
+      "攤開"
+     ]
+    }
+   ],
+   "synonyms": [
+    "open",
+    "blossom",
+    "extend",
+    "stretch"
+   ],
+   "sentence": "The state could delay or cancel plans to distribute broadband grants depending on how the process unfolds."
+  }
+ ],
+ "built": "2026-11-04T10:52+08:00"
+}
