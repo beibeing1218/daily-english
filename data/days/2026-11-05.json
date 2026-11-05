@@ -1,0 +1,74 @@
+{
+ "date": "2026-11-05",
+ "weekday": 3,
+ "weekday_zh": "四",
+ "cat": "science",
+ "cat_zh": "科學／健康",
+ "source": "The Conversation",
+ "title": "Lula’s victory in the 2026 Brazilian elections was far from inevitable",
+ "url": "https://theconversation.com/lulas-victory-in-the-2026-brazilian-elections-was-far-from-inevitable-295930",
+ "summary": [
+  "First round result was a warning against complacency, but the runoof comeback does not resolve the structural tensions facing a fourth Lula administration.",
+  "On 25 October 2026, Brazil’s President Luiz Inácio Lula da Silva secured a fourth term in an election that exposed both the resilience of Brazilian democracy and the depth of the far right’s social roots. Lula received 51.79% of valid votes in the runoff against far-right candidate Flávio Bolsonaro’s 48.21%."
+ ],
+ "summary_zh": [
+  "第一輪結果是對自滿情緒的警告，但決勝的復出並不能解決第四屆盧拉政府面臨的結構性緊張局勢。",
+  "2026 年 10 月 25 日，巴西總統路易斯·伊納西奧·盧拉·達席爾瓦在選舉中獲得第四個任期，這暴露了巴西民主的韌性和極右翼社會根源的深度。盧拉在決選中獲得了 51.79% 的有效選票，而極右翼候選人弗拉維奧·博爾索納羅 (Flávio Bolsonaro) 則獲得了 48.21% 的有效選票。"
+ ],
+ "words": [
+  {
+   "word": "complacency",
+   "form": "complacency",
+   "ipa": "kʌmpɫˈeɪsʌnsi",
+   "freq": 1.385,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A feeling of contented self-satisfaction, especially when unaware of upcoming trouble.",
+      "An instance of self-satisfaction.",
+      "Passivity as a result of contentment with the current situation."
+     ]
+    }
+   ],
+   "zh_main": "自滿",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "自滿"
+     ]
+    }
+   ],
+   "synonyms": [
+    "complacence",
+    "self-complacency",
+    "self-satisfaction"
+   ],
+   "sentence": "First round result was a warning against complacency, but the runoof comeback does not resolve the structural tensions facing a fourth Lula administration."
+  },
+  {
+   "word": "lula",
+   "form": "Lula",
+   "ipa": "ɫˈuɫʌ",
+   "freq": 0.426,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A female given name.",
+      "Ellipsis of Luiz Inácio Lula da Silva."
+     ]
+    }
+   ],
+   "zh_main": "盧拉",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Lula received 51.79% of valid votes in the runoff against far-right candidate Flávio Bolsonaro’s 48.21%."
+  }
+ ],
+ "built": "2026-11-05T11:05+08:00"
+}
