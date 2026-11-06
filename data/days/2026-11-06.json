@@ -1,0 +1,288 @@
+{
+ "date": "2026-11-06",
+ "weekday": 4,
+ "weekday_zh": "五",
+ "cat": "environment",
+ "cat_zh": "環境／氣候",
+ "source": "Yale E360",
+ "title": "How This Year's Super El Niño Will Worsen Global Hunger",
+ "url": "https://e360.yale.edu/features/super-el-nino-agriculture",
+ "summary": [
+  "A monster El Niño is nearing its peak, deepening drought in many parts of the world. Coming as countries slash foreign aid and war chokes supplies of energy and fertilizer, the climate phenomenon could leave millions more people in vulnerable countries without enough to eat.",
+  "The world is now in the grip of a super El Niño: a Godzilla-sized version of a natural climate phenomenon that has already shriveled rivers, upended aquaculture, and flattened crops with drought. But the global organizations that keep an eye on food security are warning of even tougher times ahead."
+ ],
+ "summary_zh": [
+  "巨大的厄爾尼諾現象正接近頂峰，加劇了世界許多地區的乾旱。隨著各國削減對外援助以及戰爭阻礙能源和化肥供應，氣候現象可能導致脆弱國家的數百萬人吃不飽。",
+  "世界現在正遭受超級厄爾尼諾現象的影響：這是一種哥吉拉大小的自然氣候現象，已經導致河流乾涸、水產養殖業崩潰、農作物因乾旱而被夷為平地。但關注糧食安全的全球組織警告稱，未來的日子將更加艱難。"
+ ],
+ "words": [
+  {
+   "word": "deepening",
+   "form": "deepening",
+   "ipa": "dˈipʌnɪŋ",
+   "freq": 2.244,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To make deep or deeper",
+      "(transitive) To make darker or more intense; to darken",
+      "(transitive) To make more poignant or affecting; to increase in degree"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act of becoming deeper."
+     ]
+    }
+   ],
+   "zh_main": "深化",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "深化",
+      "加深",
+      "使 ... 強烈"
+     ]
+    }
+   ],
+   "synonyms": [
+    "gathering",
+    "thickening"
+   ],
+   "sentence": "A monster El Niño is nearing its peak, deepening drought in many parts of the world."
+  },
+  {
+   "word": "slash",
+   "form": "slash",
+   "ipa": "sɫˈæʃ",
+   "freq": 1.313,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A slashing action or motion:",
+      "A swift, broad cutting stroke, especially one made with an edged weapon or whip.",
+      "(sports) A wide striking motion made with an implement such as a cricket bat, hockey stick, or lacrosse stick."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To cut or attempt to cut, particularly:",
+      "To cut with a swift broad stroke of an edged weapon.",
+      "To produce a similar wound with a savage strike of a whip."
+     ]
+    },
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "defs": [
+      "Used to note the sound or action of a slash."
+     ]
+    }
+   ],
+   "zh_main": "削減",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "削減",
+      "砍痕",
+      "砍口"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "削減",
+      "割傷",
+      "砍擊",
+      "亂砍"
+     ]
+    }
+   ],
+   "synonyms": [
+    "stroke",
+    "trounce",
+    "gash",
+    "toss",
+    "lash"
+   ],
+   "sentence": "Coming as countries slash foreign aid and war chokes supplies of energy and fertilizer, the climate phenomenon could leave millions more people in vulnerable countries without enough to eat."
+  },
+  {
+   "word": "fertilizer",
+   "form": "fertilizer",
+   "ipa": "fˈɝtʌɫaɪzɝ",
+   "freq": 4.359,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A natural substance that is used to make the ground more suitable for growing plants.",
+      "(chemistry) A chemical compound created to have the same effect."
+     ]
+    }
+   ],
+   "zh_main": "肥料",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "肥料",
+      "化肥"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Coming as countries slash foreign aid and war chokes supplies of energy and fertilizer, the climate phenomenon could leave millions more people in vulnerable countries without enough to eat."
+  },
+  {
+   "word": "shriveled",
+   "form": "shriveled",
+   "ipa": "ʃrˈɪvʌɫd",
+   "freq": 0.347,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Wrinkled because the volume has reduced while the surface area of the outer layer has remained constant.",
+      "Collapsed in size."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To become wrinkled.",
+      "(intransitive) To collapse inward; to crumble.",
+      "(transitive) To draw into wrinkles."
+     ]
+    }
+   ],
+   "zh_main": "乾癟",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "乾癟",
+      "乾枯"
+     ]
+    }
+   ],
+   "synonyms": [
+    "lean",
+    "thin",
+    "dry",
+    "reduced",
+    "withered"
+   ],
+   "sentence": "The world is now in the grip of a super El Niño: a Godzilla-sized version of a natural climate phenomenon that has already shriveled rivers, upended aquaculture, and flattened crops with drought."
+  },
+  {
+   "word": "upended",
+   "form": "upended",
+   "ipa": "upˈɛndɪd",
+   "freq": 0.126,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "turned up on end"
+     ]
+    }
+   ],
+   "zh_main": "顛倒的",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "翻倒"
+     ]
+    }
+   ],
+   "synonyms": [
+    "perpendicular",
+    "vertical"
+   ],
+   "sentence": "The world is now in the grip of a super El Niño: a Godzilla-sized version of a natural climate phenomenon that has already shriveled rivers, upended aquaculture, and flattened crops with drought."
+  },
+  {
+   "word": "aquaculture",
+   "form": "aquaculture",
+   "ipa": "ˈækwʌkʌɫtʃɝ",
+   "freq": 1.043,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The cultivation of aquatic produce such as aquatic plants, fish, and other aquatic animals."
+     ]
+    }
+   ],
+   "zh_main": "水產養殖",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "The world is now in the grip of a super El Niño: a Godzilla-sized version of a natural climate phenomenon that has already shriveled rivers, upended aquaculture, and flattened crops with drought."
+  },
+  {
+   "word": "flattened",
+   "form": "flattened",
+   "ipa": "fɫˈætʌnd",
+   "freq": 3.244,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Made flat by something."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To make something flat or flatter.",
+      "(transitive) To knock down or lay low.",
+      "(reflexive) To press one's body tightly against a surface, such as a wall or floor, especially in order to avoid being seen or harmed."
+     ]
+    }
+   ],
+   "zh_main": "壓扁的",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "打倒",
+      "弄平"
+     ]
+    }
+   ],
+   "synonyms": [
+    "planar",
+    "planate",
+    "two-dimensional"
+   ],
+   "sentence": "The world is now in the grip of a super El Niño: a Godzilla-sized version of a natural climate phenomenon that has already shriveled rivers, upended aquaculture, and flattened crops with drought."
+  }
+ ],
+ "built": "2026-11-06T11:05+08:00"
+}
