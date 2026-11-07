@@ -1,0 +1,232 @@
+{
+ "date": "2026-11-07",
+ "weekday": 5,
+ "weekday_zh": "六",
+ "cat": "culture",
+ "cat_zh": "文化／藝術",
+ "source": "The Guardian",
+ "title": "‘He left the world in ruins’: the author who defied the Taliban and burning tyres to tell Alexander the Great’s epic story",
+ "url": "https://www.theguardian.com/books/2026/nov/06/taliban-alexander-the-great-baillie-gifford-edmund-richardson",
+ "summary": [
+  "He is the most powerful ruler ever – and his first biographer was crucified. What drew Edmund Richardson, winner of the £50,000 Baillie Gifford prize, to his short tumultuous life?",
+  "He was the most powerful man in the world but he was brought down by one battle too many after a decade at the top. The story of Alexander the Great might be more than 2,000 years old, but it seems timely that a new biography of the ancient ruler won the Baillie Gifford prize for nonfiction just as President Trump took a battering in the US midterms. “This is a moment,” says its author Edmund Richardson, “where people are finding that there are limits to what unlimited wealth and power can do, and that humanity catches up with you, whether you like it or not. Alexander wants to transform the world – and he leaves it in ruins.”"
+ ],
+ "summary_zh": [
+  "他是有史以來最強大的統治者——他的第一位傳記作者被釘在十字架上。是什麼讓埃德蒙·理查森（Edmund Richardson）這位價值 50,000 英鎊的貝利·吉福德獎 (Baillie Gifford) 的獲得者經歷了他短暫而動蕩的一生？",
+  "他是世界上最有權勢的人，但在巔峰十年後，他卻被一場太多的戰鬥打倒了。亞歷山大大帝的故事可能已有 2000 多年的歷史，但正當川普總統在美國中期選舉中遭受重創之際，這位古代統治者的新傳記贏得了貝利·吉福德非小說類小說獎，這似乎是及時的。 “這是一個時刻，”該書的作者埃德蒙·理查森說，“人們發現無限的財富和權力所能做的事情是有限的，無論你喜歡與否，人類都會追上你。亞歷山大想要改變世界——但他卻把世界變成了廢墟。”"
+ ],
+ "words": [
+  {
+   "word": "biographer",
+   "form": "biographer",
+   "ipa": "baɪˈɑgrʌfɝ",
+   "freq": 1.76,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The writer of a biography; a professional writer of biographies."
+     ]
+    }
+   ],
+   "zh_main": "傳記作家",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "He is the most powerful ruler ever – and his first biographer was crucified."
+  },
+  {
+   "word": "crucified",
+   "form": "crucified",
+   "ipa": "krˈusʌfaɪd",
+   "freq": 1.849,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "that has been subject to crucifixion"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(hyperbolic) To punish or otherwise express extreme anger at, especially as a scapegoat or target of outrage.",
+      "(hyperbolic, informal, sports) To thoroughly beat at a sport or game.",
+      "To execute (a person) by nailing to a cross."
+     ]
+    }
+   ],
+   "zh_main": "釘在十字架上",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "釘死",
+      "使苦惱"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "He is the most powerful ruler ever – and his first biographer was crucified."
+  },
+  {
+   "word": "tumultuous",
+   "form": "tumultuous",
+   "ipa": "tumˈʌɫtʃuʌs",
+   "freq": 1.001,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Causing or characterized by tumult; chaotic, disorderly, turbulent.",
+      "Characterized by loud, confused noise."
+     ]
+    }
+   ],
+   "zh_main": "喧鬧的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "嘈",
+      "洶"
+     ]
+    }
+   ],
+   "synonyms": [
+    "turbulent",
+    "riotous",
+    "troubled",
+    "unquiet",
+    "disruptive"
+   ],
+   "sentence": "What drew Edmund Richardson, winner of the £50,000 Baillie Gifford prize, to his short tumultuous life?"
+  },
+  {
+   "word": "nonfiction",
+   "form": "nonfiction",
+   "ipa": "nɑnfˈɪkʃʌn",
+   "freq": 1.39,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Written works intended to give facts, or true accounts of real things and events. Often used attributively."
+     ]
+    }
+   ],
+   "zh_main": "非小說類",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "The story of Alexander the Great might be more than 2,000 years old, but it seems timely that a new biography of the ancient ruler won the Baillie Gifford prize for nonfiction just as President Trump took a battering in the US midterms."
+  },
+  {
+   "word": "battering",
+   "form": "battering",
+   "ipa": "bˈætɝɪŋ",
+   "freq": 0.942,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To hit or strike violently and repeatedly.",
+      "(cooking) To coat with batter (the food ingredient).",
+      "(figurative) To defeat soundly; to thrash."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A heavy beating.",
+      "A large defeat.",
+      "(dated) Domestic violence"
+     ]
+    }
+   ],
+   "zh_main": "毆打",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "連擊"
+     ]
+    }
+   ],
+   "synonyms": [
+    "banging"
+   ],
+   "sentence": "The story of Alexander the Great might be more than 2,000 years old, but it seems timely that a new biography of the ancient ruler won the Baillie Gifford prize for nonfiction just as President Trump took a battering in the US midterms."
+  },
+  {
+   "word": "midterm",
+   "form": "midterms",
+   "ipa": "mˈɪdtɝm",
+   "freq": 0.316,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Halfway through a term, or roughly so."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(education) A midterm school exam (i.e., halfway through the term).",
+      "(politics) A midterm election."
+     ]
+    }
+   ],
+   "zh_main": "期中考",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "The story of Alexander the Great might be more than 2,000 years old, but it seems timely that a new biography of the ancient ruler won the Baillie Gifford prize for nonfiction just as President Trump took a battering in the US midterms."
+  },
+  {
+   "word": "unlimited",
+   "form": "unlimited",
+   "ipa": "ʌnɫˈɪmʌtʌd",
+   "freq": 5.738,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "limitless or without bounds; unrestricted"
+     ]
+    }
+   ],
+   "zh_main": "無限",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "無限",
+      "廣大無邊的"
+     ]
+    }
+   ],
+   "synonyms": [
+    "limitless",
+    "infinite",
+    "bottomless",
+    "outright",
+    "inexhaustible"
+   ],
+   "sentence": "“This is a moment,” says its author Edmund Richardson, “where people are finding that there are limits to what unlimited wealth and power can do, and that humanity catches up with you, whether you like it or not."
+  }
+ ],
+ "built": "2026-11-07T10:30+08:00"
+}
