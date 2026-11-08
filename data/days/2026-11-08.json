@@ -1,0 +1,185 @@
+{
+ "date": "2026-11-08",
+ "weekday": 6,
+ "weekday_zh": "日",
+ "cat": "opinion",
+ "cat_zh": "評論",
+ "source": "The Guardian",
+ "title": "The PM’s small measures aim to help the public take back control – and we know how powerful that can be | Gaby Hinsliff",
+ "url": "https://www.theguardian.com/commentisfree/2026/nov/07/andy-burnham-take-control-small-measures-ebikes",
+ "summary": [
+  "E-bikes, noisy headphones, flytipping: Burnham is weighing in on areas that make a difference to how people feel about life, says Guardian columnist Gaby Hinsliff",
+  "Imagine waking up one morning to find a humiliating video of you, filmed without your knowledge or control, plastered all over social media. Maybe you were sweating at the gym; or maybe at work, in a bar, or walking down the street, where you never realised the stranger hassling you for your number was covertly filming for his social media channel dedicated to shaming women who won’t date him."
+ ],
+ "summary_zh": [
+  "電動自行車、吵鬧的耳機、非法傾倒垃圾：《衛報》專欄作家加比·欣斯利夫 (Gaby Hinsliff) 表示，伯納姆正在權衡那些能夠改變人們對生活的感受的領域",
+  "想像一下，有一天早上醒來，發現一段關於你的羞辱性視頻，該視頻是在你不知情或無法控制的情況下拍攝的，並貼在社交媒體上。也許你在健身房揮汗如雨；或者也許是在工作中、在酒吧里，或者走在街上，你從來沒有意識到那個向你索要電話號碼的陌生人正在秘密拍攝他的社交媒體頻道，該頻道致力於羞辱那些不會與他約會的女性。"
+ ],
+ "words": [
+  {
+   "word": "headphones",
+   "form": "headphones",
+   "ipa": "hˈɛdfoʊnz",
+   "freq": 0.449,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A pair of cushioned speakers worn over or in the ears so only the wearer can hear the sound.",
+      "(specifically) A pair of cushioned speakers worn over or on the ears."
+     ]
+    }
+   ],
+   "zh_main": "耳機",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "聽筒",
+      "頭戴耳機",
+      "頭戴受話器"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "E-bikes, noisy headphones, flytipping: Burnham is weighing in on areas that make a difference to how people feel about life, says Guardian columnist Gaby Hinsliff"
+  },
+  {
+   "word": "flytipping",
+   "form": "flytipping",
+   "ipa": "fɫˈaɪtˈɪpɪŋ",
+   "freq": 0.0,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "Alternative form of fly-tipping, present participle and gerund of flytip"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Alternative form of fly-tipping. [(British) The illegal dumping of rubbish on unauthorised sites.]"
+     ]
+    }
+   ],
+   "zh_main": "非法傾倒",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "E-bikes, noisy headphones, flytipping: Burnham is weighing in on areas that make a difference to how people feel about life, says Guardian columnist Gaby Hinsliff"
+  },
+  {
+   "word": "plastered",
+   "form": "plastered",
+   "ipa": "pɫˈæstɝd",
+   "freq": 1.107,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(slang) Drunk, intoxicated.",
+      "Coated with plaster."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To cover or coat something with plaster; to render.",
+      "(transitive) To apply a plaster to.",
+      "(transitive) To smear with some viscous or liquid substance."
+     ]
+    }
+   ],
+   "zh_main": "抹灰的",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "粘貼"
+     ]
+    }
+   ],
+   "synonyms": [
+    "besotted",
+    "stiff",
+    "wet",
+    "inebriated",
+    "intoxicated"
+   ],
+   "sentence": "Imagine waking up one morning to find a humiliating video of you, filmed without your knowledge or control, plastered all over social media."
+  },
+  {
+   "word": "hassling",
+   "form": "hassling",
+   "ipa": "hˈæsʌɫɪŋ",
+   "freq": 0.057,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To trouble, to bother, to annoy.",
+      "(transitive) To pick a fight or start an argument with.",
+      "(transitive) To work through something troublesome; to be bothered by."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The act of one who hassles; harassment."
+     ]
+    }
+   ],
+   "zh_main": "麻煩",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "爭論"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Maybe you were sweating at the gym; or maybe at work, in a bar, or walking down the street, where you never realised the stranger hassling you for your number was covertly filming for his social media channel dedicated to shaming women who won’t date him."
+  },
+  {
+   "word": "covertly",
+   "form": "covertly",
+   "ipa": "koʊvˈɝtɫi",
+   "freq": 0.618,
+   "meanings": [
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "defs": [
+      "In a covert manner, secretly."
+     ]
+    }
+   ],
+   "zh_main": "隱蔽",
+   "zh": [
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "terms": [
+      "隱蔽",
+      "偷偷",
+      "偷偷摸摸"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Maybe you were sweating at the gym; or maybe at work, in a bar, or walking down the street, where you never realised the stranger hassling you for your number was covertly filming for his social media channel dedicated to shaming women who won’t date him."
+  }
+ ],
+ "built": "2026-11-08T10:01+08:00"
+}
