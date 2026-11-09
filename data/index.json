@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-11-09",
+  "weekday_zh": "一",
+  "cat": "world",
+  "cat_zh": "政治／國際",
+  "source": "The Guardian",
+  "title": "Collision of two trains in Egypt kills at least seven",
+  "n_words": 3
+ },
+ {
   "date": "2026-11-08",
   "weekday_zh": "日",
   "cat": "opinion",

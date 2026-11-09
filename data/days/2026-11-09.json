@@ -1,0 +1,165 @@
+{
+ "date": "2026-11-09",
+ "weekday": 0,
+ "weekday_zh": "一",
+ "cat": "world",
+ "cat_zh": "政治／國際",
+ "source": "The Guardian",
+ "title": "Collision of two trains in Egypt kills at least seven",
+ "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+ "summary": [
+  "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo",
+  "Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said.",
+  "The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train travelling to Fayoum province crashed into the rear of a train heading to the southern province of Aswan, according to the transport ministry."
+ ],
+ "summary_zh": [
+  "距離開羅約 50 公里的艾亞特一列火車發生碰撞脫軌，總統下令立即調查",
+  "官員稱，週日兩列火車在埃及首都開羅以南相撞，造成 7 人死亡、至少 125 人受傷。",
+  "據交通部稱，事故發生在開羅以南約50公里（30英里）的吉薩省艾亞特地區，當時一列開往法尤姆省的火車與開往南部阿斯旺省的火車尾部相撞。"
+ ],
+ "words": [
+  {
+   "word": "prompt",
+   "form": "prompt",
+   "ipa": "prˈɑmpt",
+   "freq": 7.617,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Quick; acting without delay.",
+      "On time; punctual.",
+      "(finance) Front: closest or nearest, in futures trading."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A reminder or cue.",
+      "(writing) A suggestion for inspiration given to an author.",
+      "(computing) A sequence of characters that is displayed to indicate that a computer is ready to receive input."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To initiate; to cause or lead to.",
+      "(transitive) To lead (someone) toward what they should say or do.",
+      "(transitive) To say (something) in order to help or encourage someone to speak."
+     ]
+    }
+   ],
+   "zh_main": "迅速的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "迅速",
+      "劻勷",
+      "立刻",
+      "塽利",
+      "翛然"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "付款期限",
+      "提示"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "促使",
+      "驅使",
+      "竦勵",
+      "提示"
+     ]
+    }
+   ],
+   "synonyms": [
+    "incite",
+    "propel",
+    "instigate",
+    "expeditious",
+    "efficient"
+   ],
+   "sentence": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo"
+  },
+  {
+   "word": "derail",
+   "form": "derails",
+   "ipa": "dɪrˈeɪɫ",
+   "freq": 0.233,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An instance of diverting a conversation or debate from its original topic.",
+      "Synonym of derailer: A device placed on railway tracks in order to cause a train to derail."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To cause to come off the tracks.",
+      "(intransitive) To come off the tracks.",
+      "(intransitive, figurative) To deviate from the previous course or direction."
+     ]
+    }
+   ],
+   "zh_main": "出軌",
+   "zh": [],
+   "synonyms": [
+    "jump"
+   ],
+   "sentence": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo"
+  },
+  {
+   "word": "collide",
+   "form": "collided",
+   "ipa": "kʌɫˈaɪd",
+   "freq": 0.841,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To impact directly, especially if violent.",
+      "(intransitive) To come into conflict, or be incompatible.",
+      "(transitive) To cause to collide."
+     ]
+    }
+   ],
+   "zh_main": "碰撞",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "碰撞",
+      "衝撞",
+      "抵觸",
+      "相碰",
+      "相撞"
+     ]
+    }
+   ],
+   "synonyms": [
+    "clash",
+    "jar"
+   ],
+   "sentence": "Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said."
+  }
+ ],
+ "built": "2026-11-09T10:20+08:00"
+}
