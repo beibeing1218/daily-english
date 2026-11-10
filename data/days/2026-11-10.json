@@ -1,0 +1,133 @@
+{
+ "date": "2026-11-10",
+ "weekday": 1,
+ "weekday_zh": "二",
+ "cat": "business",
+ "cat_zh": "商業／經濟",
+ "source": "The Guardian",
+ "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+ "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+ "summary": [
+  "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair, as Trump says FBI ‘is looking into it’",
+  "Donald Trump, Elon Musk and prominent finance moguls have expressed their support for embattled Nvidia CEO Jensen Huang, as the head of the world’s most valuable chip company faces an internal investigation over a romantic relationship with an alleged Chinese spy.",
+  "Trump said he has spoken to Huang on Monday as the scandal reverberated across Silicon Valley and the Nvidia CEO faced an uncertain future."
+ ],
+ "summary_zh": [
+  "伊隆馬斯克和其他金融大亨在黃仁勳承認婚外情后為其辯護，川普稱聯邦調查局“正在調查此事”",
+  "唐納德·川普 (Donald Trump)、埃隆·馬斯克 (Elon Musk) 和著名金融大亨都表達了對陷入困境的英偉達 (Nvidia) 首席執行官黃仁勳 (Jensen Huang) 的支持，因為這家全球最有價值的芯片公司的負責人因與一名涉嫌中國間諜的戀情而面臨內部調查。",
+  "川普表示，他週一已與黃仁勳進行了交談，因為醜聞在矽谷引起了軒然大波，而英偉達首席執行官面臨著不確定的未來。"
+ ],
+ "words": [
+  {
+   "word": "mogul",
+   "form": "moguls",
+   "ipa": "mˈoʊgʌɫ",
+   "freq": 0.531,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A census-designated place in Washoe County, Nevada, United States.",
+      "(rail transport) A steam locomotive of the 2-6-0 wheel arrangement.",
+      "A rich or powerful person; a magnate, nabob."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(skiing) To ski over a course of humps or bumps."
+     ]
+    }
+   ],
+   "zh_main": "大亨",
+   "zh": [],
+   "synonyms": [
+    "power",
+    "magnate",
+    "baron",
+    "king",
+    "moghul"
+   ],
+   "sentence": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair, as Trump says FBI ‘is looking into it’"
+  },
+  {
+   "word": "embattled",
+   "form": "embattled",
+   "ipa": "ɛmbˈætʌɫd",
+   "freq": 0.577,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(figuratively) Subject to or troubled by attacks, controversy, or pressure.",
+      "Armed or prepared for battle (literally or figuratively).",
+      "Of a place: occupied or surrounded by armed troops (also figuratively)."
+     ]
+    }
+   ],
+   "zh_main": "陷入困境",
+   "zh": [],
+   "synonyms": [
+    "fancy",
+    "insecure",
+    "prepared",
+    "unsafe",
+    "indented"
+   ],
+   "sentence": "Donald Trump, Elon Musk and prominent finance moguls have expressed their support for embattled Nvidia CEO Jensen Huang, as the head of the world’s most valuable chip company faces an internal investigation over a romantic relationship with an alleged Chinese spy."
+  },
+  {
+   "word": "reverberate",
+   "form": "reverberated",
+   "ipa": "rɪvˈɝbɝʌt",
+   "freq": 0.252,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) Of sound: to (repeatedly) bounce against one or more surfaces; to echo or re-echo, to resound.",
+      "(intransitive) Chiefly followed by to or with: of a place or thing: to ring or vibrate with many echoing sounds; to re-echo, to resound.",
+      "(intransitive) (figurative) Of information, news, etc.: to be spread widely through repetition."
+     ]
+    },
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Synonym of reverberant (“that tends to reverberate (“(repeatedly) bounce against one or more surfaces”) or has reverberated”); re-echoed.",
+      "(rare) Ringing or vibrating with many echoing sounds; re-echoing, resounding, reverberating."
+     ]
+    }
+   ],
+   "zh_main": "迴響",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "回響",
+      "繞梁"
+     ]
+    },
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "回響的"
+     ]
+    }
+   ],
+   "synonyms": [
+    "ring",
+    "resound",
+    "echo"
+   ],
+   "sentence": "Trump said he has spoken to Huang on Monday as the scandal reverberated across Silicon Valley and the Nvidia CEO faced an uncertain future."
+  }
+ ],
+ "built": "2026-11-10T12:28+08:00"
+}
