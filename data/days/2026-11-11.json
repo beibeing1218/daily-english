@@ -1,0 +1,104 @@
+{
+ "date": "2026-11-11",
+ "weekday": 2,
+ "weekday_zh": "三",
+ "cat": "tech",
+ "cat_zh": "科技",
+ "source": "Ars Technica",
+ "title": "Seagate's new hybrid drive raises some old questions",
+ "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+ "summary": [
+  "The FireCuda Forge revisits an old idea, with some familiar questions.",
+  "Seagate doesn’t think hybrid drives are done just yet. On Tuesday, the company announced the launch of the new FireCuda Forge line of storage drives. The new drives combine the high capacity of a traditional plattered HDD with the speed and responsiveness of a user-supplied solid-state drive (SSD). The new hybrid storage solution is Seagate’s first to be powered and managed by the new Alkemi intelligent storage platform."
+ ],
+ "summary_zh": [
+  "FireCuda Forge 重新審視了一個舊的想法，並提出了一些熟悉的問題。",
+  "希捷認為混合硬碟尚未完成。週二，該公司宣布推出新的 FireCuda Forge 系列儲存裝置。新驅動器將傳統碟片 HDD 的高容量與用戶提供的固態硬碟 (SSD) 的速度和響應能力結合在一起。新的混合儲存解決方案是希捷首個由新的 Alkemi 智慧儲存平台提供支援和管理的解決方案。"
+ ],
+ "words": [
+  {
+   "word": "revisit",
+   "form": "revisits",
+   "ipa": "rivˈɪzɪt",
+   "freq": 0.788,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An act of revisiting; a second or subsequent visit."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To visit again.",
+      "(transitive) To reconsider or reexperience something."
+     ]
+    }
+   ],
+   "zh_main": "重溫",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "The FireCuda Forge revisits an old idea, with some familiar questions."
+  },
+  {
+   "word": "platter",
+   "form": "plattered",
+   "ipa": "pɫˈætɝ",
+   "freq": 1.145,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A tray for serving foods.",
+      "A main dish and side dishes served together on one plate.",
+      "The hard surface of a turntable on which a gramophone record rests when being played."
+     ]
+    }
+   ],
+   "zh_main": "拼盤",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "編織者",
+      "大盤子"
+     ]
+    }
+   ],
+   "synonyms": [
+    "disc",
+    "disk",
+    "record"
+   ],
+   "sentence": "The new drives combine the high capacity of a traditional plattered HDD with the speed and responsiveness of a user-supplied solid-state drive (SSD)."
+  },
+  {
+   "word": "responsiveness",
+   "form": "responsiveness",
+   "ipa": "rɪspˈɑnsɪvnʌs",
+   "freq": 3.461,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The quality or state of being responsive.",
+      "The ability of a machine to adjust to external influences."
+     ]
+    }
+   ],
+   "zh_main": "反應能力",
+   "zh": [],
+   "synonyms": [
+    "reactivity"
+   ],
+   "sentence": "The new drives combine the high capacity of a traditional plattered HDD with the speed and responsiveness of a user-supplied solid-state drive (SSD)."
+  }
+ ],
+ "built": "2026-11-11T10:29+08:00"
+}

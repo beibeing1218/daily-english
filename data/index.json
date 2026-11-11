@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-11-11",
+  "weekday_zh": "三",
+  "cat": "tech",
+  "cat_zh": "科技",
+  "source": "Ars Technica",
+  "title": "Seagate's new hybrid drive raises some old questions",
+  "n_words": 3
+ },
+ {
   "date": "2026-11-10",
   "weekday_zh": "二",
   "cat": "business",
