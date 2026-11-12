@@ -1,0 +1,192 @@
+{
+ "date": "2026-11-12",
+ "weekday": 3,
+ "weekday_zh": "四",
+ "cat": "science",
+ "cat_zh": "科學／健康",
+ "source": "The Conversation",
+ "title": "El Salvador is exporting the ‘Bukele model’ to Haiti – but the gang offensive is a gamble for both nations",
+ "url": "https://theconversation.com/el-salvador-is-exporting-the-bukele-model-to-haiti-but-the-gang-offensive-is-a-gamble-for-both-nations-296390",
+ "summary": [
+  "Haiti’s war on gangs is increasingly relying on a patchwork of foreign troops and private militias, making accountability more complicated.",
+  "On Nov. 10, 2026, El Salvador President Nayib Bukele posted footage of attack helicopters firing on a compound near Haiti’s capital, Port-au-Prince.",
+  "He had earlier requested, via a social media post in Haitian Creole, the address of Wilson Joseph, leader of the 400 Mawozo gang, one of Haiti’s most powerful criminal organizations. Bukele subsequently claimed the operation, conducted with Haitian police, had demolished Joseph’s residence and gang headquarters. As many as 20 people were killed, although Joseph was reportedly absent."
+ ],
+ "summary_zh": [
+  "海地的打擊幫派戰爭越來越依賴外國軍隊和私人民兵的拼湊，這使得問責變得更加複雜。",
+  "2026 年 11 月 10 日，薩爾瓦多總統納伊布·布克萊發布了攻擊直升機向海地首都太子港附近的一處院落開火的鏡頭。",
+  "早些時候，他透過海地克里奧爾語社群媒體貼文索取了海地最強大的犯罪組織之一 400 Mawozo 幫派頭目威爾森·約瑟夫 (Wilson Joseph) 的地址。布克萊隨後聲稱，這次與海地警方合作的行動摧毀了約瑟夫的住所和幫派總部。據報道，儘管約瑟夫缺席，但仍有多達 20 人被殺。"
+ ],
+ "words": [
+  {
+   "word": "haiti",
+   "form": "Haiti",
+   "ipa": "hˈeɪti",
+   "freq": 2.678,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A country in the Caribbean. Official name: Republic of Haiti.",
+      "(obsolete) Synonym of Hispaniola."
+     ]
+    }
+   ],
+   "zh_main": "海地",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "海地"
+     ]
+    }
+   ],
+   "synonyms": [
+    "hayti",
+    "hispaniola"
+   ],
+   "sentence": "Haiti’s war on gangs is increasingly relying on a patchwork of foreign troops and private militias, making accountability more complicated."
+  },
+  {
+   "word": "patchwork",
+   "form": "patchwork",
+   "ipa": "pˈætʃwɝk",
+   "freq": 0.857,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A work, such as a blanket, composed of many different colors and shapes, sewn together to make an interesting whole.",
+      "(figurative) Any kind of creation that makes use of many different aspects to create one whole piece.",
+      "(derogatory) A state of regulations whose constituents have an opaque scope of application because of their questionable delimitation with regard to each other."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To assemble from a variety of sources; to cobble together.",
+      "(transitive) To create a patchwork from pieces of fabric."
+     ]
+    }
+   ],
+   "zh_main": "拼湊而成",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "補綴品",
+      "拼湊物"
+     ]
+    }
+   ],
+   "synonyms": [
+    "hodgepodge",
+    "jumble"
+   ],
+   "sentence": "Haiti’s war on gangs is increasingly relying on a patchwork of foreign troops and private militias, making accountability more complicated."
+  },
+  {
+   "word": "militia",
+   "form": "militias",
+   "ipa": "mʌɫˈɪʃʌ",
+   "freq": 5.468,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An army of trained civilians, which may be an official reserve army, called upon in time of need, the entire able-bodied population of a state which may also be called upon, or a private force not under government control.",
+      "Synonym of militsia: the national police force of certain countries (e.g. Belarus)."
+     ]
+    }
+   ],
+   "zh_main": "民兵",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "民兵"
+     ]
+    }
+   ],
+   "synonyms": [
+    "reserves"
+   ],
+   "sentence": "Haiti’s war on gangs is increasingly relying on a patchwork of foreign troops and private militias, making accountability more complicated."
+  },
+  {
+   "word": "accountability",
+   "form": "accountability",
+   "ipa": "ʌkˈaʊntʌbɪɫɪti",
+   "freq": 6.15,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The state of being accountable; liability to be called on to render an account or give an explanation; liability to be held responsible or answerable for something.",
+      "An open determination of one's responsibility for something and imposition of consequences.",
+      "An acceptance of good faith of one's responsibility for something and of its consequences."
+     ]
+    }
+   ],
+   "zh_main": "問責制",
+   "zh": [],
+   "synonyms": [
+    "answerability",
+    "answerableness"
+   ],
+   "sentence": "Haiti’s war on gangs is increasingly relying on a patchwork of foreign troops and private militias, making accountability more complicated."
+  },
+  {
+   "word": "demolished",
+   "form": "demolished",
+   "ipa": "dɪmˈɑɫɪʃt",
+   "freq": 2.076,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "torn down and broken up"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(literally) To destroy (buildings, etc.), especially in a planned or intentional fashion.",
+      "(figuratively) To defeat, refute, discredit, or consume utterly (as a theory, belief or opponent).",
+      "To devour; to eat up"
+     ]
+    }
+   ],
+   "zh_main": "被拆毀",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "爆破",
+      "拆除",
+      "拆燬",
+      "搗毀"
+     ]
+    }
+   ],
+   "synonyms": [
+    "destroyed",
+    "razed",
+    "dismantled"
+   ],
+   "sentence": "Bukele subsequently claimed the operation, conducted with Haitian police, had demolished Joseph’s residence and gang headquarters."
+  }
+ ],
+ "built": "2026-11-12T11:34+08:00"
+}
