@@ -1,0 +1,405 @@
+{
+ "date": "2026-11-13",
+ "weekday": 4,
+ "weekday_zh": "五",
+ "cat": "environment",
+ "cat_zh": "環境／氣候",
+ "source": "Yale E360",
+ "title": "Power Shift: State Election Wins Open Path for Climate Progress",
+ "url": "https://e360.yale.edu/features/2026-midterm-elections-states-environment",
+ "summary": [
+  "In the U.S. midterm elections, Democrats won control of governorships and state legislatures across the country. At a time of public outcry over data centers and rising electricity costs, incoming leaders will have a mandate to rein in polluters, constrain utilities, and advance clean energy.",
+  "After their sweeping victories in the midterm elections, Democrats will control both houses of Congress, meaning they will be able to shape the budget, conduct vigorous oversight and investigations, and refuse to confirm nominees for judgeships and other high positions — but their power will be limited. Any ambitious new bill to tackle climate change, for example, will face President Trump’s veto pen."
+ ],
+ "summary_zh": [
+  "在美國中期選舉中，民主黨贏得了全國州長和州議會的控制權。在公眾對資料中心和電力成本不斷上漲的強烈抗議之際，即將上任的領導人將有責任控制污染企業、限制公用事業並推動清潔能源發展。",
+  "在中期選舉中取得壓倒性勝利後，民主黨將控制國會參眾兩院，這意味著他們將能夠制定預算、進行強有力的監督和調查，並拒絕確認法官和其他高級職位的提名——但他們的權力將受到限制。例如，任何雄心勃勃的應對氣候變遷的新法案都將面臨川普總統的否決權。"
+ ],
+ "words": [
+  {
+   "word": "governorship",
+   "form": "governorships",
+   "ipa": "gˈʌvɝnɝʃɪp",
+   "freq": 0.773,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The office, or the term of a governor."
+     ]
+    }
+   ],
+   "zh_main": "總督職位",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "In the U.S. midterm elections, Democrats won control of governorships and state legislatures across the country."
+  },
+  {
+   "word": "outcry",
+   "form": "outcry",
+   "ipa": "ˈaʊtkraɪ",
+   "freq": 1.107,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(countable, uncountable) A loud cry or uproar.",
+      "(figuratively) A strong protest.",
+      "(India, archaic, countable, uncountable) An auction."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To cry out.",
+      "(transitive) To cry louder than."
+     ]
+    }
+   ],
+   "zh_main": "強烈抗議",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "叫喊"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "喊叫",
+      "啼哭"
+     ]
+    }
+   ],
+   "synonyms": [
+    "call",
+    "cry",
+    "exclaim",
+    "shout",
+    "yell"
+   ],
+   "sentence": "At a time of public outcry over data centers and rising electricity costs, incoming leaders will have a mandate to rein in polluters, constrain utilities, and advance clean energy."
+  },
+  {
+   "word": "mandate",
+   "form": "mandate",
+   "ipa": "mˈændeɪt",
+   "freq": 5.438,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An official or authoritative command; an order or injunction; a commission; a judicial precept; an authorization.",
+      "(politics) The order or authority to do something, as granted to a politician by the electorate.",
+      "(Canada) A period during which a government is in power."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To (officially) require someone to do something or act in a certain way, to give them the authority to do so; to command.",
+      "To make mandatory.",
+      "To administer or assign a territory to a nation under a mandate."
+     ]
+    }
+   ],
+   "zh_main": "授權",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "命令",
+      "要求"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "委任統治"
+     ]
+    }
+   ],
+   "synonyms": [
+    "territory",
+    "authorization",
+    "colony",
+    "dominion",
+    "province"
+   ],
+   "sentence": "At a time of public outcry over data centers and rising electricity costs, incoming leaders will have a mandate to rein in polluters, constrain utilities, and advance clean energy."
+  },
+  {
+   "word": "rein",
+   "form": "rein",
+   "ipa": "rˈeɪn",
+   "freq": 1.738,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A strap or rope attached to a bridle or bit, used to control a horse, animal or young child.",
+      "(figurative) An instrument or means of curbing, restraining, or governing.",
+      "The inward impulses; the affections and passions, formerly supposed to be located in the area of the kidneys."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To direct or stop a horse by using reins.",
+      "(transitive) To restrain; to control; to check.",
+      "(intransitive) To obey directions given with the reins."
+     ]
+    }
+   ],
+   "zh_main": "韁繩",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "韁繩"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "韁繩"
+     ]
+    }
+   ],
+   "synonyms": [
+    "rule",
+    "harness"
+   ],
+   "sentence": "At a time of public outcry over data centers and rising electricity costs, incoming leaders will have a mandate to rein in polluters, constrain utilities, and advance clean energy."
+  },
+  {
+   "word": "polluter",
+   "form": "polluters",
+   "ipa": "pʌɫˈutɝ",
+   "freq": 0.209,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A subject that pollutes, be it a person, company, country, factory or another subject."
+     ]
+    }
+   ],
+   "zh_main": "污染者",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "At a time of public outcry over data centers and rising electricity costs, incoming leaders will have a mandate to rein in polluters, constrain utilities, and advance clean energy."
+  },
+  {
+   "word": "constrain",
+   "form": "constrain",
+   "ipa": "kʌnstrˈeɪn",
+   "freq": 1.486,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To keep within close bounds; to confine.",
+      "(transitive) To force physically, by strong persuasion or pressuring; to compel; to oblige.",
+      "(transitive) To reduce a result in response to limited resources."
+     ]
+    }
+   ],
+   "zh_main": "約束",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "逼勒",
+      "逼迫",
+      "拘束",
+      "壓迫",
+      "壓抑"
+     ]
+    }
+   ],
+   "synonyms": [
+    "restrain",
+    "encumber",
+    "tighten",
+    "cumber",
+    "stiffen"
+   ],
+   "sentence": "At a time of public outcry over data centers and rising electricity costs, incoming leaders will have a mandate to rein in polluters, constrain utilities, and advance clean energy."
+  },
+  {
+   "word": "utilities",
+   "form": "utilities",
+   "ipa": "jutˈɪɫʌtiz",
+   "freq": 5.662,
+   "meanings": [
+    {
+     "pos": "N",
+     "pos_zh": "N",
+     "defs": [
+      "a 1983 Canadian comedy film directed by Harvey Hart and starring Robert Hays and Brooke Adams."
+     ]
+    }
+   ],
+   "zh_main": "公用事業",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "裨補",
+      "裨益",
+      "公益事業",
+      "效用"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "At a time of public outcry over data centers and rising electricity costs, incoming leaders will have a mandate to rein in polluters, constrain utilities, and advance clean energy."
+  },
+  {
+   "word": "oversight",
+   "form": "oversight",
+   "ipa": "ˈoʊvɝsaɪt",
+   "freq": 2.452,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Supervision or management.",
+      "An omission; something that is left out, missed, or forgotten.",
+      "Overview."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive, nonstandard) To oversee; to supervise.",
+      "(Internet, transitive, Wikimedia jargon) To suppress content in a way that removes or minimizes its visibility or viewability."
+     ]
+    }
+   ],
+   "zh_main": "監督",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "過失",
+      "疏忽",
+      "小錯"
+     ]
+    }
+   ],
+   "synonyms": [
+    "lapse",
+    "inadvertence",
+    "supervision",
+    "superintendence",
+    "supervising"
+   ],
+   "sentence": "After their sweeping victories in the midterm elections, Democrats will control both houses of Congress, meaning they will be able to shape the budget, conduct vigorous oversight and investigations, and refuse to confirm nominees for judgeships and other high positions — but their power will be limited."
+  },
+  {
+   "word": "judgeship",
+   "form": "judgeships",
+   "ipa": "dʒˈʌdʒʃɪp",
+   "freq": 0.136,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The office or status of a judge."
+     ]
+    }
+   ],
+   "zh_main": "法官職位",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "法官的地位"
+     ]
+    }
+   ],
+   "synonyms": [
+    "judicature",
+    "judgship"
+   ],
+   "sentence": "After their sweeping victories in the midterm elections, Democrats will control both houses of Congress, meaning they will be able to shape the budget, conduct vigorous oversight and investigations, and refuse to confirm nominees for judgeships and other high positions — but their power will be limited."
+  },
+  {
+   "word": "veto",
+   "form": "veto",
+   "ipa": "vˈitoʊ",
+   "freq": 3.259,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A political right to disapprove of (and thereby stop) the process of a decision, a law etc.",
+      "An invocation of that right.",
+      "An authoritative prohibition or negative; a forbidding; an interdiction."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To use a veto against.",
+      "(transitive) To countermand."
+     ]
+    }
+   ],
+   "zh_main": "否決",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "否決",
+      "禁令"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "否決"
+     ]
+    }
+   ],
+   "synonyms": [
+    "forbid",
+    "proscribe",
+    "prohibit",
+    "interdict",
+    "disallow"
+   ],
+   "sentence": "Any ambitious new bill to tackle climate change, for example, will face President Trump’s veto pen."
+  }
+ ],
+ "built": "2026-11-13T11:06+08:00"
+}
