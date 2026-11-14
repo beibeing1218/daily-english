@@ -1,0 +1,300 @@
+{
+ "date": "2026-11-14",
+ "weekday": 5,
+ "weekday_zh": "六",
+ "cat": "culture",
+ "cat_zh": "文化／藝術",
+ "source": "The Guardian",
+ "title": "‘You can’t train to be chucked in a box full of rats!’ Ade Adepitan on fear, facing down sharks and being I’m a Celeb’s first wheelchair user",
+ "url": "https://www.theguardian.com/tv-and-radio/2026/nov/13/ade-adepitan-interview-braving-the-jungle-in-im-a-celebrity-get-me-out-of-here",
+ "summary": [
+  "His upcoming appearance on I’m a Celebrity, Get Me Out of Here! is already causing a huge stir. As he heads to Australia, the paralympian talks leeches, evil taxis – and snakes round his nether regions",
+  "‘If you spend enough time in the TV industry, at some point you’re going to end up in the jungle, eating animal genitalia, with Ant and Dec watching you!”",
+  "Paralympic medallist and TV presenter Ade Adepitan is in the building, and he’s ready to cause a stir. The 53-year-old is set to become the first wheelchair user on I’m a Celebrity, Get Me Out of Here!. His participation has already ignited a social media maelstrom, drawing ableist ire – from accusations of “cheating” due to the jungle being adapted for him to outright crowing that a disabled person should not be on a primetime show as it is ostensibly “box-ticking”."
+ ],
+ "summary_zh": [
+  "他即將演出《我是名人，帶我離開這裡！ 》已經引起了巨大的轟動。當這位殘奧運動員前往澳洲時，他談到了水蛭、邪惡的計程車以及他下體周圍的蛇",
+  "「如果你在電視行業花了足夠的時間，在某個時候你最終會進入叢林，吃動物生殖器，而 Ant 和 Dec 會看著你！”",
+  "殘奧會獎牌得主兼電視節目主持人阿德·阿德皮坦就在大樓裡，他已經準備好引起轟動。這位 53 歲的老人將成為《我是名人，帶我離開這裡！ 》中的第一位輪椅使用者。他的參與已經在社交媒體上引發了一場軒然大波，引起了殘疾人主義者的憤怒——從因為叢林為他而改造而被指控“作弊”，到直言不諱地宣稱殘疾人不應該出現在黃金時段的節目中，因為這表面上是“打勾”。"
+ ],
+ "words": [
+  {
+   "word": "paralympian",
+   "form": "paralympian",
+   "ipa": "pɛrʌɫˈɪmpiʌn",
+   "freq": 0.001,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Of or pertaining to the Paralympic Games; Paralympic.",
+      "Of or pertaining to a Paralympian (“one who competes in the Paralympic Games”)."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(sports) One who competes in the Paralympic Games."
+     ]
+    }
+   ],
+   "zh_main": "殘奧會運動員",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "As he heads to Australia, the paralympian talks leeches, evil taxis – and snakes round his nether regions"
+  },
+  {
+   "word": "leeching",
+   "form": "leeches",
+   "ipa": "ɫˈitʃɪŋ",
+   "freq": 0.029,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A medical treatment using leeches."
+     ]
+    }
+   ],
+   "zh_main": "水蛭",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "As he heads to Australia, the paralympian talks leeches, evil taxis – and snakes round his nether regions"
+  },
+  {
+   "word": "nether",
+   "form": "nether",
+   "ipa": "nˈɛðɝ",
+   "freq": 0.513,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Lower; under.",
+      "Lying beneath, or conceived as lying beneath, the Earth’s surface."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(UK dialectal, Scotland) Oppression; stress; a withering or stunting influence.",
+      "(mining) A trouble; a fault or dislocation in a seam of coal.",
+      "(Minecraft) A dangerous, hell-like underworld dimension in the game Minecraft, accessed via an obsidian portal, filled with lava, unique mobs, and resources."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive, UK dialectal, Northern England, Scotland) To bring or thrust down; bring or make low; lower; abase; humble.",
+      "(transitive, UK dialectal, Northern England, Scotland) To constrict; straiten; confine; restrict; suppress; lay low; keep under; press in upon; vex; harass; oppress.",
+      "(transitive, UK dialectal, Scotland) To pinch or stunt with cold or hunger; check in growth; shrivel; straiten."
+     ]
+    }
+   ],
+   "zh_main": "下界",
+   "zh": [],
+   "synonyms": [
+    "infernal",
+    "low",
+    "chthonian",
+    "lower",
+    "chthonic"
+   ],
+   "sentence": "As he heads to Australia, the paralympian talks leeches, evil taxis – and snakes round his nether regions"
+  },
+  {
+   "word": "genitalia",
+   "form": "genitalia",
+   "ipa": "dʒɛnʌtˈɑɫjʌ",
+   "freq": 1.344,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "External sex organs.",
+      "(by extension) Any sex organs, whether external or internal; body parts responsible for sexual reproduction or sexual stimulation."
+     ]
+    }
+   ],
+   "zh_main": "生殖器",
+   "zh": [],
+   "synonyms": [
+    "crotch",
+    "genitals",
+    "privates"
+   ],
+   "sentence": "‘If you spend enough time in the TV industry, at some point you’re going to end up in the jungle, eating animal genitalia, with Ant and Dec watching you!”"
+  },
+  {
+   "word": "medallist",
+   "form": "medallist",
+   "ipa": "mʌdˈæɫʌst",
+   "freq": 0.046,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(UK) Alternative spelling of medalist. [An engraver, designer or maker of medals.]"
+     ]
+    }
+   ],
+   "zh_main": "獎牌得主",
+   "zh": [],
+   "synonyms": [
+    "medalist"
+   ],
+   "sentence": "Paralympic medallist and TV presenter Ade Adepitan is in the building, and he’s ready to cause a stir."
+  },
+  {
+   "word": "presenter",
+   "form": "presenter",
+   "ipa": "prˈɛzʌntɝ",
+   "freq": 0.533,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(radio, television) Someone who presents a broadcast programme; a compere or master of ceremonies.",
+      "Someone who presents a thing or person to someone else.",
+      "(computing) A small handheld device used to remotely control a computerised slide show."
+     ]
+    }
+   ],
+   "zh_main": "主持人",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "呈獻者",
+      "議長"
+     ]
+    }
+   ],
+   "synonyms": [
+    "donor",
+    "giver"
+   ],
+   "sentence": "Paralympic medallist and TV presenter Ade Adepitan is in the building, and he’s ready to cause a stir."
+  },
+  {
+   "word": "ignited",
+   "form": "ignited",
+   "ipa": "ɪgnˈaɪtɪd",
+   "freq": 1.171,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "set afire"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) to set fire to (something), to light (something)",
+      "(transitive) to spark off (something), to trigger",
+      "(intransitive) to commence burning."
+     ]
+    }
+   ],
+   "zh_main": "點燃",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "著"
+     ]
+    }
+   ],
+   "synonyms": [
+    "enkindled",
+    "kindled",
+    "lighted",
+    "lit"
+   ],
+   "sentence": "His participation has already ignited a social media maelstrom, drawing ableist ire – from accusations of “cheating” due to the jungle being adapted for him to outright crowing that a disabled person should not be on a primetime show as it is ostensibly “box-ticking”."
+  },
+  {
+   "word": "maelstrom",
+   "form": "maelstrom",
+   "ipa": "mˈeɪɫstrʌm",
+   "freq": 0.343,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(figuratively) A chaotic or turbulent situation.",
+      "A large and violent whirlpool."
+     ]
+    }
+   ],
+   "zh_main": "漩渦",
+   "zh": [],
+   "synonyms": [
+    "vortex",
+    "whirlpool"
+   ],
+   "sentence": "His participation has already ignited a social media maelstrom, drawing ableist ire – from accusations of “cheating” due to the jungle being adapted for him to outright crowing that a disabled person should not be on a primetime show as it is ostensibly “box-ticking”."
+  },
+  {
+   "word": "ableist",
+   "form": "ableist",
+   "ipa": "ˈeɪbɫˈaɪst",
+   "freq": 0.005,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Exhibiting or relating to ableism."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "One who exhibits ableism, or prejudice against the disabled."
+     ]
+    }
+   ],
+   "zh_main": "體能主義者",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "His participation has already ignited a social media maelstrom, drawing ableist ire – from accusations of “cheating” due to the jungle being adapted for him to outright crowing that a disabled person should not be on a primetime show as it is ostensibly “box-ticking”."
+  },
+  {
+   "word": "primetime",
+   "form": "primetime",
+   "ipa": "prˈaɪmtaɪm",
+   "freq": 0.082,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Alternative form of prime time. [(television, radio) Showing or broadcasting during prime time.]"
+     ]
+    }
+   ],
+   "zh_main": "黃金時段",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "His participation has already ignited a social media maelstrom, drawing ableist ire – from accusations of “cheating” due to the jungle being adapted for him to outright crowing that a disabled person should not be on a primetime show as it is ostensibly “box-ticking”."
+  }
+ ],
+ "built": "2026-11-14T10:53+08:00"
+}
