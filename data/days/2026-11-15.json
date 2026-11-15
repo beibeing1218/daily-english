@@ -1,0 +1,221 @@
+{
+ "date": "2026-11-15",
+ "weekday": 6,
+ "weekday_zh": "日",
+ "cat": "opinion",
+ "cat_zh": "評論",
+ "source": "The Guardian",
+ "title": "I saw how brightly stars like Russell Brand could shine, but there is darkness in the shadows | Sophie Heawood",
+ "url": "https://www.theguardian.com/commentisfree/2026/nov/14/stars-russell-brand-darkness-celebrity-interviews-fame",
+ "summary": [
+  "After years of celebrity interviews, I have learned not to be fooled by the allure of fame. We never really know them – we know what they want us to know, says feature writer and commentator Sophie Heawood",
+  "As I sat in Southwark crown court, listening to the final day of Russell Brand’s trial, there was one subject that came up repeatedly, invoked as often by his defence as the prosecution. I don’t mean sex or coercion, but fame. It ran through every victim impact statement and loomed so large in the courtroom that it felt as if it was almost on trial itself."
+ ],
+ "summary_zh": [
+  "經過多年的名人採訪，我學會了不要被名氣的誘惑所迷惑。我們從來沒有真正了解他們——我們知道他們想讓我們知道什麼，特稿作家兼評論員索菲·希伍德說",
+  "當我坐在南華克刑事法庭，聆聽拉塞爾·布蘭德最後一天的審判時，有一個主題反覆出現，他的辯方和控方都經常提到這個話題。我指的不是性或強迫，而是名譽。它貫穿了每一份受害者影響陳述，並在法庭上顯得如此重要，以至於感覺就像是在審判本身一樣。"
+ ],
+ "words": [
+  {
+   "word": "allure",
+   "form": "allure",
+   "ipa": "ʌɫˈʊr",
+   "freq": 0.685,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The power to attract, entice; the quality causing attraction.",
+      "The walkway along the top of a castle wall, sometimes entirely covered and normally behind a parapet; the wall walk.",
+      "(dated) Gait; bearing."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To entice; to attract."
+     ]
+    }
+   ],
+   "zh_main": "引誘",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "引誘",
+      "誘惑"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "勾引"
+     ]
+    }
+   ],
+   "synonyms": [
+    "tempt",
+    "allurement",
+    "temptingness"
+   ],
+   "sentence": "After years of celebrity interviews, I have learned not to be fooled by the allure of fame."
+  },
+  {
+   "word": "commentator",
+   "form": "commentator",
+   "ipa": "kˈɑmʌnteɪtɝ",
+   "freq": 1.693,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(media, sports) A person who provides an instantaneous description of a public event, particularly a sporting event, for a mass media audience.",
+      "(media) A person who provides analysis or opinion on current events, especially for a mass media audience.",
+      "A person who makes a commentary, particularly"
+     ]
+    }
+   ],
+   "zh_main": "評論員",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "評論員"
+     ]
+    }
+   ],
+   "synonyms": [
+    "observer",
+    "reviewer"
+   ],
+   "sentence": "We never really know them – we know what they want us to know, says feature writer and commentator Sophie Heawood"
+  },
+  {
+   "word": "invoke",
+   "form": "invoked",
+   "ipa": "ɪnvˈoʊk",
+   "freq": 3.176,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To call upon (a person, a god) for help, assistance or guidance.",
+      "(transitive) To solicit, petition for, appeal to a favorable attitude.",
+      "(transitive) To appeal for validation to a (notably cited) authority."
+     ]
+    }
+   ],
+   "zh_main": "呼叫",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "呼吁",
+      "吁求"
+     ]
+    }
+   ],
+   "synonyms": [
+    "conjure",
+    "stir",
+    "arouse",
+    "raise",
+    "appeal"
+   ],
+   "sentence": "As I sat in Southwark crown court, listening to the final day of Russell Brand’s trial, there was one subject that came up repeatedly, invoked as often by his defence as the prosecution."
+  },
+  {
+   "word": "coercion",
+   "form": "coercion",
+   "ipa": "koʊˈɝʃʌn",
+   "freq": 3.692,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(uncountable) Actual or threatened force for the purpose of compelling action by another person; the act of coercing.",
+      "(law, uncountable) Use of physical or moral force to compel a person to do something, or to abstain from doing something, thereby depriving that person of the exercise of free will.",
+      "(countable) A specific instance of coercing."
+     ]
+    }
+   ],
+   "zh_main": "強迫",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "強迫",
+      "控制",
+      "壓迫",
+      "制止"
+     ]
+    }
+   ],
+   "synonyms": [
+    "compulsion"
+   ],
+   "sentence": "I don’t mean sex or coercion, but fame."
+  },
+  {
+   "word": "loom",
+   "form": "loomed",
+   "ipa": "ɫˈum",
+   "freq": 2.209,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To appear indistinctly, e.g. when seen on the horizon or through the murk.",
+      "(figurative) To appear in an exaggerated or threatening form; (of a person or thing) to tower; (of an idea) to impressively or intimidatingly occupy the mind; (of an event) to be imminent.",
+      "(figurative) To rise and to be eminent; to be elevated or ennobled, in a moral sense."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A frame or machine of wood or other material, in which a weaver forms cloth out of thread; a machine for interweaving yarn or threads into a fabric, as in knitting or lace making.",
+      "A distorted appearance of something as seen indistinctly or from afar.",
+      "A utensil; tool; a weapon; (usually in compound) an article in general."
+     ]
+    }
+   ],
+   "zh_main": "織布機",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "嶢"
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "織布機"
+     ]
+    }
+   ],
+   "synonyms": [
+    "brood",
+    "hover",
+    "tower",
+    "hulk"
+   ],
+   "sentence": "It ran through every victim impact statement and loomed so large in the courtroom that it felt as if it was almost on trial itself."
+  }
+ ],
+ "built": "2026-11-15T10:21+08:00"
+}
