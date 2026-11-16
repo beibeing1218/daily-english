@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-16",
+ "weekday": 0,
+ "weekday_zh": "一",
+ "cat": "world",
+ "cat_zh": "政治／國際",
+ "source": "The Guardian",
+ "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+ "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+ "summary": [
+  "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’",
+  "The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation.",
+  "Kundizeza’s story The Blue Fighter, which charts the declining fortunes of a family after the father invests in fish tanks, was announced as the winner of the £10,000 prize on 6 October."
+ ],
+ "summary_zh": [
+  "經過一個月的調查，得出的結論是，昆迪澤扎獲得 10,000 英鎊凱恩獎的小說《藍色鬥士》是“人寫的”",
+  "久負盛名的非洲作家凱恩獎經過一個月的調查後得出結論，津巴布韋作家辛巴拉什·昆迪澤薩 (Simbarashe Kundizeza) 的作品是“人類撰寫的”，因此被取消使用人工智能撰寫獲獎短篇小說的資格。",
+  "昆迪澤扎的小說《藍色鬥士》講述了一個家庭在父親投資魚缸後財富不斷下降的故事，該小說於 10 月 6 日被宣佈為 10,000 英鎊獎金的獲獎者。"
+ ],
+ "words": [
+  {
+   "word": "prestigious",
+   "form": "prestigious",
+   "ipa": "prɛstˈɪdʒʌs",
+   "freq": 2.588,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Of high prestige."
+     ]
+    }
+   ],
+   "zh_main": "享有盛譽的",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "聲望很高的"
+     ]
+    }
+   ],
+   "synonyms": [
+    "reputable",
+    "influential",
+    "esteemed",
+    "honored"
+   ],
+   "sentence": "The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation."
+  }
+ ],
+ "built": "2026-11-16T10:32+08:00"
+}
