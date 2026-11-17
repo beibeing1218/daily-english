@@ -1,0 +1,112 @@
+{
+ "date": "2026-11-17",
+ "weekday": 1,
+ "weekday_zh": "二",
+ "cat": "business",
+ "cat_zh": "商業／經濟",
+ "source": "The Guardian",
+ "title": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
+ "url": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment",
+ "summary": [
+  "Report on Britain’s youth jobs crisis calls for welfare, education, health and employment policy shake-up",
+  "Andy Burnham is being urged to spend billions of pounds on a “new deal” for the next generation that would fund guaranteed jobs support for young people to offset a radical cut in benefits.",
+  "In a watershed report on Britain’s youth jobs crisis, Alan Milburn, the Tony Blair-era health secretary, said the country was at a “fork in the road” after a surge in the number of young people not in education, employment or training (Neet) to almost a million."
+ ],
+ "summary_zh": [
+  "英國青年就業危機報告呼籲改革福利、教育、健康和就業政策",
+  "安迪·伯納姆（Andy Burnham）被敦促花費數十億英鎊為下一代製定一項“新協議”，為年輕人提供有保障的就業支持，以抵消福利的大幅削減。",
+  "托尼·布萊爾(Tony Blair)時代的衛生部長艾倫·米爾本(Alan Milburn)在一份關於英國青年就業危機的分水嶺報告中表示，在未接受教育、就業或培訓的年輕人(Neet)人數激增至近百萬之後，英國正處於“岔路口”。"
+ ],
+ "words": [
+  {
+   "word": "watershed",
+   "form": "watershed",
+   "ipa": "wˈɔtɝʃɛd",
+   "freq": 2.755,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Serving to mark a significant development, change in direction, etc."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(hydrology, US, Canada) A region of land within which water flows down into a specified body, such as a river, lake, sea, or ocean; a drainage basin.",
+      "(hydrology, UK, Ireland, Australia, New Zealand) The topographical boundary dividing two adjacent catchment basins, such as a ridge or a crest.",
+      "(figurative) A critical point marking a change in course or development."
+     ]
+    }
+   ],
+   "zh_main": "分水嶺",
+   "zh": [],
+   "synonyms": [
+    "divide"
+   ],
+   "sentence": "In a watershed report on Britain’s youth jobs crisis, Alan Milburn, the Tony Blair-era health secretary, said the country was at a “fork in the road” after a surge in the number of young people not in education, employment or training (Neet) to almost a million."
+  },
+  {
+   "word": "surge",
+   "form": "surge",
+   "ipa": "sˈɝdʒ",
+   "freq": 3.762,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A sudden transient rush, flood or increase.",
+      "(electricity) A sudden electrical spike or increase of voltage and current.",
+      "The maximum amplitude of a vehicle's forward/backward oscillation."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To rush, flood, or increase suddenly.",
+      "To accelerate forwards, particularly suddenly.",
+      "(intransitive, aviation, of a jet engine) To experience a momentary reversal of airflow through the compressor section due to disruption of intake airflow."
+     ]
+    }
+   ],
+   "zh_main": "湧",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "波蕩",
+      "波瀾",
+      "波浪",
+      "波濤",
+      "大浪"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "湧",
+      "波蕩",
+      "波動",
+      "放松",
+      "激蕩"
+     ]
+    }
+   ],
+   "synonyms": [
+    "heave",
+    "rush",
+    "spate",
+    "upsurge",
+    "soar"
+   ],
+   "sentence": "In a watershed report on Britain’s youth jobs crisis, Alan Milburn, the Tony Blair-era health secretary, said the country was at a “fork in the road” after a surge in the number of young people not in education, employment or training (Neet) to almost a million."
+  }
+ ],
+ "built": "2026-11-17T12:56+08:00"
+}
