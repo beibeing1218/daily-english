@@ -1,0 +1,207 @@
+{
+ "date": "2026-11-18",
+ "weekday": 2,
+ "weekday_zh": "三",
+ "cat": "tech",
+ "cat_zh": "科技",
+ "source": "Ars Technica",
+ "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+ "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+ "summary": [
+  "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+  "Opening the keynote at its Ignite event, Microsoft CEO Satya Nadella outlined the company’s vision for its new “frontier ecosystem,” announcing Tuesday the general availability of Word, Excel, and PowerPoint inside Copilot, which he described as “the new OS for work.”",
+  "The announcement is a striking inversion of how we’ve traditionally used software. Rather than an app like Word being the attraction and Clippy the assistant to help you use it, Microsoft envisions the new Copilot integrations will see agents driving things, with the software packages riding shotgun. Applications will become plugin components of the agent’s work, backed by an organizational knowledge layer that draws context from emails, meetings, calendars, chats, and files. Users will now be able to create documents, spreadsheets, and presentations directly in Copilot, with the resulting files remaining editable in their respective Office applications."
+ ],
+ "summary_zh": [
+  "Word、Excel 和 PowerPoint 現在位於 Copilot 中；接下來是永遠在線的代理。",
+  "微軟執行長 Satya Nadella 在 Ignite 活動上發表主題演講，概述了該公司對其新「前沿生態系統」的願景，並於週二宣佈在 Copilot 中全面提供 Word、Excel 和 PowerPoint，他將其描述為「新的工作作業系統」。",
+  "這項聲明與我們傳統上使用軟體的方式發生了驚人的逆轉。微軟設想，新的 Copilot 整合將讓代理商透過軟體包來駕駛事物，而不是像 Word 這樣的應用程式吸引人們的注意力，而 Clippy 則是幫助您使用它的助手。應用程式將成為代理程式工作的插件元件，並由組織知識層提供支持，該知識層從電子郵件、會議、日曆、聊天和文件中提取上下文。使用者現在可以直接在 Copilot 中建立文件、電子表格和演示文稿，生成的文件在各自的 Office 應用程式中仍然可編輯。"
+ ],
+ "words": [
+  {
+   "word": "keynote",
+   "form": "keynote",
+   "ipa": "kˈinoʊt",
+   "freq": 0.938,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A speech that sets the main theme of a conference or other gathering; a keynote speech or keynote address.",
+      "The main theme of a speech, a written work, or a conference.",
+      "(music) The note on which a musical key is based; the tonic."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To deliver a speech that sets the main theme of a conference or other gathering."
+     ]
+    }
+   ],
+   "zh_main": "基調",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "基調"
+     ]
+    }
+   ],
+   "synonyms": [
+    "tonic"
+   ],
+   "sentence": "Opening the keynote at its Ignite event, Microsoft CEO Satya Nadella outlined the company’s vision for its new “frontier ecosystem,” announcing Tuesday the general availability of Word, Excel, and PowerPoint inside Copilot, which he described as “the new OS for work.”"
+  },
+  {
+   "word": "ecosystem",
+   "form": "ecosystem",
+   "ipa": "ˈikoʊsɪstʌm",
+   "freq": 3.881,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A system formed by an ecological community and its environment that functions as a unit.",
+      "The interconnectedness of organisms (plants, animals, microbes) with each other and their environment.",
+      "(by extension) A network of interconnected people, organizations, products or services that resembles a natural ecosystem due to the complex interdependencies."
+     ]
+    }
+   ],
+   "zh_main": "生態系統",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Opening the keynote at its Ignite event, Microsoft CEO Satya Nadella outlined the company’s vision for its new “frontier ecosystem,” announcing Tuesday the general availability of Word, Excel, and PowerPoint inside Copilot, which he described as “the new OS for work.”"
+  },
+  {
+   "word": "inversion",
+   "form": "inversion",
+   "ipa": "ɪnvˈɝʒʌn",
+   "freq": 4.396,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The action of inverting.",
+      "The act of being in an inverted state; being upside down, inside out, or in a reverse sequence.",
+      "(music) The reversal of an interval; the move of one pitch in an interval up or down an octave."
+     ]
+    }
+   ],
+   "zh_main": "反轉",
+   "zh": [],
+   "synonyms": [
+    "anastrophe",
+    "eversion",
+    "upending",
+    "everting"
+   ],
+   "sentence": "The announcement is a striking inversion of how we’ve traditionally used software."
+  },
+  {
+   "word": "envision",
+   "form": "envisions",
+   "ipa": "ɛnvˈɪʒʌn",
+   "freq": 1.313,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To conceive or see something within one's mind. To imagine."
+     ]
+    }
+   ],
+   "zh_main": "設想",
+   "zh": [],
+   "synonyms": [
+    "fancy",
+    "project",
+    "see",
+    "figure",
+    "image"
+   ],
+   "sentence": "Rather than an app like Word being the attraction and Clippy the assistant to help you use it, Microsoft envisions the new Copilot integrations will see agents driving things, with the software packages riding shotgun."
+  },
+  {
+   "word": "plugin",
+   "form": "plugin",
+   "ipa": "pɫˈʌgɪn",
+   "freq": 0.127,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Alternative spelling of plug-in. [Anything that plugs into something.]"
+     ]
+    }
+   ],
+   "zh_main": "外掛",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "插入"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Applications will become plugin components of the agent’s work, backed by an organizational knowledge layer that draws context from emails, meetings, calendars, chats, and files."
+  },
+  {
+   "word": "spreadsheet",
+   "form": "spreadsheets",
+   "ipa": "sprˈɛdʃit",
+   "freq": 1.808,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(computing) A computer application for organization, analysis, and storage of data in tabular form.",
+      "A document created with such an application.",
+      "(dated) A sheet of paper, marked with a grid, in which financial data is recorded and totals calculated manually."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To model or compute by means of a spreadsheet."
+     ]
+    }
+   ],
+   "zh_main": "試算表",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Users will now be able to create documents, spreadsheets, and presentations directly in Copilot, with the resulting files remaining editable in their respective Office applications."
+  },
+  {
+   "word": "editable",
+   "form": "editable",
+   "ipa": "ˈɛdʌtʌbʌɫ",
+   "freq": 0.228,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Capable of being edited."
+     ]
+    }
+   ],
+   "zh_main": "可編輯的",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Users will now be able to create documents, spreadsheets, and presentations directly in Copilot, with the resulting files remaining editable in their respective Office applications."
+  }
+ ],
+ "built": "2026-11-18T11:59+08:00"
+}
