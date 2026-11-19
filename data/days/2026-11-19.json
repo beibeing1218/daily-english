@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-19",
+ "weekday": 3,
+ "weekday_zh": "四",
+ "cat": "science",
+ "cat_zh": "科學／健康",
+ "source": "The Conversation",
+ "title": "Beijing has three priorities at the Shenzhen summit – a China expert explains",
+ "url": "https://theconversation.com/beijing-has-three-priorities-at-the-shenzhen-summit-a-china-expert-explains-296734",
+ "summary": [
+  "The Apec summit offers a window into what China hopes to achieve on the international stage as well as the world it perceives itself in.",
+  "China is hosting the Asia-Pacific Economic Cooperation (Apec) summit for the third time in the past 25 years. The gathering in Shenzhen will see the leaders of the US, China and Russia sit down together for a formal three-way meeting for the first time in history.",
+  "But what does China want from the summit? I see it as having three main priorities. First is to consolidate its position as one of the world’s most important diplomatic hubs. Second is to set out its vision for a new global order."
+ ],
+ "summary_zh": [
+  "亞太經合組織高峰會為了解中國希望在國際舞台上實現什麼以及中國對自己所處的世界的看法提供了一個窗口。",
+  "這是中國25年來第三次主辦亞太經合組織（APEC）高峰會。這次在深圳舉行的會議將是美國、中國和俄羅斯領導人歷史上首次坐在一起進行正式的三方會議。",
+  "但中方想從這次高峰會得到什麼？我認為它有三個主要優先事項。首先是鞏固其作為世界最重要外交中心之一的地位。其次是提出全球新秩序的願景。"
+ ],
+ "words": [
+  {
+   "word": "consolidate",
+   "form": "consolidate",
+   "ipa": "kʌnsˈɑɫɪdeɪt",
+   "freq": 2.352,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(obsolete) Formed into a solid mass; made firm; consolidated."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(ambitransitive) To combine into a single unit; to group together or join.",
+      "To make stronger or more solid.",
+      "(finance) With respect to debt, to pay off several debts with a single loan."
+     ]
+    }
+   ],
+   "zh_main": "鞏固",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "鞏故",
+      "站住"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "First is to consolidate its position as one of the world’s most important diplomatic hubs."
+  },
+  {
+   "word": "hubs",
+   "form": "hubs",
+   "ipa": "hˈʌbz",
+   "freq": 0.576,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(slang, as a term of endearment) Husband."
+     ]
+    }
+   ],
+   "zh_main": "樞紐",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "樞紐",
+      "中心",
+      "中轉站"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "First is to consolidate its position as one of the world’s most important diplomatic hubs."
+  }
+ ],
+ "built": "2026-11-19T11:57+08:00"
+}
