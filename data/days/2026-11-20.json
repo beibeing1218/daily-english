@@ -1,0 +1,251 @@
+{
+ "date": "2026-11-20",
+ "weekday": 4,
+ "weekday_zh": "五",
+ "cat": "environment",
+ "cat_zh": "環境／氣候",
+ "source": "Yale E360",
+ "title": "Troubled Waters: Lake Victoria Faces an Ecological Reckoning",
+ "url": "https://e360.yale.edu/features/lake-victoria-photo-essay",
+ "summary": [
+  "The largest tropical lake on Earth, Africa's Lake Victoria is under enormous strain, with its waters contaminated, fisheries decimated, and shorelines drowning. The losses have spurred renewed calls to protect the lake, which supports more than 45 million people across the region.",
+  "The largest tropical lake on Earth, Africa’s Lake Victoria is under enormous strain, with its waters contaminated, fisheries decimated, and shorelines drowning. The losses have spurred renewed calls to protect the lake, which supports more than 45 million people across the region.",
+  "Lake Victoria, the largest tropical lake on Earth, is under enormous strain as overfishing, pollution, and a changing climate are decimating its fisheries, contaminating its waters, and bringing record floods to its shores. The losses have spurred renewed calls to protect the lake, whose basin supports more than 45 million people across the region."
+ ],
+ "summary_zh": [
+  "非洲維多利亞湖是地球上最大的熱帶湖泊，正面臨巨大的壓力，其水域受到污染，漁業遭到破壞，海岸線被淹沒。這些損失再次引發了保護該湖的呼聲，該湖養活了該地區超過 4500 萬人。",
+  "非洲維多利亞湖是地球上最大的熱帶湖泊，正面臨巨大的壓力，其水域受到污染，漁業遭到破壞，海岸線被淹沒。這些損失再次引發了保護該湖的呼聲，該湖養活了該地區超過 4500 萬人。",
+  "維多利亞湖是地球上最大的熱帶湖泊，由於過度捕撈、污染和氣候變遷正在摧毀其漁業，污染其水域，並給其海岸帶來創紀錄的洪水，因此它承受著巨大的壓力。這些損失再次引發了保護該湖的呼聲，該湖盆地養活了該地區超過 4500 萬人。"
+ ],
+ "words": [
+  {
+   "word": "contaminated",
+   "form": "contaminated",
+   "ipa": "kʌntˈæmʌneɪtʌd",
+   "freq": 5.203,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "made unfit for use by the introduction of unwholesome or undesirable elements.",
+      "adulterated; impure"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To make something dangerous or toxic by introducing impurities or foreign matter.",
+      "(transitive) To soil, stain, corrupt, or infect by contact or association.",
+      "(transitive) To make unfit for use by the introduction of unwholesome or undesirable elements."
+     ]
+    }
+   ],
+   "zh_main": "污染",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "污染"
+     ]
+    }
+   ],
+   "synonyms": [
+    "dirty",
+    "impure",
+    "infected",
+    "polluted",
+    "septic"
+   ],
+   "sentence": "The largest tropical lake on Earth, Africa's Lake Victoria is under enormous strain, with its waters contaminated, fisheries decimated, and shorelines drowning."
+  },
+  {
+   "word": "fishery",
+   "form": "fisheries",
+   "ipa": "fˈɪʃɝi",
+   "freq": 2.737,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(uncountable) Fishing: the catching, processing and marketing of fish or other seafood.",
+      "(countable) A place related to fishing, particularly:",
+      "A place where fish or other seafood are caught: a fishing ground (for example, a territorial one)."
+     ]
+    }
+   ],
+   "zh_main": "漁業",
+   "zh": [],
+   "synonyms": [
+    "piscary"
+   ],
+   "sentence": "The largest tropical lake on Earth, Africa's Lake Victoria is under enormous strain, with its waters contaminated, fisheries decimated, and shorelines drowning."
+  },
+  {
+   "word": "shoreline",
+   "form": "shorelines",
+   "ipa": "ʃˈɔrɫaɪn",
+   "freq": 1.843,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The divide between land and a body of water.",
+      "The line on a map that illustrates this."
+     ]
+    }
+   ],
+   "zh_main": "海岸線",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "The largest tropical lake on Earth, Africa's Lake Victoria is under enormous strain, with its waters contaminated, fisheries decimated, and shorelines drowning."
+  },
+  {
+   "word": "spurred",
+   "form": "spurred",
+   "ipa": "spˈɝd",
+   "freq": 1.843,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Wearing spurs.",
+      "Furnished with a spur or spurs; having shoots like spurs.",
+      "Affected with spur, or ergot."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To prod (especially a horse) on the side or flank, with the intent to urge motion or haste, to gig.",
+      "(transitive) To urge or encourage to action, or to a more vigorous pursuit of an object",
+      "(intransitive) To press forward; to travel in great haste."
+     ]
+    }
+   ],
+   "zh_main": "刺激的",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "帶動"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "The losses have spurred renewed calls to protect the lake, which supports more than 45 million people across the region."
+  },
+  {
+   "word": "overfishing",
+   "form": "overfishing",
+   "ipa": "ˈoʊvɝfɪʃɪŋ",
+   "freq": 0.187,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Fishing that reduces the stock of remaining fish in an area to below that which is acceptable."
+     ]
+    }
+   ],
+   "zh_main": "過度捕撈",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Lake Victoria, the largest tropical lake on Earth, is under enormous strain as overfishing, pollution, and a changing climate are decimating its fisheries, contaminating its waters, and bringing record floods to its shores."
+  },
+  {
+   "word": "decimate",
+   "form": "decimating",
+   "ipa": "dˈɛsʌmeɪt",
+   "freq": 0.098,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(loosely) To devastate: to reduce or destroy significantly but not completely.",
+      "To destroy or remove one-tenth of (something).",
+      "(proscribed) To reduce to one-tenth: to destroy or remove nine-tenths of (something)."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A tithe or other 10% tax or payment.",
+      "A tenth of something.",
+      "A set of ten items."
+     ]
+    }
+   ],
+   "zh_main": "消滅",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "每十人殺一人"
+     ]
+    }
+   ],
+   "synonyms": [
+    "eradicate",
+    "eliminate",
+    "annihilate",
+    "extinguish"
+   ],
+   "sentence": "Lake Victoria, the largest tropical lake on Earth, is under enormous strain as overfishing, pollution, and a changing climate are decimating its fisheries, contaminating its waters, and bringing record floods to its shores."
+  },
+  {
+   "word": "contaminating",
+   "form": "contaminating",
+   "ipa": "kʌntˈæmʌneɪtɪŋ",
+   "freq": 0.681,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "that infects or taints",
+      "spreading pollution or contamination; especially radioactive contamination"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To make something dangerous or toxic by introducing impurities or foreign matter.",
+      "(transitive) To soil, stain, corrupt, or infect by contact or association.",
+      "(transitive) To make unfit for use by the introduction of unwholesome or undesirable elements."
+     ]
+    }
+   ],
+   "zh_main": "污染的",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "污染",
+      "污衊"
+     ]
+    }
+   ],
+   "synonyms": [
+    "dirty",
+    "corrupting",
+    "infectious"
+   ],
+   "sentence": "Lake Victoria, the largest tropical lake on Earth, is under enormous strain as overfishing, pollution, and a changing climate are decimating its fisheries, contaminating its waters, and bringing record floods to its shores."
+  }
+ ],
+ "built": "2026-11-20T11:50+08:00"
+}
