@@ -1,0 +1,178 @@
+{
+ "date": "2026-11-21",
+ "weekday": 5,
+ "weekday_zh": "六",
+ "cat": "culture",
+ "cat_zh": "文化／藝術",
+ "source": "The Guardian",
+ "title": "‘It’s peak Aussie – and it’s fantastic!’ How Australian TV conquered the world",
+ "url": "https://www.theguardian.com/tv-and-radio/2026/nov/20/how-australian-tv-took-over-the-world",
+ "summary": [
+  "From Colin from Accounts to a certain blue heeler dog, Australian TV has swept the globe – so much so that many kids have picked up the accent. Homegrown stars and creators explain how down under went overground",
+  "About four years ago, parents around the world began observing a strange phenomena in their children: Australian accents. Bluey – the charming cartoon about a dog and her family that is currently one of the most watched shows in the world – had children saying words such as “dunny” and “brekky” without thinking twice."
+ ],
+ "summary_zh": [
+  "從《Accounts》中的科林到一隻藍色高跟狗，澳洲電視風靡全球，以至於許多孩子都學會了澳洲的口音。本土明星和創作者解釋了地下是如何走向地下的",
+  "大約四年前，世界各地的父母開始在他們的孩子身上觀察到一種奇怪的現象：澳洲口音。 《Bluey》是一部關於一隻狗和她的家人的迷人卡通片，目前是世界上收視率最高的節目之一。孩子不假思索地說出「dunny」和「brekky」等字眼。"
+ ],
+ "words": [
+  {
+   "word": "heeler",
+   "form": "heeler",
+   "ipa": "hˈiɫɝ",
+   "freq": 0.033,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A dog that readily comes to heel.",
+      "(Australia) A dog used for cattle droving.",
+      "A quick runner."
+     ]
+    }
+   ],
+   "zh_main": "赫勒爾",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "From Colin from Accounts to a certain blue heeler dog, Australian TV has swept the globe – so much so that many kids have picked up the accent."
+  },
+  {
+   "word": "homegrown",
+   "form": "Homegrown",
+   "ipa": "hˈoʊmgrˈoʊn",
+   "freq": 0.238,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(of produce) Raised or cultivated at home, on one's own land, or in one's own country; domestic; indigenous.",
+      "(by extension) Produced or coming from one's own country or a particular place; local; native; self-produced."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Someone or something which originated locally.",
+      "(by extension, derogatory) A native citizen of a country, especially a criminal, who has an ethnic, cultural and/or religious background that is different from the country’s historical majority, and is therefore perceived as foreign despite formal citizenship."
+     ]
+    }
+   ],
+   "zh_main": "本土的",
+   "zh": [],
+   "synonyms": [
+    "local",
+    "native"
+   ],
+   "sentence": "Homegrown stars and creators explain how down under went overground"
+  },
+  {
+   "word": "overground",
+   "form": "overground",
+   "ipa": "oʊvɝgraʊnd",
+   "freq": 0.039,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Mainstream, not underground.",
+      "Above the ground."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(chiefly London) A commuter rail or similar rail transport system, or a train in such systems, generally running through an urban area largely above ground and faster than an underground or metro with fewer stops.",
+      "(rail transport) The London Overground, a counterpart of London Underground operated by TfL (Transport for London), which operates some of the various lines around London which are mainly above ground."
+     ]
+    }
+   ],
+   "zh_main": "地上",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Homegrown stars and creators explain how down under went overground"
+  },
+  {
+   "word": "bluey",
+   "form": "Bluey",
+   "ipa": "bɫˈui",
+   "freq": 0.046,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Having a colour similar to blue."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(Australia, slang) A nickname commonly given to a red-headed person.",
+      "(Australia) A blue cattle dog, especially a blue heeler.",
+      "(Australia) A bushman's blanket."
+     ]
+    }
+   ],
+   "zh_main": "布魯伊",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Bluey – the charming cartoon about a dog and her family that is currently one of the most watched shows in the world – had children saying words such as “dunny” and “brekky” without thinking twice."
+  },
+  {
+   "word": "dunny",
+   "form": "dunny",
+   "ipa": "dˈʌni",
+   "freq": 0.025,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(UK dialect, derogatory, euphemistic) Slow to answer: stupid, unintelligent.",
+      "Somewhat dun, dusky brownish.",
+      "(UK dialect) Somewhat deaf, hard of hearing."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(Australia and New Zealand slang, also dated Scotland and Northern England) An outhouse: an outbuilding used as a lavatory.",
+      "(Australia and New Zealand slang) Any other place or fixture used for urination and defecation: a latrine; a lavatory; a toilet.",
+      "(Scotland, Northern England, slang, dated) A passageway, particularly those connecting an outhouse to the main building."
+     ]
+    }
+   ],
+   "zh_main": "鄧尼",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Bluey – the charming cartoon about a dog and her family that is currently one of the most watched shows in the world – had children saying words such as “dunny” and “brekky” without thinking twice."
+  },
+  {
+   "word": "brekky",
+   "form": "brekky",
+   "ipa": "brˈɛki",
+   "freq": 0.001,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Alternative spelling of brekkie."
+     ]
+    }
+   ],
+   "zh_main": "早餐",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Bluey – the charming cartoon about a dog and her family that is currently one of the most watched shows in the world – had children saying words such as “dunny” and “brekky” without thinking twice."
+  }
+ ],
+ "built": "2026-11-21T11:43+08:00"
+}
