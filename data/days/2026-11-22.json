@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-22",
+ "weekday": 6,
+ "weekday_zh": "日",
+ "cat": "opinion",
+ "cat_zh": "評論",
+ "source": "The Guardian",
+ "title": "Why is Shabana Mahmood tackling ‘two-tier policing’ if she doesn’t believe it exists? | Gaby Hinsliff",
+ "url": "https://www.theguardian.com/commentisfree/2026/nov/21/shabana-mahmood-two-tier-policing-britain-public-myth",
+ "summary": [
+  "Is it the home secretary’s job to act tough addressing a rightwing myth or to face it down? She seems to have chosen the path of least resistance, says Guardian columnist Gaby Hinsliff",
+  "Ten years ago this month, Stephen Port was convicted of the murders of four young gay men lured to their deaths via the dating app Grindr.",
+  "But it took another five years for their families to learn through an inquest what some had long suspected: that the Metropolitan police’s failure to link the murders quickly enough may have contributed to the later deaths, raising difficult questions over whether that would have happened if the victims were straight. The year after that, officers at Charing Cross station were caught WhatsApping each other rape jokes and insults like “fuck you bender”, contributing to Louise Casey’s conclusion in a review not long afterwards that the force was both institutionally homophobic and misogynistic."
+ ],
+ "summary_zh": [
+  "內政大臣的職責是對右翼神話採取強硬態度還是予以回應？ 《衛報》專欄作家蓋比·欣斯利夫 (Gaby Hinsliff) 表示，她似乎選擇了阻力最小的道路",
+  "十年前的這個月，史蒂芬波特因謀殺四名年輕男同性戀者而被定罪，四名年輕男同性戀者透過約會應用程式 Grindr 被引誘致死。",
+  "但又過了五年，他們的家人才透過調查得知了一些人長期以來的懷疑：倫敦警察廳未能足夠快地將謀殺案聯繫起來，可能導致了後來的死亡，這引發了一個棘手的問題：如果受害者是異性戀，這種情況是否會發生。隔年，查令十字車站的警員被發現互相用 WhatsApp 開玩笑，並說出「操你這個混蛋」之類的侮辱性言論，這促使路易絲·凱西在不久後的一項審查中得出結論，認為該部隊在製度上既仇視同性戀，又厭惡女性。"
+ ],
+ "words": [
+  {
+   "word": "rightwing",
+   "form": "rightwing",
+   "ipa": "rˈaɪtwɪŋ",
+   "freq": 0.19,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Alternative spelling of right-wing. [(politics) Of political ideologies: typically supporting tradition, social order and property rights, especially conservative, traditionalist, and/or reactionary politics.]"
+     ]
+    }
+   ],
+   "zh_main": "右翼",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "右翼"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Is it the home secretary’s job to act tough addressing a rightwing myth or to face it down?"
+  },
+  {
+   "word": "inquest",
+   "form": "inquest",
+   "ipa": "ˈɪnkwɛst",
+   "freq": 0.712,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A formal investigation, often held before a jury, especially one into the cause of a death",
+      "An inquiry, typically into an undesired outcome",
+      "The jury hearing such an inquiry, and the result of the inquiry"
+     ]
+    }
+   ],
+   "zh_main": "審訊",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "But it took another five years for their families to learn through an inquest what some had long suspected: that the Metropolitan police’s failure to link the murders quickly enough may have contributed to the later deaths, raising difficult questions over whether that would have happened if the victims were straight."
+  },
+  {
+   "word": "institutionally",
+   "form": "institutionally",
+   "ipa": "ɪnstɪtˈuʃʌnʌɫi",
+   "freq": 0.593,
+   "meanings": [
+    {
+     "pos": "adv",
+     "pos_zh": "副詞",
+     "defs": [
+      "Throughout an institution.",
+      "In an institutional manner."
+     ]
+    }
+   ],
+   "zh_main": "制度上",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "The year after that, officers at Charing Cross station were caught WhatsApping each other rape jokes and insults like “fuck you bender”, contributing to Louise Casey’s conclusion in a review not long afterwards that the force was both institutionally homophobic and misogynistic."
+  },
+  {
+   "word": "homophobic",
+   "form": "homophobic",
+   "ipa": "hoʊmʌfˈoʊbɪk",
+   "freq": 0.321,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Exhibiting homophobia; characteristic of homophobes.",
+      "(LGBTQ slang, hyperbolic, humorous) Inconvenient, annoying, irritating.",
+      "(Internet slang, humorous) Having different colored eyes. Deliberate misspelling of heterochromic."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A homophobe."
+     ]
+    }
+   ],
+   "zh_main": "同性戀歧視",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "The year after that, officers at Charing Cross station were caught WhatsApping each other rape jokes and insults like “fuck you bender”, contributing to Louise Casey’s conclusion in a review not long afterwards that the force was both institutionally homophobic and misogynistic."
+  },
+  {
+   "word": "misogynistic",
+   "form": "misogynistic",
+   "ipa": "mˈɪzʌdʒɪnɪstɪk",
+   "freq": 0.112,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Of, relating to, or exhibiting misogyny."
+     ]
+    }
+   ],
+   "zh_main": "厭惡女性的",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "The year after that, officers at Charing Cross station were caught WhatsApping each other rape jokes and insults like “fuck you bender”, contributing to Louise Casey’s conclusion in a review not long afterwards that the force was both institutionally homophobic and misogynistic."
+  }
+ ],
+ "built": "2026-11-22T10:47+08:00"
+}
