@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-11-23",
+  "weekday_zh": "一",
+  "cat": "world",
+  "cat_zh": "政治／國際",
+  "source": "The Guardian",
+  "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+  "n_words": 3
+ },
+ {
   "date": "2026-11-22",
   "weekday_zh": "日",
   "cat": "opinion",

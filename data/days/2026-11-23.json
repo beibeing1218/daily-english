@@ -1,0 +1,111 @@
+{
+ "date": "2026-11-23",
+ "weekday": 0,
+ "weekday_zh": "一",
+ "cat": "world",
+ "cat_zh": "政治／國際",
+ "source": "The Guardian",
+ "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+ "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+ "summary": [
+  "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia",
+  "A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel.",
+  "The strike severely damaged the Merkury, a Russian navy corvette that had stopped to refuel and take on supplies, according to Libyan officials from the country’s eastern government."
+ ],
+ "summary_zh": [
+  "沒有人聲稱對這艘在返回俄羅斯途中停靠的船隻的襲擊負責",
+  "週日凌晨，一艘停靠在利比亞港口城市班加西的俄羅斯軍艦在疑似烏克蘭海上無人機襲擊中被擊中，導致夜間劇烈爆炸並導致船隻沉沒。",
+  "利比亞東部政府官員表示，這次襲擊嚴重損壞了俄羅斯海軍護衛艦「水星號」，該號當時已停下來加油和補給。"
+ ],
+ "words": [
+  {
+   "word": "warship",
+   "form": "warship",
+   "ipa": "wˈɔrʃɪp",
+   "freq": 0.765,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Any ship built or armed for naval combat.",
+      "(science fiction) A spacecraft built or armed for space warfare.",
+      "(British, rail transport) A British Rail Class 41 locomotive, dating from the late 1950s."
+     ]
+    }
+   ],
+   "zh_main": "軍艦",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "軍艦",
+      "兵船",
+      "兵艦",
+      "艦隻",
+      "艦艇"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel."
+  },
+  {
+   "word": "corvette",
+   "form": "corvette",
+   "ipa": "kɔrvˈɛt",
+   "freq": 0.455,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(nautical) In a modern navy, a lightly armed and armoured blue water warship, smaller than a frigate, capable of transoceanic duty.",
+      "(nautical, historical) A flush-decked warship of the 17th-18th centuries having a single tier of guns; it ranked next below a frigate; – called in the United States navy a sloop of war.",
+      "(science fiction, by extension) A starship of comparable role"
+     ]
+    }
+   ],
+   "zh_main": "克爾維特",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "The strike severely damaged the Merkury, a Russian navy corvette that had stopped to refuel and take on supplies, according to Libyan officials from the country’s eastern government."
+  },
+  {
+   "word": "refuel",
+   "form": "refuel",
+   "ipa": "rifjˈuʌɫ",
+   "freq": 0.196,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An act or instance of refilling with fuel."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(ambitransitive) To refill with fuel."
+     ]
+    }
+   ],
+   "zh_main": "加油",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "加油"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "The strike severely damaged the Merkury, a Russian navy corvette that had stopped to refuel and take on supplies, according to Libyan officials from the country’s eastern government."
+  }
+ ],
+ "built": "2026-11-23T11:29+08:00"
+}
