@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-11-24",
+  "weekday_zh": "二",
+  "cat": "business",
+  "cat_zh": "商業／經濟",
+  "source": "The Guardian",
+  "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+  "n_words": 8
+ },
+ {
   "date": "2026-11-23",
   "weekday_zh": "一",
   "cat": "world",

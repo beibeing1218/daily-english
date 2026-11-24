@@ -1,0 +1,263 @@
+{
+ "date": "2026-11-24",
+ "weekday": 1,
+ "weekday_zh": "二",
+ "cat": "business",
+ "cat_zh": "商業／經濟",
+ "source": "The Guardian",
+ "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+ "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+ "summary": [
+  "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board",
+  "Nvidia has reinstated Jensen Huang as chief executive after Donald Trump directly intervened with the US AI chipmaker’s board of directors, in a stunning reversal of the tech billionaire’s downfall.",
+  "Speaking on Monday shortly after Nvidia’s surprise announcement that Huang had been restored to the top job – less than two weeks after he resigned – Trump said that he had “convinced” the board to do it. “I made the deal,” he told CNBC. Huang had resigned after reports of extramarital affairs, including with an alleged Chinese spy and two Nvidia employees."
+ ],
+ "summary_zh": [
+  "在美國總統「說服」其董事會後，晶片製造商撤銷了罷免執行長的決定，股價飆升",
+  "在唐納德·川普直接幹預這家美國人工智慧晶片製造商的董事會後，英偉達恢復了黃仁勳的執行長職務，令人震驚地扭轉了這位科技億萬富翁的垮台。",
+  "週一，在英偉達出人意料地宣布黃仁勳重新擔任最高職位後不久（距離他辭職不到兩週），川普表示，他已經「說服」董事會這樣做了。 「我達成了這筆交易，」他告訴 CNBC。黃在被報道婚外情後辭職，其中包括與一名涉嫌中國間諜和兩名英偉達員工的婚外情。"
+ ],
+ "words": [
+  {
+   "word": "chipmaker",
+   "form": "chipmaker",
+   "ipa": "tʃˈɪpmeɪkɝ",
+   "freq": 0.003,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A company that manufactures integrated circuit microchips."
+     ]
+    }
+   ],
+   "zh_main": "晶片製造商",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board"
+  },
+  {
+   "word": "reinstate",
+   "form": "reinstated",
+   "ipa": "riɪnstˈeɪt",
+   "freq": 0.481,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To restore to a former position or rank.",
+      "(transitive) To bring back into use or existence; resurrect."
+     ]
+    }
+   ],
+   "zh_main": "恢復",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "恢復",
+      "复職"
+     ]
+    }
+   ],
+   "synonyms": [
+    "restore",
+    "reestablish"
+   ],
+   "sentence": "Nvidia has reinstated Jensen Huang as chief executive after Donald Trump directly intervened with the US AI chipmaker’s board of directors, in a stunning reversal of the tech billionaire’s downfall."
+  },
+  {
+   "word": "huang",
+   "form": "Huang",
+   "ipa": "hwˈæŋ",
+   "freq": 2.514,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A surname from Mandarin."
+     ]
+    }
+   ],
+   "zh_main": "黃",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Huang had resigned after reports of extramarital affairs, including with an alleged Chinese spy and two Nvidia employees."
+  },
+  {
+   "word": "intervene",
+   "form": "intervened",
+   "ipa": "ɪntɝvˈin",
+   "freq": 4.838,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To become involved in a situation, so as to alter or prevent an action. [with in]",
+      "(ambitransitive) To say (something) in the middle of a conversation or discussion between other people, or to respond to a situation involving other people.",
+      "(ambitransitive) To come between, or to be between, persons or things."
+     ]
+    }
+   ],
+   "zh_main": "幹預",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "參加訴訟",
+      "干涉",
+      "乾涉",
+      "干預",
+      "乾預"
+     ]
+    }
+   ],
+   "synonyms": [
+    "interpose",
+    "interfere"
+   ],
+   "sentence": "Nvidia has reinstated Jensen Huang as chief executive after Donald Trump directly intervened with the US AI chipmaker’s board of directors, in a stunning reversal of the tech billionaire’s downfall."
+  },
+  {
+   "word": "reversal",
+   "form": "reversal",
+   "ipa": "rɪvˈɝsʌɫ",
+   "freq": 6.42,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Intended to reverse; implying reversal."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A change in fortune; a change from being successful to having problems.",
+      "A change to an opposite direction.",
+      "An instance of reversing."
+     ]
+    }
+   ],
+   "zh_main": "逆轉",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "倒裝",
+      "翻轉"
+     ]
+    }
+   ],
+   "synonyms": [
+    "setback",
+    "reversion",
+    "reverse",
+    "volte-face",
+    "transposition"
+   ],
+   "sentence": "Nvidia has reinstated Jensen Huang as chief executive after Donald Trump directly intervened with the US AI chipmaker’s board of directors, in a stunning reversal of the tech billionaire’s downfall."
+  },
+  {
+   "word": "billionaire",
+   "form": "billionaire",
+   "ipa": "bɪɫjʌnˈɛr",
+   "freq": 0.196,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Somebody whose wealth is at least one billion (10⁹) currency units."
+     ]
+    }
+   ],
+   "zh_main": "億萬富翁",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Nvidia has reinstated Jensen Huang as chief executive after Donald Trump directly intervened with the US AI chipmaker’s board of directors, in a stunning reversal of the tech billionaire’s downfall."
+  },
+  {
+   "word": "downfall",
+   "form": "downfall",
+   "ipa": "dˈaʊnfɔɫ",
+   "freq": 2.05,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A precipitous decline in fortune; death or rapid deterioration, as in status or wealth.",
+      "The cause of such a fall; a critical blow or error.",
+      "An act of falling down."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To fall down; deteriorate; decline."
+     ]
+    }
+   ],
+   "zh_main": "倒台",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "倒台",
+      "落下"
+     ]
+    }
+   ],
+   "synonyms": [
+    "fall",
+    "precipitation"
+   ],
+   "sentence": "Nvidia has reinstated Jensen Huang as chief executive after Donald Trump directly intervened with the US AI chipmaker’s board of directors, in a stunning reversal of the tech billionaire’s downfall."
+  },
+  {
+   "word": "extramarital",
+   "form": "extramarital",
+   "ipa": "ɛkstrʌmˈɛrʌtʌɫ",
+   "freq": 0.547,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "(of a relationship or sex) Adulterous.",
+      "Occurring outside marriage."
+     ]
+    }
+   ],
+   "zh_main": "婚外",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "婚外"
+     ]
+    }
+   ],
+   "synonyms": [
+    "illicit",
+    "extracurricular",
+    "adulterous"
+   ],
+   "sentence": "Huang had resigned after reports of extramarital affairs, including with an alleged Chinese spy and two Nvidia employees."
+  }
+ ],
+ "built": "2026-11-24T14:42+08:00"
+}
