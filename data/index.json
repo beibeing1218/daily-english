@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-11-25",
+  "weekday_zh": "三",
+  "cat": "tech",
+  "cat_zh": "科技",
+  "source": "Ars Technica",
+  "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+  "n_words": 7
+ },
+ {
   "date": "2026-11-24",
   "weekday_zh": "二",
   "cat": "business",

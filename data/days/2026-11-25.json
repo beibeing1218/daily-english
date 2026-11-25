@@ -1,0 +1,217 @@
+{
+ "date": "2026-11-25",
+ "weekday": 2,
+ "weekday_zh": "三",
+ "cat": "tech",
+ "cat_zh": "科技",
+ "source": "Ars Technica",
+ "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+ "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+ "summary": [
+  "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+  "Two of NASA’s four missions operating at Mars have suspended science operations after encountering separate technical issues in recent weeks.",
+  "The missions affected by the outages—hopefully temporary—are NASA’s Perseverance rover and Odyssey orbiter. Both are operating beyond their original design lifetimes. Perseverance is in its sixth year exploring the surface of Mars, having collected rock and soil samples for eventual return to Earth. The rover is now studying the rim of a crater that once contained an ancient lake of liquid water. Odyssey arrived in orbit around Mars in 2001, and is the longest-lived Mars mission in history."
+ ],
+ "summary_zh": [
+  "毅力號在傳送訊號時遇到地球時遇到困難。奧德賽號正在迅速耗盡其日益減少的燃料供應。",
+  "美國太空總署在火星執行的四項任務中，有兩項在最近幾週遇到不同的技術問題後暫停了科學行動。",
+  "受停電影響的任務（希望是暫時的）是美國太空總署的毅力號火星車和奧德賽軌道器。兩者的運行時間都超出了最初的設計壽命。毅力號探索火星表面已進入第六年，收集了岩石和土壤樣本，以便最終返回地球。火星車現在正在研究一個火山口的邊緣，那裡曾經有一個古老的液態水湖。奧德賽號於 2001 年抵達火星軌道，是史上壽命最長的火星任務。"
+ ],
+ "words": [
+  {
+   "word": "perseverance",
+   "form": "Perseverance",
+   "ipa": "pɝsʌvˈɪrʌns",
+   "freq": 1.84,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "Continuing in a course of action without regard to discouragement, opposition or previous failure."
+     ]
+    }
+   ],
+   "zh_main": "毅力",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "毅力",
+      "恆心"
+     ]
+    }
+   ],
+   "synonyms": [
+    "persistence",
+    "perseveration"
+   ],
+   "sentence": "Perseverance is having trouble transmitting to Earth."
+  },
+  {
+   "word": "transmitting",
+   "form": "transmitting",
+   "ipa": "trænsmˈɪtɪŋ",
+   "freq": 2.956,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive, intransitive) To communicate (news or information, especially electronically).",
+      "(transitive) To send or convey from one person, place or thing to another.",
+      "(transitive) To spread or pass on (something such as a disease or a signal)."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A process of transmission."
+     ]
+    }
+   ],
+   "zh_main": "發射",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "轉的"
+     ]
+    }
+   ],
+   "synonyms": [
+    "transmission",
+    "transmittal"
+   ],
+   "sentence": "Perseverance is having trouble transmitting to Earth."
+  },
+  {
+   "word": "odyssey",
+   "form": "Odyssey",
+   "ipa": "ˈɑdʌsi",
+   "freq": 1.985,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An extended adventurous voyage, usually in search of home.",
+      "An intellectual or spiritual quest.",
+      "An epic poem, ascribed to Homer, that describes the journey of Odysseus after the fall of Troy."
+     ]
+    }
+   ],
+   "zh_main": "奧德賽",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Odyssey is rapidly burning through its waning fuel supply."
+  },
+  {
+   "word": "outage",
+   "form": "outages",
+   "ipa": "ˈaʊtʌdʒ",
+   "freq": 0.313,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A temporary suspension of operation, especially of electrical power supply.",
+      "The amount of something lost in storage or transportation."
+     ]
+    }
+   ],
+   "zh_main": "停電",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "The missions affected by the outages—hopefully temporary—are NASA’s Perseverance rover and Odyssey orbiter."
+  },
+  {
+   "word": "orbiter",
+   "form": "orbiter",
+   "ipa": "ˈɔrbʌtɝ",
+   "freq": 0.232,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An object that orbits another, especially a spacecraft that orbits a planet etc. without landing on it.",
+      "(slang, derogatory, seduction community) A person who constantly hangs around with someone they are attracted to, but too shy to talk to."
+     ]
+    }
+   ],
+   "zh_main": "軌道飛行器",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "The missions affected by the outages—hopefully temporary—are NASA’s Perseverance rover and Odyssey orbiter."
+  },
+  {
+   "word": "eventual",
+   "form": "eventual",
+   "ipa": "ʌvˈɛntʃuʌɫ",
+   "freq": 5.182,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Finally resulting or occurring (after a period of time); inevitable.",
+      "Pertaining to events; event-related, evential.",
+      "(proscribed, non-native speakers' English or European Union) Possible, potential."
+     ]
+    }
+   ],
+   "zh_main": "最終的",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Perseverance is in its sixth year exploring the surface of Mars, having collected rock and soil samples for eventual return to Earth."
+  },
+  {
+   "word": "crater",
+   "form": "crater",
+   "ipa": "krˈeɪtɝ",
+   "freq": 2.085,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(astronomy) A hemispherical pit created by the impact of a meteorite or other object.",
+      "(geology) The basin-like opening or mouth of a volcano, through which the chief eruption comes; similarly, the mouth of a geyser, about which a cone of silica is often built up.",
+      "The pit left by the explosion of a mine or bomb."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To form craters in a surface.",
+      "(figurative) To collapse catastrophically; to become devastated or completely destroyed.",
+      "(snowboarding) To crash or fall."
+     ]
+    }
+   ],
+   "zh_main": "火山口",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "彈坑",
+      "噴火口"
+     ]
+    }
+   ],
+   "synonyms": [
+    "vent",
+    "volcano"
+   ],
+   "sentence": "The rover is now studying the rim of a crater that once contained an ancient lake of liquid water."
+  }
+ ],
+ "built": "2026-11-25T13:12+08:00"
+}
