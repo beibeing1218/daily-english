@@ -1,14 +1,5 @@
 {
  "words": {
-  "maligned": "2026-09-26",
-  "galling": "2026-09-26",
-  "downside": "2026-09-26",
-  "scavenger": "2026-09-26",
-  "scrutiny": "2026-09-26",
-  "subtitled": "2026-09-26",
-  "nominee": "2026-09-26",
-  "oust": "2026-09-26",
-  "ingenue": "2026-09-26",
   "endurance": "2026-09-27",
   "resurfacing": "2026-09-27",
   "podcaster": "2026-09-27",
@@ -327,7 +318,9 @@
   "outage": "2026-11-25",
   "orbiter": "2026-11-25",
   "eventual": "2026-11-25",
-  "crater": "2026-11-25"
+  "crater": "2026-11-25",
+  "ukrainian": "2026-11-26",
+  "aftermath": "2026-11-26"
  },
  "urls": [
   "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
@@ -390,6 +383,7 @@
   "https://www.theguardian.com/commentisfree/2026/nov/21/shabana-mahmood-two-tier-policing-britain-public-myth",
   "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
   "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-  "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"
+  "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+  "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352"
  ]
 }

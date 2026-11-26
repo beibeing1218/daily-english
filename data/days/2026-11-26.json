@@ -1,0 +1,90 @@
+{
+ "date": "2026-11-26",
+ "weekday": 3,
+ "weekday_zh": "四",
+ "cat": "science",
+ "cat_zh": "科學／健康",
+ "source": "The Conversation",
+ "title": "Recent sinking of Russian vessels abroad shows the Russia-Ukraine war has officially gone global",
+ "url": "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352",
+ "summary": [
+  "For Ukraine to have any chance of winning the war against Russia, it must increase the pressure on Vladimir Putin’s government. Making Russian assets vulnerable globally is one way to do it.",
+  "Ukraine has been executing a series of successful strikes against Russian assets around the world. Ukrainian forces disabled a Russian cargo vessel off the coast of Finland, and sunk a Russian corvette, the Merkury, along with damaging another cargo vessel, in Libyan waters.",
+  "These attacks, in the aftermath of Ukraine’s severe damage to the Kerch Strait Bridge in Russian-occupied Crimea, have created hope among Ukraine’s allies."
+ ],
+ "summary_zh": [
+  "烏克蘭要有機會贏得對俄羅斯的戰爭，就必須加大對普丁政府的壓力。讓俄羅斯資產在全球範圍內變得脆弱是一種方法。",
+  "乌克兰一直在对俄罗斯在世界各地的资产进行一系列成功的打击。烏克蘭軍隊在芬蘭海岸附近擊沉了一艘俄羅斯貨船，並在利比亞水域擊沉了一艘俄羅斯護衛艦“水星號”，並損壞了另一艘貨船。",
+  "烏克蘭對俄羅斯佔領的克里米亞刻赤海峽大橋造成嚴重破壞後，這些攻擊給烏克蘭的盟友帶來了希望。"
+ ],
+ "words": [
+  {
+   "word": "ukrainian",
+   "form": "Ukrainian",
+   "ipa": "jukrˈeɪniʌn",
+   "freq": 3.285,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Relating to Ukraine or its people or language."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A citizen of Ukraine or a person of Ukrainian ethnicity.",
+      "The East Slavic language of Ukrainians, and the official language of Ukraine."
+     ]
+    }
+   ],
+   "zh_main": "烏克蘭",
+   "zh": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "terms": [
+      "烏克蘭"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Ukrainian forces disabled a Russian cargo vessel off the coast of Finland, and sunk a Russian corvette, the Merkury, along with damaging another cargo vessel, in Libyan waters."
+  },
+  {
+   "word": "aftermath",
+   "form": "aftermath",
+   "ipa": "ˈæftɝmæθ",
+   "freq": 3.702,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "That which happens after, that which follows, usually of strongly negative connotation in most contexts, implying a preceding catastrophe.",
+      "(obsolete, agriculture) A second mowing; the grass which grows after the first crop of hay in the same season; lattermath."
+     ]
+    }
+   ],
+   "zh_main": "後果",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "後果"
+     ]
+    }
+   ],
+   "synonyms": [
+    "consequence",
+    "wake",
+    "backwash"
+   ],
+   "sentence": "These attacks, in the aftermath of Ukraine’s severe damage to the Kerch Strait Bridge in Russian-occupied Crimea, have created hope among Ukraine’s allies."
+  }
+ ],
+ "built": "2026-11-26T12:40+08:00"
+}
