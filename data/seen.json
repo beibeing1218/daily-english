@@ -1,10 +1,5 @@
 {
  "words": {
-  "endurance": "2026-09-27",
-  "resurfacing": "2026-09-27",
-  "podcaster": "2026-09-27",
-  "nuance": "2026-09-27",
-  "wilfully": "2026-09-27",
   "goldmine": "2026-09-28",
   "venue": "2026-09-28",
   "grapple": "2026-09-28",
@@ -320,7 +315,14 @@
   "eventual": "2026-11-25",
   "crater": "2026-11-25",
   "ukrainian": "2026-11-26",
-  "aftermath": "2026-11-26"
+  "aftermath": "2026-11-26",
+  "worsening": "2026-11-27",
+  "buildout": "2026-11-27",
+  "intensifying": "2026-11-27",
+  "spur": "2026-11-27",
+  "ramp": "2026-11-27",
+  "particulate": "2026-11-27",
+  "contaminant": "2026-11-27"
  },
  "urls": [
   "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
@@ -384,6 +386,7 @@
   "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
   "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
   "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
-  "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352"
+  "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352",
+  "https://e360.yale.edu/digest/data-center-pollution-deaths"
  ]
 }

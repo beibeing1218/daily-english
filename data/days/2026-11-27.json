@@ -1,0 +1,228 @@
+{
+ "date": "2026-11-27",
+ "weekday": 4,
+ "weekday_zh": "五",
+ "cat": "environment",
+ "cat_zh": "環境／氣候",
+ "source": "Yale E360",
+ "title": "Pollution Driven by U.S. Data Centers Causing Hundreds of Early Deaths",
+ "url": "https://e360.yale.edu/digest/data-center-pollution-deaths",
+ "summary": [
+  "U.S. data centers are driving greater power demand, and with it, more pollution from coal and gas power plants. Researchers estimate that worsening pollution is leading to hundreds of early deaths.Read more on E360 →",
+  "The new modeling study finds that, in 2023, the added power demand from data centers led to an estimated 650 early deaths across the U.S. Given the rapid buildout of data centers, their impact would likely be even greater today, authors say.",
+  "The study further suggests that pollution is often intensifying far from where data centers are located. For instance, data centers in Virginia — which are connected to a large regional power grid — might spur power plants in the Midwest to ramp up. As their power output grows, so does particulate pollution, a contaminant linked to heart attacks, strokes, and lung disease."
+ ],
+ "summary_zh": [],
+ "words": [
+  {
+   "word": "worsening",
+   "form": "worsening",
+   "ipa": "wˈɝsʌnɪŋ",
+   "freq": 1.582,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To become worse; to get worse.",
+      "(transitive) To make worse; to impair.",
+      "(transitive, obsolete) To get the better of; to worst."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A worse situation; an aggravation or deterioration"
+     ]
+    }
+   ],
+   "zh_main": "",
+   "zh": [],
+   "synonyms": [
+    "deterioration"
+   ],
+   "sentence": "Researchers estimate that worsening pollution is leading to hundreds of early deaths.Read more on E360 →"
+  },
+  {
+   "word": "buildout",
+   "form": "buildout",
+   "ipa": "bˈɪɫdaʊt",
+   "freq": 0.009,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "The growth, development, or expansion of something.",
+      "The construction and implementation of a system."
+     ]
+    }
+   ],
+   "zh_main": "",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Given the rapid buildout of data centers, their impact would likely be even greater today, authors say."
+  },
+  {
+   "word": "intensifying",
+   "form": "intensifying",
+   "ipa": "ɪntˈɛnsʌfaɪɪŋ",
+   "freq": 0.913,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To become intense, or more intense; to act with increasing power or energy.",
+      "(transitive) To render more intense."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An intensification."
+     ]
+    }
+   ],
+   "zh_main": "",
+   "zh": [],
+   "synonyms": [
+    "exasperating",
+    "exacerbating",
+    "aggravating",
+    "augmentative",
+    "enhancive"
+   ],
+   "sentence": "The study further suggests that pollution is often intensifying far from where data centers are located."
+  },
+  {
+   "word": "spur",
+   "form": "spur",
+   "ipa": "spˈɝ",
+   "freq": 3.174,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(figurative) Anything that inspires or motivates, as a spur does a horse.",
+      "A rigid implement, often roughly y-shaped, that is fixed to one's heel for the purpose of prodding a horse. Often worn by, and emblematic of, the cowboy or the knight.",
+      "A jab given with the spurs."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To prod (especially a horse) on the side or flank, with the intent to urge motion or haste, to gig.",
+      "(transitive) To urge or encourage to action, or to a more vigorous pursuit of an object",
+      "(intransitive) To press forward; to travel in great haste."
+     ]
+    }
+   ],
+   "zh_main": "",
+   "zh": [],
+   "synonyms": [
+    "goad",
+    "prod",
+    "spine",
+    "goading",
+    "spurring"
+   ],
+   "sentence": "For instance, data centers in Virginia — which are connected to a large regional power grid — might spur power plants in the Midwest to ramp up."
+  },
+  {
+   "word": "ramp",
+   "form": "ramp",
+   "ipa": "rˈæmp",
+   "freq": 2.518,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An inclined surface that connects two levels; an incline.",
+      "An interchange, a road that connects a freeway to a surface street or another freeway.",
+      "A structure with an inclined surface made for stunts, as for jumping motorcycles or other vehicles."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To behave violently; to rage.",
+      "(slang, transitive) To swindle or rob violently.",
+      "(Australia, slang, transitive) To search a prisoner or a prisoner's cell."
+     ]
+    }
+   ],
+   "zh_main": "",
+   "zh": [],
+   "synonyms": [
+    "rage",
+    "storm",
+    "incline"
+   ],
+   "sentence": "For instance, data centers in Virginia — which are connected to a large regional power grid — might spur power plants in the Midwest to ramp up."
+  },
+  {
+   "word": "particulate",
+   "form": "particulate",
+   "ipa": "pɝtˈɪkjʌɫʌt",
+   "freq": 1.894,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Composed of separate particles.",
+      "(genetics) Pertaining to heritable characteristics which are attributable discretely to either one or another of an offspring's parents, rather than a blend of the two."
+     ]
+    },
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(chiefly in the plural) Any solid or liquid in a subdivided state, especially one that exhibits special characteristics which are negligible in the bulk material."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To reduce to particles, make particulate.",
+      "(ambitransitive, obsolete) Synonym of particularize."
+     ]
+    }
+   ],
+   "zh_main": "",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "As their power output grows, so does particulate pollution, a contaminant linked to heart attacks, strokes, and lung disease."
+  },
+  {
+   "word": "contaminant",
+   "form": "contaminant",
+   "ipa": "kʌntˈæmʌnʌnt",
+   "freq": 1.107,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "That which contaminates; an impurity; foreign matter."
+     ]
+    }
+   ],
+   "zh_main": "",
+   "zh": [],
+   "synonyms": [
+    "contamination"
+   ],
+   "sentence": "As their power output grows, so does particulate pollution, a contaminant linked to heart attacks, strokes, and lung disease."
+  }
+ ],
+ "built": "2026-11-27T12:44+08:00"
+}
