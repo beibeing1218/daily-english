@@ -1,11 +1,5 @@
 {
  "words": {
-  "goldmine": "2026-09-28",
-  "venue": "2026-09-28",
-  "grapple": "2026-09-28",
-  "amid": "2026-09-28",
-  "criminality": "2026-09-28",
-  "township": "2026-09-28",
   "obesity": "2026-09-30",
   "simulate": "2026-09-30",
   "glucagon": "2026-09-30",
@@ -322,7 +316,14 @@
   "spur": "2026-11-27",
   "ramp": "2026-11-27",
   "particulate": "2026-11-27",
-  "contaminant": "2026-11-27"
+  "contaminant": "2026-11-27",
+  "unleash": "2026-11-28",
+  "revel": "2026-11-28",
+  "corset": "2026-11-28",
+  "wriggle": "2026-11-28",
+  "breeches": "2026-11-28",
+  "retelling": "2026-11-28",
+  "glitzy": "2026-11-28"
  },
  "urls": [
   "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
@@ -387,6 +388,7 @@
   "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
   "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
   "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352",
-  "https://e360.yale.edu/digest/data-center-pollution-deaths"
+  "https://e360.yale.edu/digest/data-center-pollution-deaths",
+  "https://www.theguardian.com/tv-and-radio/2026/nov/27/tighten-your-corsets-pass-the-smelling-salts-its-the-greatest-period-dramas-ever-made"
  ]
 }

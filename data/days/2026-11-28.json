@@ -1,0 +1,273 @@
+{
+ "date": "2026-11-28",
+ "weekday": 5,
+ "weekday_zh": "六",
+ "cat": "culture",
+ "cat_zh": "文化／藝術",
+ "source": "The Guardian",
+ "title": "Tighten your corsets! Pass the smelling salts! It’s the greatest period dramas ever made",
+ "url": "https://www.theguardian.com/tv-and-radio/2026/nov/27/tighten-your-corsets-pass-the-smelling-salts-its-the-greatest-period-dramas-ever-made",
+ "summary": [
+  "As Dolly Alderton’s Pride and Prejudice unleashes a new Mr Darcy on the world, we revel in the best ever costume dramas, packed with dripping shirt scenes, A-listers before they were famous ... and even Monsieur Dildo",
+  "Lace up those corsets and wriggle into those breeches … it’s time for a huge new TV retelling of Pride and Prejudice. Jane Austen’s classic romance will come to life once more with writer Dolly Alderton’s glitzy Netflix version, starring Emma Corrin as Elizabeth Bennet and Jack Lowden as the self-proclaimed “first ginger Mr Darcy”."
+ ],
+ "summary_zh": [
+  "多莉·奧爾德頓的《傲慢與偏見》向世界展現了新的達西先生，我們陶醉在有史以來最好的古裝劇中，其中充滿了滴水的襯衫場景、成名前的一線明星……甚至還有假陽具先生",
+  "繫好緊身胸衣，穿上馬褲……是時候重演一部大型的新電視劇《傲慢與偏見》了。簡奧斯汀的經典愛情故事將在作家多莉·奧爾德頓 (Dolly Alderton) 的精彩 Netflix 版本中再次栩栩如生，艾瑪·科林 (Emma Corrin) 飾演伊麗莎白·班納特 (Elizabeth Bennet)，傑克·洛登 (Jack Lowden) 飾演自稱“第一紅發達西先生”。"
+ ],
+ "words": [
+  {
+   "word": "unleash",
+   "form": "unleashes",
+   "ipa": "ʌnɫˈiʃ",
+   "freq": 0.479,
+   "meanings": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(figurative) To let go; to release.",
+      "(figurative) To precipitate; to bring about.",
+      "(transitive) To free from a leash, or as from a leash."
+     ]
+    }
+   ],
+   "zh_main": "發揮",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "發揮",
+      "發動",
+      "放開"
+     ]
+    }
+   ],
+   "synonyms": [
+    "loose"
+   ],
+   "sentence": "As Dolly Alderton’s Pride and Prejudice unleashes a new Mr Darcy on the world, we revel in the best ever costume dramas, packed with dripping shirt scenes, A-listers before they were famous ... and even Monsieur Dildo"
+  },
+  {
+   "word": "revel",
+   "form": "revel",
+   "ipa": "rˈɛvʌɫ",
+   "freq": 0.765,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "An instance of merrymaking; a celebration.",
+      "A kind of dance.",
+      "A wake for the dead."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "To make merry; to have a happy, lively time.",
+      "To take delight (in something).",
+      "(obsolete) To draw back; to retract."
+     ]
+    }
+   ],
+   "zh_main": "陶醉",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "狂歡"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "陶醉",
+      "狂歡"
+     ]
+    }
+   ],
+   "synonyms": [
+    "delight",
+    "wallow",
+    "racket",
+    "rejoice",
+    "enjoy"
+   ],
+   "sentence": "As Dolly Alderton’s Pride and Prejudice unleashes a new Mr Darcy on the world, we revel in the best ever costume dramas, packed with dripping shirt scenes, A-listers before they were famous ... and even Monsieur Dildo"
+  },
+  {
+   "word": "corset",
+   "form": "corsets",
+   "ipa": "kˈɔrsʌt",
+   "freq": 0.432,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A woman's foundation garment, reinforced with stays, that supports the waistline, hips and bust.",
+      "(historical) A tight-fitting gown or basque worn by both men and women during the Middle Ages.",
+      "(UK, finance, historical) A regulation that limited the growth of British banks' interest-bearing deposits."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(transitive) To enclose in a corset; to wear a corset.",
+      "(figuratively) To restrict or confine."
+     ]
+    }
+   ],
+   "zh_main": "緊身胸衣",
+   "zh": [],
+   "synonyms": [
+    "girdle",
+    "stays"
+   ],
+   "sentence": "Lace up those corsets and wriggle into those breeches … it’s time for a huge new TV retelling of Pride and Prejudice."
+  },
+  {
+   "word": "wriggle",
+   "form": "wriggle",
+   "ipa": "rˈɪgʌɫ",
+   "freq": 0.291,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A wriggling movement."
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "defs": [
+      "(intransitive) To twist one's body to and fro with short, writhing motions; to squirm.",
+      "(transitive) To cause something to wriggle.",
+      "(intransitive) To use crooked or devious means."
+     ]
+    }
+   ],
+   "zh_main": "蠕動",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "蠢蠢",
+      "蠢然"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "蠢動",
+      "蠕動前進"
+     ]
+    }
+   ],
+   "synonyms": [
+    "twist",
+    "writhe",
+    "wrestle",
+    "squirm",
+    "wiggle"
+   ],
+   "sentence": "Lace up those corsets and wriggle into those breeches … it’s time for a huge new TV retelling of Pride and Prejudice."
+  },
+  {
+   "word": "breeches",
+   "form": "breeches",
+   "ipa": "brˈitʃɪz",
+   "freq": 1.091,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "(informal) Trousers; pantaloons.",
+      "(historical) A garment worn by men, covering the hips and thighs; smallclothes."
+     ]
+    }
+   ],
+   "zh_main": "馬褲",
+   "zh": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "terms": [
+      "臀部"
+     ]
+    },
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "使穿短褲"
+     ]
+    }
+   ],
+   "synonyms": [
+    "knickers",
+    "knickerbockers"
+   ],
+   "sentence": "Lace up those corsets and wriggle into those breeches … it’s time for a huge new TV retelling of Pride and Prejudice."
+  },
+  {
+   "word": "retelling",
+   "form": "retelling",
+   "ipa": "ritˈɛɫɪŋ",
+   "freq": 0.623,
+   "meanings": [
+    {
+     "pos": "n",
+     "pos_zh": "名詞",
+     "defs": [
+      "A new, changed, or adapted version of a story."
+     ]
+    }
+   ],
+   "zh_main": "複述",
+   "zh": [
+    {
+     "pos": "v",
+     "pos_zh": "動詞",
+     "terms": [
+      "复述"
+     ]
+    }
+   ],
+   "synonyms": [],
+   "sentence": "Lace up those corsets and wriggle into those breeches … it’s time for a huge new TV retelling of Pride and Prejudice."
+  },
+  {
+   "word": "glitzy",
+   "form": "glitzy",
+   "ipa": "gɫˈɪtsi",
+   "freq": 0.077,
+   "meanings": [
+    {
+     "pos": "adj",
+     "pos_zh": "形容詞",
+     "defs": [
+      "Brilliantly showy."
+     ]
+    }
+   ],
+   "zh_main": "耀眼的",
+   "zh": [],
+   "synonyms": [],
+   "sentence": "Jane Austen’s classic romance will come to life once more with writer Dolly Alderton’s glitzy Netflix version, starring Emma Corrin as Elizabeth Bennet and Jack Lowden as the self-proclaimed “first ginger Mr Darcy”."
+  }
+ ],
+ "built": "2026-11-28T12:28+08:00"
+}
